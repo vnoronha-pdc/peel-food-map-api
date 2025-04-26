@@ -3336,6 +3336,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.721213,
+          43.660834
+        ]
+      },
+      "properties": {
+        "id": 69807310,
+        "CurrentId": 69807310,
+        "ParentId": 69807307,
+        "PublicName": "Ontario Health atHome, Brampton office - Ontario Health atHome, Brampton",
+        "Score": 105,
+        "ServiceArea": [
+          "Etobicoke",
+          "Woodbridge",
+          "Dufferin County",
+          "Peel Region"
+        ],
+        "Distance": 14,
+        "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online accessto health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients.</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
+        "Latitude": 43.660834,
+        "Longitude": -79.721213,
+        "PhysicalAddressStreet1": "199 County Court Blvd",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Brampton",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L6W 4P3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "199 County Court Blvd",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Brampton",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L6W 4P3",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-796-0040",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          },
+          {
+            "Phone": "1-888-733-1177",
+            "Name": "Toll Free",
+            "Description": "",
+            "Type": "Toll Free"
+          },
+          {
+            "Phone": "1-866-465-9662",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          },
+          {
+            "Phone": "7-1-1 ",
+            "Name": "TTY",
+            "Description": "ask for 1-888-733-1177",
+            "Type": "TTY"
+          }
+        ],
+        "Website": "https://ontariohealthathome.ca",
+        "Email": "moreinfo@ontariohealthathome.ca",
+        "Hours": "Mon-Sun 8 am-8 pm",
+        "Hours2": "Mon 0800 - 2000; Tue 0800 - 2000; Wed 0800 - 2000; Thu 0800 - 2000; Fri 0800 - 2000; Sat 0800 - 2000; Sun 0800 - 2000; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2025-04-24 15:25:50",
+        "TaxonomyTerms": "Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Older Adults; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * People With Disabilities; Health Care - Health Screening/Diagnostic Services - Activities of Daily Living Assessment; Health Care - Health Supportive Services - Health Care Referrals - Nursing Facility Referrals; Health Care - Health Supportive Services - Long Term Care Coordination Centres; Health Care - Health Supportive Services - Long Term Care Options Counselling; Health Care - Rehabilitation/Habilitation Services - Speech and Hearing - Speech and Language Pathology; Health Care - Specialized Treatment and Prevention - Home Health Care; Health Care - Specialized Treatment and Prevention - Home Health Care * Youth; Health Care - Specialized Treatment and Prevention - Palliative Care; Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Individual and Family Support Services - Respite Care - Out of Home Respite Care - Adult Out of Home Respite Care; Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Planning/Coordinating/Advisory Groups * Health Issues; Organizational/Community/International Services - Information Services - Information and Referral - Comprehensive Information and Referral",
+        "TaxonomyCodes": "BH-3900.3100 * YB-8000; BH-3900.3100 * YJ-8750; LF-0100; LH-2600.6000; LH-4500; LH-4600; LR-8000.8000; LT-2800; LT-2800 * YB-9500; LT-6650; PH-0500; PH-2400.0500; PH-2400.3300; PH-3300.6500; PH-7000.6000-060; TD-6500 * YZ-3050; TJ-3000.1500",
+        "LastVerifiedByPhoneNumber": "705-796-0040 ext 7264",
+        "FeeStructureSource": "Services covered by OHIP",
+        "Eligibility": "No restrictions",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online accessto health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients.</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
+        "ParentAgency": "Ontario Health atHome, Brampton office",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Education Program (Communal Cooking)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.6535,
           43.711037
         ]
@@ -5134,8 +5217,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2025-01-27 14:21:46",
-        "TaxonomyTerms": "Basic Needs - Food - Meals - Senior Meals; Basic Needs - Food - Meals - Home Delivered Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults",
-        "TaxonomyCodes": "BD-5000.1500; BD-5000.3500; BH-8400.6000-060; PH-1000 * YB-8000; PH-1800.3350; PH-3300.3000; PH-3300.6500; PL-6600 * YB-8000",
+        "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Basic Needs - Food - Meals - Senior Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults",
+        "TaxonomyCodes": "BD-5000.3500; BD-5000.1500; BH-8400.6000-060; PH-1000 * YB-8000; PH-1800.3350; PH-3300.3000; PH-3300.6500; PL-6600 * YB-8000",
         "LastVerifiedByPhoneNumber": "",
         "FeeStructureSource": "None",
         "Eligibility": "Older adults 65 years and older; adults with disabilities are eligible for some programs",
