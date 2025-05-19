@@ -2295,6 +2295,83 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.7193,
+          43.5843
+        ]
+      },
+      "properties": {
+        "id": 86818013,
+        "CurrentId": 94446172,
+        "ParentId": 86818008,
+        "PublicName": "Victorian Order of Nurses - Community Support Services",
+        "Score": 190,
+        "ServiceArea": [
+          "Milton",
+          "Mississauga",
+          "Oakville",
+          "Etobicoke South"
+        ],
+        "Distance": 21,
+        "Description": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
+        "Latitude": 43.5843,
+        "Longitude": -79.7193,
+        "PhysicalAddressStreet1": "78 William St",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5M 1J3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "",
+        "MailingAddressProvince": "",
+        "MailingAddressPostalCode": "",
+        "MailingAddressCountry": "",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-821-3254",
+            "Name": "Business Line",
+            "Description": "",
+            "Type": "Business Line"
+          },
+          {
+            "Phone": "1-855-285-2991",
+            "Name": "Toll Free",
+            "Description": "",
+            "Type": "Toll Free"
+          },
+          {
+            "Phone": "905-821-8256 or 1-866-226-8005",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "von.ca/en/services-programs",
+        "Email": "clientrelations@von.ca",
+        "Hours": "<p>Hours vary per program and service<br>Administration: Mon-Fri 8:30am-4:30pm</p>",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": null,
+        "TaxonomyTerms": "Basic Needs - Food - Meals - Community Meals; Basic Needs - Food - Meals - Senior Meals; Basic Needs - Food - Meals - Home Delivered Meals; Health Care - Rehabilitation/Habilitation Services - Therapeutic Exercise; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care",
+        "TaxonomyCodes": "BD-5000.1470; BD-5000.1500; BD-5000.3500; LR-8400; PH-3300.3000; PH-3300.6500",
+        "LastVerifiedByPhoneNumber": "905-821-3254",
+        "FeeStructureSource": "Varies per program",
+        "Eligibility": "Older adults and people with disabilities, who need physical, social, or emotional supports<br /><br />Residency Requirements: Mississauga, South Etobicoke, Oakville, Milton",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
+        "ParentAgency": "Victorian Order of Nurses",
+        "RecordOwner": "Halton Information Providers",
+        "FoodProgram": "Community Meal Program"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.595224,
           43.617757
         ]
@@ -3796,78 +3873,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.7193,
-          43.5843
-        ]
-      },
-      "properties": {
-        "id": 86818013,
-        "CurrentId": 94267936,
-        "ParentId": 86818008,
-        "PublicName": "Victorian Order of Nurses - Community Support Services",
-        "Score": 105,
-        "ServiceArea": [],
-        "Distance": 21,
-        "Description": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
-        "Latitude": 43.5843,
-        "Longitude": -79.7193,
-        "PhysicalAddressStreet1": "78 William St",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5M 1J3",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "",
-        "MailingAddressProvince": "",
-        "MailingAddressPostalCode": "",
-        "MailingAddressCountry": "",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-821-3254",
-            "Name": "Business Line",
-            "Description": "",
-            "Type": "Business Line"
-          },
-          {
-            "Phone": "1-855-285-2991",
-            "Name": "Toll Free",
-            "Description": "",
-            "Type": "Toll Free"
-          },
-          {
-            "Phone": "905-821-8256 or 1-866-226-8005",
-            "Name": "Fax",
-            "Description": "",
-            "Type": "Fax"
-          }
-        ],
-        "Website": "von.ca/en/services-programs",
-        "Email": "clientrelations@von.ca",
-        "Hours": "<p>Hours vary per program and service<br>Administration: Mon-Fri 8:30am-4:30pm</p>",
-        "Hours2": "",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": null,
-        "TaxonomyTerms": "",
-        "TaxonomyCodes": "",
-        "LastVerifiedByPhoneNumber": "905-821-3254",
-        "FeeStructureSource": "Varies per program",
-        "Eligibility": "Older adults and people with disabilities, who need physical, social, or emotional supports<br /><br />Residency Requirements: Mississauga, South Etobicoke, Oakville, Milton",
-        "AgencyClassification": "",
-        "AgencyDescription": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
-        "ParentAgency": "Victorian Order of Nurses",
-        "RecordOwner": "Halton Information Providers",
-        "FoodProgram": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.603031,
           43.621285
         ]
@@ -4949,8 +4954,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2025-01-13 09:30:01",
-        "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Basic Needs - Food - Food Outlets - Grocery Delivery; Health Care - Health Supportive Services - Health Education - Wellness Programs * Older Adults; Individual and Family Life - Individual and Family Support Services - Companionship - Friendly Outreach Programs; Individual and Family Life - Individual and Family Support Services - Emergency Alert - Locator Aids * Dementia; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Errand Running/Shopping Assistance; Individual and Family Life - Volunteer Opportunities",
-        "TaxonomyCodes": "BD-5000.3500; BD-2400.2590; LH-2700.9500 * YB-8000; PH-1400.1900; PH-1800.4600 * YF-3000.2380; PH-3300.1800; PX",
+        "TaxonomyTerms": "Basic Needs - Food - Food Outlets - Grocery Delivery; Basic Needs - Food - Meals - Home Delivered Meals; Health Care - Health Supportive Services - Health Education - Wellness Programs * Older Adults; Individual and Family Life - Individual and Family Support Services - Companionship - Friendly Outreach Programs; Individual and Family Life - Individual and Family Support Services - Emergency Alert - Locator Aids * Dementia; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Errand Running/Shopping Assistance; Individual and Family Life - Volunteer Opportunities",
+        "TaxonomyCodes": "BD-2400.2590; BD-5000.3500; LH-2700.9500 * YB-8000; PH-1400.1900; PH-1800.4600 * YF-3000.2380; PH-3300.1800; PX",
         "LastVerifiedByPhoneNumber": "905-857-7651",
         "FeeStructureSource": "Fee and subsidy available for the Hot Meals program, no fee for other community programs",
         "Eligibility": "Meals on Wheels -- individuals who require temporary or long-term support accessing nutritious meals, including seniors, persons living with a disability or chronic illness and/or persons recovering from surgery\r\n<br />\r\nSeniors Social and Wellness Programs -- seniors 55 years and older\r\n<br />\r\nFriendly Visiting -- seniors 65 years and older\r\n<br />\r\nProject Lifesaver -- individuals prone to wandering due to cognitive impairment",
@@ -5090,6 +5095,82 @@
         "ParentAgency": "Smart Serve Ontario",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7193,
+          43.5843
+        ]
+      },
+      "properties": {
+        "id": 86818011,
+        "CurrentId": 94446170,
+        "ParentId": 86818008,
+        "PublicName": "Victorian Order of Nurses - Meals On Wheels",
+        "Score": 80,
+        "ServiceArea": [
+          "Mississauga",
+          "Oakville",
+          "Etobicoke South"
+        ],
+        "Distance": 21,
+        "Description": "<p>Community service that offers affordable, nutritious hot meals by volunteers * frozen meals are also available to choose from * delivers 5 days a week, Mon-Fri (except statutory holidays) * meals are prepared in government-inspected kitchens by volunteers or under contract between VON and commercial or institutional kitchens * meals can be adapted to the unique dietary needs of each client * volunteer opportunities available</p>",
+        "Latitude": 43.5843,
+        "Longitude": -79.7193,
+        "PhysicalAddressStreet1": "78 William St",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5M 1J3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "",
+        "MailingAddressProvince": "",
+        "MailingAddressPostalCode": "",
+        "MailingAddressCountry": "",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-821-3254 ext 2",
+            "Name": "Business Line",
+            "Description": "",
+            "Type": "Business Line"
+          },
+          {
+            "Phone": "1-855-285-2991",
+            "Name": "Toll Free",
+            "Description": "",
+            "Type": "Toll Free"
+          },
+          {
+            "Phone": "905-821-8256 or 1-866-226-8005",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "von.ca/en/von-care/Meals-on-Wheels-Hot",
+        "Email": "peelMOW@von.ca",
+        "Hours": "",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": null,
+        "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Individual and Family Life - Volunteer Opportunities",
+        "TaxonomyCodes": "BD-5000.3500; PX",
+        "LastVerifiedByPhoneNumber": "905-821-3254 ext 4214",
+        "FeeStructureSource": "Set fee",
+        "Eligibility": "Older adults, adults with disabilities or those recovering from illness or surgery<br /><br />Residency Requirements: Mississauga (excluding Malton), Oakville, and Toronto (Etobicoke South)",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Community service that offers affordable, nutritious hot meals by volunteers * frozen meals are also available to choose from * delivers 5 days a week, Mon-Fri (except statutory holidays) * meals are prepared in government-inspected kitchens by volunteers or under contract between VON and commercial or institutional kitchens * meals can be adapted to the unique dietary needs of each client * volunteer opportunities available</p>",
+        "ParentAgency": "Victorian Order of Nurses",
+        "RecordOwner": "Halton Information Providers",
+        "FoodProgram": "Food Delivery Program"
       }
     },
     {
