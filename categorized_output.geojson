@@ -286,8 +286,8 @@
         "PublicName": "Muslim Welfare Canada - Mississauga Halal Food and Essential Items Bank",
         "Score": 490,
         "ServiceArea": [
-          "Scarborough",
-          "Mississauga"
+          "Mississauga",
+          "Scarborough"
         ],
         "Distance": 25,
         "Description": "Halal food bank<ul>\t<li>clothing and household items</li></ul>",
@@ -3415,10 +3415,10 @@
         "PublicName": "Ontario Health atHome, Brampton office - Ontario Health atHome, Brampton",
         "Score": 105,
         "ServiceArea": [
+          "Etobicoke",
           "Woodbridge",
           "Dufferin County",
-          "Peel Region",
-          "Etobicoke"
+          "Peel Region"
         ],
         "Distance": 14,
         "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
@@ -5223,8 +5223,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2025-01-27 14:21:46",
-        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Basic Needs - Food - Meals - Senior Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults; Basic Needs - Food - Meals - Home Delivered Meals",
-        "TaxonomyCodes": "PH-1000 * YB-8000; BD-5000.1500; BH-8400.6000-060; PH-3300.3000; PH-1800.3350; PH-3300.6500; PL-6600 * YB-8000; BD-5000.3500",
+        "TaxonomyTerms": "Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Basic Needs - Food - Meals - Senior Meals; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Basic Needs - Food - Meals - Home Delivered Meals",
+        "TaxonomyCodes": "PL-6600 * YB-8000; PH-3300.6500; PH-1800.3350; PH-3300.3000; BH-8400.6000-060; BD-5000.1500; PH-1000 * YB-8000; BD-5000.3500",
         "LastVerifiedByPhoneNumber": "",
         "FeeStructureSource": "None",
         "Eligibility": "Older adults 65 years and older; adults with disabilities are eligible for some programs",
