@@ -4789,13 +4789,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
@@ -5223,8 +5223,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2025-01-27 14:21:46",
-        "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Basic Needs - Food - Meals - Senior Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults",
-        "TaxonomyCodes": "BD-5000.3500; BD-5000.1500; BH-8400.6000-060; PH-1000 * YB-8000; PH-1800.3350; PH-3300.3000; PH-3300.6500; PL-6600 * YB-8000",
+        "TaxonomyTerms": "Basic Needs - Food - Meals - Senior Meals; Basic Needs - Food - Meals - Home Delivered Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults",
+        "TaxonomyCodes": "BD-5000.1500; BD-5000.3500; BH-8400.6000-060; PH-1000 * YB-8000; PH-1800.3350; PH-3300.3000; PH-3300.6500; PL-6600 * YB-8000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Older adults 65 years and older; adults with disabilities are eligible for some programs",
