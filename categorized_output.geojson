@@ -3475,7 +3475,7 @@
         "Hours2": "Mon 0800 - 2000; Tue 0800 - 2000; Wed 0800 - 2000; Thu 0800 - 2000; Fri 0800 - 2000; Sat 0800 - 2000; Sun 0800 - 2000; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-06-13 11:18:01",
+        "UpdatedOn": "2025-06-17 13:19:06",
         "TaxonomyTerms": "Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Planning/Coordinating/Advisory Groups * Health Issues; Organizational/Community/International Services - Information Services - Information and Referral - Comprehensive Information and Referral; Health Care - Health Supportive Services - Long Term Care Coordination Centres; Health Care - Health Supportive Services - Long Term Care Options Counselling; Health Care - Health Screening/Diagnostic Services - Activities of Daily Living Assessment; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Individual and Family Life - Individual and Family Support Services - Respite Care - Out of Home Respite Care - Adult Out of Home Respite Care; Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities; Health Care - Specialized Treatment and Prevention - Home Health Care * Youth; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Older Adults; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * People With Disabilities; Health Care - Health Supportive Services - Health Care Referrals - Nursing Facility Referrals; Health Care - Specialized Treatment and Prevention - Palliative Care; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Health Care - Rehabilitation/Habilitation Services - Speech and Hearing - Speech and Language Pathology",
         "TaxonomyCodes": "TD-6500 * YZ-3050; TJ-3000.1500; LH-4500; LH-4600; LF-0100; PH-2400.0500; LT-2800; PH-2400.3300; PH-7000.6000-060; PH-0500; LT-2800 * YB-9500; BH-3900.3100 * YB-8000; BH-3900.3100 * YJ-8750; LH-2600.6000; LT-6650; PH-3300.6500; LR-8000.8000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -3690,7 +3690,7 @@
         "Hours2": "Mon 0830 - 1630; Tue 0830 - 1630; Wed 0830 - 1630; Thu 0830 - 1630; Fri 0830 - 1630; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-04-22 14:02:44",
+        "UpdatedOn": "2025-06-17 13:22:17",
         "TaxonomyTerms": "Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Charities/Grantmaking Organizations - Public Charities - Voluntary Health Organizations * Celiac Disease; Health Care - Health Supportive Services - Health Education - Disease/Disability Information * Celiac Disease",
         "TaxonomyCodes": "TD-1200.6600-900 * YF-3000.1580; LH-2700.1700 * YF-3000.1580",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -4795,13 +4795,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
