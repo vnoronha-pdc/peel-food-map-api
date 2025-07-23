@@ -6,6 +6,71 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.634366,
+          43.6273853
+        ]
+      },
+      "properties": {
+        "id": 95081390,
+        "CurrentId": 95081390,
+        "ParentId": 95081217,
+        "PublicName": "SacredHand Canada - Food Programs",
+        "Score": 495,
+        "ServiceArea": [
+          "Greater Toronto Area",
+          "Peel Region",
+          "York Region",
+          "Durham Region"
+        ],
+        "Distance": 21,
+        "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
+        "Latitude": 43.6273853,
+        "Longitude": -79.634366,
+        "PhysicalAddressStreet1": "5004 Timberlea Blvd",
+        "PhysicalAddressStreet2": "Units 26-29",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L4W 2S6",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "5004 Timberlea Blvd",
+        "MailingAddressStreet2": "Units 26-29",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L4W 2S6",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-624-0333",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://sacredhandcanada.com/",
+        "Email": "info@sacredhandcanada.com",
+        "Hours": "Food Bank Mon-Fri 11 am-3:30 pm, Sat 11 am-1 pm; Office Mon-Fri 10 am-5 pm, Sat 10 am-4 pm",
+        "Hours2": "Mon 1100 - 1530; Tue 1100 - 1530; Wed 1100 - 1530; Thu 1100 - 1530; Fri 1100 - 1530; Sat 1100 - 1300; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2025-07-21 16:46:10",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Banks; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Ramadan Programs; Basic Needs - Food - Meals - Community Meals",
+        "TaxonomyCodes": "BD-1800.2000; PH-2950.7000; BD-5000.1470",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Individuals and families facing food insecurity; food bank eligibility determined by required documentation\r\n\r\nHot Meals Program - no restrictions ",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
+        "ParentAgency": "SacredHand Canada",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.61168,
           43.63803
         ]
