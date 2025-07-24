@@ -20,7 +20,7 @@
           "Greater Toronto Area",
           "Peel Region",
           "York Region",
-          "Durham Region"
+          "Halton Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -53,7 +53,7 @@
         "Hours2": "Mon 1100 - 1530; Tue 1100 - 1530; Wed 1100 - 1530; Thu 1100 - 1530; Fri 1100 - 1530; Sat 1100 - 1300; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-07-21 16:46:10",
+        "UpdatedOn": "2025-07-22 11:25:36",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Banks; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Ramadan Programs; Basic Needs - Food - Meals - Community Meals",
         "TaxonomyCodes": "BD-1800.2000; PH-2950.7000; BD-5000.1470",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -351,8 +351,8 @@
         "PublicName": "Muslim Welfare Canada - Mississauga Halal Food and Essential Items Bank",
         "Score": 490,
         "ServiceArea": [
-          "Mississauga",
-          "Scarborough"
+          "Scarborough",
+          "Mississauga"
         ],
         "Distance": 25,
         "Description": "Halal food bank<ul>\t<li>clothing and household items</li></ul>",
@@ -3549,10 +3549,10 @@
         "PublicName": "Ontario Health atHome, Brampton office - Ontario Health atHome, Brampton",
         "Score": 105,
         "ServiceArea": [
-          "Etobicoke",
           "Woodbridge",
           "Dufferin County",
-          "Peel Region"
+          "Peel Region",
+          "Etobicoke"
         ],
         "Distance": 14,
         "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
@@ -4991,13 +4991,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
