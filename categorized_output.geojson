@@ -578,8 +578,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2025-02-06 11:22:07",
-        "TaxonomyTerms": "Basic Needs - Food - Food Outlets - Grocery Delivery; Basic Needs - Food - Emergency Food - Food Banks",
-        "TaxonomyCodes": "BD-2400.2590; BD-1800.2000",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Banks; Basic Needs - Food - Food Outlets - Grocery Delivery",
+        "TaxonomyCodes": "BD-1800.2000; BD-2400.2590",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Residents living within catchment area<ul>\r\n<li>one visit per month will provide 7-10 days worth of food</ul>\r\n<br />\r\nResidency Requirements: Postal codes beginning with L4T, L4V, L5P, L5S, L5T",
@@ -714,8 +714,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2025-04-25 13:12:01",
-        "TaxonomyTerms": "Basic Needs - Food - Food Outlets - Grocery Delivery; Basic Needs - Food - Emergency Food - Food Banks",
-        "TaxonomyCodes": "BD-2400.2590; BD-1800.2000",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Banks; Basic Needs - Food - Food Outlets - Grocery Delivery",
+        "TaxonomyCodes": "BD-1800.2000; BD-2400.2590",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Residents living within catchment area, one visit per month will provide 7-10 days worth of food\r\n<br />\r\nResidency Requirements: Postal codes beginning with L5B, L5C",
@@ -3182,6 +3182,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.712073,
+          43.728069
+        ]
+      },
+      "properties": {
+        "id": 69807338,
+        "CurrentId": 69807338,
+        "ParentId": 69807335,
+        "PublicName": "Bramalea Community Health Centre - Community Health Centre",
+        "Score": 105,
+        "ServiceArea": [
+          "Brampton",
+          "Mississauga"
+        ],
+        "Distance": 9,
+        "Description": "<p>Primary health care and wellness services<br /></p><ul>\t<li>primary health care</li><li>foot care and chiropody, physiotherapy for registered clients</li>\t<li>prenatal education and care including midwifery; breastfeeding support</li>\t<li>workshops on wellness and disease prevention</li>\t<li>counselling for registered clients on mental health conditions, relationship issues, substance use, depression, grief and trauma and other challenges</li>\t<li>sexual health testing, counselling and treatment of sexually transmitted infections (STIs)</li>\t<li>diabetes education </li><li>food support for clients</li>\t<li>camp for children and youth 8-16 years</li></ul><p>Needle exchange and harm reduction supplies for anyone in Peel needing these services, call 647-531-8552</p>",
+        "Latitude": 43.728069,
+        "Longitude": -79.712073,
+        "PhysicalAddressStreet1": "40 Finchgate Blvd",
+        "PhysicalAddressStreet2": "Suite 224",
+        "PhysicalAddressCity": "Brampton",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L6T 3J1",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "40 Finchgate Blvd",
+        "MailingAddressStreet2": "Suite 224",
+        "MailingAddressCity": "Brampton",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L6T 3J1",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-451-6959",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://www.wellfort.ca",
+        "Email": "info@wellfort.ca",
+        "Hours": "Mon, Wed 8 am-8 pm; Tue 1 pm-8 pm; Thu-Fri 8 am-4 pm; Sat 8 am-12 noon\r\n\r\n",
+        "Hours2": "Mon 0800 - 2000; Tue 1300 - 2000; Wed 0800 - 2000; Thu 0800 - 1600; Fri 0800 - 1600; Sat 0800 - 1200; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2025-08-06 07:46:50",
+        "TaxonomyTerms": "Health Care - General Medical Care * Homeless People; Health Care - General Medical Care * Immigrants/Refugees; Health Care - General Medical Care * People Without Health Insurance; Health Care - Health Screening/Diagnostic Services - Disease/Disability Specific Screening/Diagnosis - HIV Testing; Health Care - Health Screening/Diagnostic Services - Disease/Disability Specific Screening/Diagnosis - Sexually Transmitted Infection Screening; Health Care - Health Supportive Services - Health Education - Chronic Disease Self Management Programs * Diabetes; Health Care - Health Supportive Services - Health Education - Wellness Programs; Health Care - Health Supportive Services - Medical Equipment/Supplies - Safe Sex Supplies; Health Care - Human Reproduction - Mother and Infant Care - Breastfeeding Support Programs; Health Care - Human Reproduction - Mother and Infant Care - Childbirth Education; Health Care - Human Reproduction - Mother and Infant Care - Midwifery; Health Care - Outpatient Health Facilities - Community Health Centres; Health Care - Specialized Treatment and Prevention - Condition Specific Treatment * Sexually Transmitted Infections; Individual and Family Life - Leisure Activities/Recreation - Parks/Recreation Areas - Camps - Day Camps; Mental Health and Substance Use Disorder Services - Substance Use Disorder Services - Supportive Substance Use Disorder Services - Drug Related Harm Reduction Programs - Drug Related Harm Reduction Supplies - Needle Exchange and Injection Supplies",
+        "TaxonomyCodes": "LE * YV-3000; LE * YE-3500; LE * YJ-8800; LF-4900.2400; LF-4900.8000; LH-2700.1540 * YF-3000.2440; LH-2700.9500; LH-5000.7850; LJ-5000.1000; LJ-5000.1500; LJ-5000.5250; LN-1500; LT-1750 * YF-3000.7740; PL-6400.1500-180; RX-8470.1900-180.60",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Residents of Peel Region; priority to youth, seniors, newcomers, racialized communities, people who are homeless or at risk of homelessness, people with mental health challenges and addictions, those with chronic disease(s), under-resourced families and those living permanently in Ontario without OHIP coverage\r\n",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Primary health care and wellness services<br /></p><ul>\t<li>primary health care</li><li>foot care and chiropody, physiotherapy for registered clients</li>\t<li>prenatal education and care including midwifery; breastfeeding support</li>\t<li>workshops on wellness and disease prevention</li>\t<li>counselling for registered clients on mental health conditions, relationship issues, substance use, depression, grief and trauma and other challenges</li>\t<li>sexual health testing, counselling and treatment of sexually transmitted infections (STIs)</li>\t<li>diabetes education </li><li>food support for clients</li>\t<li>camp for children and youth 8-16 years</li></ul><p>Needle exchange and harm reduction supplies for anyone in Peel needing these services, call 647-531-8552</p>",
+        "ParentAgency": "Bramalea Community Health Centre",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Education Program (Communal Cooking)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.7198,
           43.71491
         ]
@@ -4666,7 +4729,7 @@
           "Peel Region"
         ],
         "Distance": 9,
-        "Description": "<p><span>Housing, counselling, case management and homelessness prevention programs </span></p><p><span><strong>Bridge of HOPE</strong></span></p><p><span>housing-first program that includes rent subsidies and connects homeless and at-risk Black youth with landlords, offering wrap-around services to support housing stability.</span></p><p><strong><span><span> </span>Learning Initiative Fostering Employment (LIFE)</span></strong></p><p><span><span> </span>workshops and programs that help youth develop fundamental personal, professional, and life skills to enhance employability and self-sufficiency. Includes Tenant Education, Financial Literacy, Employment Support, Home Economics, and Work placements.</span></p><p><span><strong>Healing Emotional Recovery and Opportunity (HERO)</strong></span></p><p><span><strong>\ufeff\ufeff</strong><span>individual and group counseling that centres on mental health challenges faced by homeless and at-risk Black youth. Addresses vulnerabilities related to trauma, addiction, and anti-social behaviors; focus on mental health and emotional well-being.</span></span></p><p><span><span><strong>Recreation Inspiring Social Engagements (RISE)</strong></span></span></p><p><span>combines basketball, mentorship, and comprehensive support to address gang involvement, crime, and social vices, while helping youth build essential life skills like communication and conflict management to help them succeed in their personal and professional endeavors.</span></p><p><span><strong>Bare Necessities</strong></span></p><p><span>emergency grocery support, transportation support, household items to address the immediate and critical needs of vulnerable youth.</span></p><p><span><strong>Family Intervention and Reunification Management (FIRM)</strong></span></p><p><span>culturally appropriate counseling and support services focused on preventing youth homelessness by addressing underlying issues within families.</span></p>",
+        "Description": "<p><span>Housing, counselling, case management and homelessness prevention programs </span></p><p><span><strong>Bridge of HOPE</strong></span></p><ul><li><span>housing-first program that includes rent subsidies and connects homeless and at-risk Black youth with landlords, offering wrap-around services to support housing stability</span></li></ul><p><strong><span><span> </span>Learning Initiative Fostering Employment (LIFE)</span></strong></p><ul><li><span><span> </span>workshops and programs that help youth develop fundamental personal, professional, and life skills to enhance employability and self-sufficiency </span></li><li><span>program includes Tenant Education, Financial Literacy, Employment Support, Home Economics, and Work placements</span></li></ul><p><span><strong>Healing Emotional Recovery and Opportunity (HERO)</strong></span></p><ul><li><span><strong>\ufeff\ufeff</strong><span>individual and group counseling that centres on mental health challenges faced by homeless and at-risk Black youth</span></span></li><li><span><span>program addresses vulnerabilities related to trauma, addiction, and anti-social behaviors; focus on mental health and emotional well-being</span></span></li></ul><p><span><span><strong>Recreation Inspiring Social Engagements (RISE)</strong></span></span></p><ul><li><span>combines basketball, mentorship, and comprehensive support to address gang involvement, crime, and social vices, while helping youth build essential life skills like communication and conflict management to help them succeed in their personal and professional endeavors</span></li></ul><p><span><strong>Bare Necessities</strong></span></p><ul><li><span>emergency grocery support, transportation support, household items to address the immediate and critical needs of vulnerable youth</span></li></ul><p><span><strong>Family Intervention and Reunification Management (FIRM)</strong></span></p><ul><li><span>culturally appropriate counseling and support services focused on preventing youth homelessness by addressing underlying issues within families</span></li></ul>",
         "Latitude": 43.6917124,
         "Longitude": -79.7570047,
         "PhysicalAddressStreet1": "134 Queen St E",
@@ -4696,14 +4759,14 @@
         "Hours2": "Mon 0900 - 1900; Tue 0900 - 1900; Wed 0900 - 1900; Thu 0900 - 1900; Fri 0900 - 1900; ",
         "MinAge": "16.00",
         "MaxAge": "24.00",
-        "UpdatedOn": "2024-10-11 15:12:24",
+        "UpdatedOn": "2025-08-06 10:55:25",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Vouchers; Basic Needs - Housing/Shelter - At Risk/Homeless Housing Related Assistance Programs - Homelessness Prevention Programs; Basic Needs - Housing/Shelter - Housing Expense Assistance - Rent Payment Assistance; Basic Needs - Material Goods - Household Goods - General Household Goods Provision; Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Eviction Prevention Assistance; Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Tenant Rights Information/Counselling; Individual and Family Life - Individual and Family Support Services - Personal Enrichment - Life Skills Education; Individual and Family Life - Mutual Support - Support Groups - Mental Health Related Support Groups; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counselling * Black Community; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counselling * Indigenous Communities; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Runaway/Homeless Youth Counselling",
         "TaxonomyCodes": "BD-1800.2250; BH-0500.3140; BH-3800.7000; BM-3000.2500; FT-4500.1800; FT-4500.8550; PH-6200.4600; PN-8100.5000; RP-1400.8000-050 * YH-6000.1020; RP-1400.8000-050 * YH-6000.3280; RP-1400.8000-750",
         "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "Free",
+        "FeeStructureSource": "None",
         "Eligibility": "Young people 16-24 years who are unhoused or at risk of homelessness, and who identify as Black, Indigenous, or Persons of Colour (BIPOC)",
         "AgencyClassification": "",
-        "AgencyDescription": "<p><span>Housing, counselling, case management and homelessness prevention programs </span></p><p><span><strong>Bridge of HOPE</strong></span></p><p><span>housing-first program that includes rent subsidies and connects homeless and at-risk Black youth with landlords, offering wrap-around services to support housing stability.</span></p><p><strong><span><span> </span>Learning Initiative Fostering Employment (LIFE)</span></strong></p><p><span><span> </span>workshops and programs that help youth develop fundamental personal, professional, and life skills to enhance employability and self-sufficiency. Includes Tenant Education, Financial Literacy, Employment Support, Home Economics, and Work placements.</span></p><p><span><strong>Healing Emotional Recovery and Opportunity (HERO)</strong></span></p><p><span><strong>\ufeff\ufeff</strong><span>individual and group counseling that centres on mental health challenges faced by homeless and at-risk Black youth. Addresses vulnerabilities related to trauma, addiction, and anti-social behaviors; focus on mental health and emotional well-being.</span></span></p><p><span><span><strong>Recreation Inspiring Social Engagements (RISE)</strong></span></span></p><p><span>combines basketball, mentorship, and comprehensive support to address gang involvement, crime, and social vices, while helping youth build essential life skills like communication and conflict management to help them succeed in their personal and professional endeavors.</span></p><p><span><strong>Bare Necessities</strong></span></p><p><span>emergency grocery support, transportation support, household items to address the immediate and critical needs of vulnerable youth.</span></p><p><span><strong>Family Intervention and Reunification Management (FIRM)</strong></span></p><p><span>culturally appropriate counseling and support services focused on preventing youth homelessness by addressing underlying issues within families.</span></p>",
+        "AgencyDescription": "<p><span>Housing, counselling, case management and homelessness prevention programs </span></p><p><span><strong>Bridge of HOPE</strong></span></p><ul><li><span>housing-first program that includes rent subsidies and connects homeless and at-risk Black youth with landlords, offering wrap-around services to support housing stability</span></li></ul><p><strong><span><span> </span>Learning Initiative Fostering Employment (LIFE)</span></strong></p><ul><li><span><span> </span>workshops and programs that help youth develop fundamental personal, professional, and life skills to enhance employability and self-sufficiency </span></li><li><span>program includes Tenant Education, Financial Literacy, Employment Support, Home Economics, and Work placements</span></li></ul><p><span><strong>Healing Emotional Recovery and Opportunity (HERO)</strong></span></p><ul><li><span><strong>\ufeff\ufeff</strong><span>individual and group counseling that centres on mental health challenges faced by homeless and at-risk Black youth</span></span></li><li><span><span>program addresses vulnerabilities related to trauma, addiction, and anti-social behaviors; focus on mental health and emotional well-being</span></span></li></ul><p><span><span><strong>Recreation Inspiring Social Engagements (RISE)</strong></span></span></p><ul><li><span>combines basketball, mentorship, and comprehensive support to address gang involvement, crime, and social vices, while helping youth build essential life skills like communication and conflict management to help them succeed in their personal and professional endeavors</span></li></ul><p><span><strong>Bare Necessities</strong></span></p><ul><li><span>emergency grocery support, transportation support, household items to address the immediate and critical needs of vulnerable youth</span></li></ul><p><span><strong>Family Intervention and Reunification Management (FIRM)</strong></span></p><ul><li><span>culturally appropriate counseling and support services focused on preventing youth homelessness by addressing underlying issues within families</span></li></ul>",
         "ParentAgency": "Restoration and Empowerment for Social Transition",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
