@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -4395,74 +4395,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "Culturally sensitive transitional shelter and essential supports for women leaving violence, and remote casework and mental health support for adults and youth<br /><br /><strong>Resident and remote services:</strong><ul>\t<li>counselling and treatment programs</li>\t<li>financial assistance and help securing housing</li>\t<li>supports for health and mental health</li>\t<li>education assistance and life skills training</li>\t<li>employment supports including resume workshops, interview preparation, help finding employment</li>\t<li>assistance with immigration issues</li>\t<li>access to legal advice and assistance applying for Legal AID</li>\t<li>referrals including legal, financial, immigration, employment, food</li>\t<li>safety planning and follow-up</li>\t<li>shelter capacity 12</li></ul><br />Training and awareness for community organizations",
         "ParentAgency": "Sakeenah Canada (GTA)",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Education Program (Communal Cooking)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.582205,
-          43.608871
-        ]
-      },
-      "properties": {
-        "id": 69807502,
-        "CurrentId": 69807502,
-        "ParentId": 69807499,
-        "PublicName": "LAMP Community Health Centre - East Mississauga Community Health Centre",
-        "Score": 105,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 25,
-        "Description": "<p><strong>Primary Health Care</strong></p><ul>\t<li>care from family physicians and nurse practitioners</li>\t<li>chiropody (foot clinic)</li>\t<li>diabetes education</li>\t<li>dietitian</li>\t<li>physiotherapy</li></ul><p>No Ontario Health Insurance required for general services<br /><br /><strong>Dental Clinic</strong>, 905-602-0520</p><ul>\t<li>dental care for children and youth covered by Healthy Smiles Ontario (HSO) and for seniors</li>\t<li>call for specific program eligibility and application instructions</li></ul><p><strong>Health Promotion</strong> </p><ul>\t<li>community development addressing social determinants of health</li>\t<li>seniors' wellness programs </li>\t<li>short-term counselling for Centre's priority populations</li></ul><p><strong>QX and TransActivate</strong> -- weekly drop ins for LGBTTIQQ2S+, queer, gender diverse, trans individuals, and one-on-one support, primary care and information and referral<br /><br /><strong>Community Services</strong> </p><ul>\t<li>client advocacy for accessing government programs, legal and immigration issues, housing, food security </li>\t<li>commissioner of oaths (call for schedule)</li>\t<li>information and referral</li>\t<li>space available for community meetings</li></ul>",
-        "Latitude": 43.608871,
-        "Longitude": -79.582205,
-        "PhysicalAddressStreet1": "2555 Dixie Rd",
-        "PhysicalAddressStreet2": "Unit 7",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L4Y 4C4",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "2555 Dixie Rd",
-        "MailingAddressStreet2": "Unit 7",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L4Y 4C4",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-602-4082",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          },
-          {
-            "Phone": "905-602-5432",
-            "Name": "Fax",
-            "Description": "",
-            "Type": "Fax"
-          }
-        ],
-        "Website": "https://www.eastmississaugachc.org",
-        "Email": "mississauga@lampchc.org",
-        "Hours": "Mon-Thu 8:30 am-8 pm, Fri 8:30 am-5 pm;  occasional Sat 8 am-4 pm, call for information; dental health care with scheduled appointments",
-        "Hours2": "Mon 0830 - 2000; Tue 0830 - 2000; Wed 0830 - 2000; Thu 0830 - 2000; Fri 0830 - 1730; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2024-08-01 12:43:39",
-        "TaxonomyTerms": "Health Care - Outpatient Health Facilities - Community Health Centres; Health Care - Specialty Medicine - Podiatry/Foot Care; Individual and Family Life - Mutual Support - Support Groups - Lifestyle/Transition Related Support Groups - LGBTQ2+ Support Groups; Organizational/Community/International Services - Community Facilities/Centers - Meeting Space; Health Care - Health Supportive Services - Health Education - Wellness Programs * Older Adults; Health Care - General Medical Care * People Without Health Insurance; Criminal Justice and Legal Services - Legal Assistance Modalities - Advocacy - Issue Advocacy * Health Issues; Health Care - Health Screening/Diagnostic Services - Disease/Disability Specific Screening/Diagnosis - Nutrition Assessment Services; Health Care - Health Supportive Services - Health Education - Chronic Disease Self Management Programs * Diabetes; Organizational/Community/International Services - Information Services - Information and Referral - Comprehensive Information and Referral; Health Care - Specialty Medicine - Family and Community Medicine; Health Care - Rehabilitation/Habilitation Services - Physical Therapy; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * LGBTQ2+ Individuals; Health Care - General Medical Care * Transgender Individuals; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - General Counselling Services",
-        "TaxonomyCodes": "LN-1500; LV-7200; PN-8100.4500-400; TC-5000; LH-2700.9500 * YB-8000; LE * YJ-8800; FP-0500.3500 * YZ-3050; LF-4900.6200; LH-2700.1540 * YF-3000.2440; TJ-3000.1500; LV-2600; LR-6600; TJ-3000.8000 * YT-2400; LE * YS-8500; RP-1400.2500",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Persons in catchment area who do not have a family doctor; some exceptions for priority populations, including newcomers, racialized communities, isolated seniors, LGBTQ communities and people living in poverty, determined on a case by case basis; some programs or services may not be able to accept new clients immediately (call for information)\r\n<br />\r\n<br />Residency Requirements: Matheson Blvd (north) to Lake Ontario (south), Hurontario St/Hwy 10 (west) to Etobicoke Creek (east); primary health care for people without immigration status documents and individuals needing gender affirming care - all of Mississauga, call for details",
-        "AgencyClassification": "",
-        "AgencyDescription": "<p><strong>Primary Health Care</strong></p><ul>\t<li>care from family physicians and nurse practitioners</li>\t<li>chiropody (foot clinic)</li>\t<li>diabetes education</li>\t<li>dietitian</li>\t<li>physiotherapy</li></ul><p>No Ontario Health Insurance required for general services<br /><br /><strong>Dental Clinic</strong>, 905-602-0520</p><ul>\t<li>dental care for children and youth covered by Healthy Smiles Ontario (HSO) and for seniors</li>\t<li>call for specific program eligibility and application instructions</li></ul><p><strong>Health Promotion</strong> </p><ul>\t<li>community development addressing social determinants of health</li>\t<li>seniors' wellness programs </li>\t<li>short-term counselling for Centre's priority populations</li></ul><p><strong>QX and TransActivate</strong> -- weekly drop ins for LGBTTIQQ2S+, queer, gender diverse, trans individuals, and one-on-one support, primary care and information and referral<br /><br /><strong>Community Services</strong> </p><ul>\t<li>client advocacy for accessing government programs, legal and immigration issues, housing, food security </li>\t<li>commissioner of oaths (call for schedule)</li>\t<li>information and referral</li>\t<li>space available for community meetings</li></ul>",
-        "ParentAgency": "LAMP Community Health Centre",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
       }
