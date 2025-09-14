@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -1753,7 +1753,7 @@
         "Hours2": "Mon 0700 - 2300; Tue 0700 - 2300; Wed 0700 - 2300; Thu 0700 - 2300; Fri 0700 - 2300; Sat 0800 - 1830; Sun 0800 - 1830; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-07-25 11:56:32",
+        "UpdatedOn": "2025-09-12 11:50:45",
         "TaxonomyTerms": "Individual and Family Life - Domestic Animal Services - Animal Regulation; Individual and Family Life - Domestic Animal Services - Protective Services for Animals; Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Administrative Entities - City Government Departments/Offices * Animal/Pet Issues; Individual and Family Life - Domestic Animal Services - Pet Care Services - Pet Food",
         "TaxonomyCodes": "PD-0700; PD-7600; TD-0300.1200 * YZ-0450; PD-6250.6600",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -4503,9 +4503,9 @@
         ]
       },
       "properties": {
-        "id": 73550892,
-        "CurrentId": 95659979,
-        "ParentId": 73550874,
+        "id": 95886830,
+        "CurrentId": 95886830,
+        "ParentId": 95886812,
         "PublicName": "Ontario Health atHome - Ontario Health atHome, Mississauga Office",
         "Score": 105,
         "ServiceArea": [
@@ -4986,13 +4986,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
