@@ -3554,14 +3554,14 @@
           },
           {
             "Phone": "905-584-2300 ext 221",
-            "Name": "Transportation",
-            "Description": "",
+            "Name": "Office",
+            "Description": "Transportation",
             "Type": ""
           },
           {
             "Phone": "905-584-2300 ext 920",
-            "Name": "Caledon Specialist Clinic",
-            "Description": "",
+            "Name": "Office",
+            "Description": "Caledon Specialist Clinic",
             "Type": ""
           },
           {
@@ -3583,12 +3583,12 @@
         "Hours2": "Mon 0900 - 1630; Tue 0900 - 1630; Wed 0900 - 1630; Thu 0900 - 1630; Fri 0900 - 1630; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-09-11 13:22:04",
+        "UpdatedOn": "2025-09-18 11:50:44",
         "TaxonomyTerms": "Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers - Neighbourhood Multipurpose Centres; Basic Needs - Transportation - Local Transportation - Paratransit Programs - Disability Related Transportation; Individual and Family Life - Individual and Family Support Services - Escort Programs; Education - Educational Programs - Adult Education - Second Language Programs - English as a Second Language; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults; Basic Needs - Transportation - Local Transportation - Paratransit Programs - Senior Ride Programs; Individual and Family Life - Volunteer Opportunities; Individual and Family Life - Leisure Activities/Recreation - Recreational Activities/Sports - General Recreational Activities/Sports * Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management; Health Care - Health Supportive Services - Health Education - Chronic Disease Self Management Programs * Diabetes; Health Care - Outpatient Health Facilities - Hospital Based Outpatient Services; Basic Needs - Transportation - Local Transportation - Paratransit Programs - Non-Emergency Medical Transportation; Individual and Family Life - Individual and Family Support Services - Cultural Transition Facilitation - Newcomer Settlement Services; Organizational/Community/International Services - Information Services - Information and Referral - Comprehensive Information and Referral * Immigrants/Refugees; Education - Educational Support Services - Test Preparation - Citizenship Test Preparation",
         "TaxonomyCodes": "TC-5500.6000; BT-4500.6500-170; PH-2200; HH-0500.8000-150; PL-6600 * YB-8000; BT-4500.6500-800; PX; PL-7000.4360 * YB-8000; PH-1000; LH-2700.1540 * YF-3000.2440; LN-3000; BT-4500.6500-500; PH-1450.6000; TJ-3000.1500 * YE-3500; HL-8500.1400",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None for most programs, supports available through CCS\r\nSeniors Health and Wellness -- program fees\r\nTransportation -- fees",
-        "Eligibility": "Varies by program<br />\r\n<Strong>Newcomer services</Strong> - new immigrants and convention refugees<br />\r\n<Strong>Seniors Health and Wellness</Strong> - 55 years and older<br />\r\n<Strong>Transportation services<Strong> -- 60 years and older, and adults 16 years and older with short term or long-term disabilities\r\n<Strong>Community Transportation</Strong> - 13 years and older can ride unaccompanied,  8-12 years can ride accompanied by an adult\r\n<Strong>Life for Youth</Strong> - career assistance for youth 15-29 years, out of school and currently not working",
+        "Eligibility": "Varies by program<br />\r\n<Strong>Newcomer services</Strong> - new immigrants and convention refugees<br />\r\n<Strong>Seniors Health and Wellness</Strong> - 55 years and older<br />\r\n<Strong>Transportation services<Strong> -- 60 years and older, and adults 16 years and older with short term or long-term disabilities\r\n<Strong>Life for Youth</Strong> - career assistance for youth 15-29 years, out of school and currently not working",
         "AgencyClassification": "",
         "AgencyDescription": "Multi-service agency addressing the health and social service needs of individuals and families in Caledon<br /><br /><strong>Counselling and Case Coordination</strong> -- supportive counselling and other community services ; food support, help with heat and other programs available at The Exchange (see separate entry)<br /><br /><a href=\"https://ccs4u.org/health/caledon-specialist-clinic\" target=\"_blank\"><strong>Caledon Specialist Clinic</strong></a> -- specialist medical services by referral ; through a partnership with Caledon Community Services and Headwaters Healthcare Centre<br /><br /><strong>Newcomer, Settlement Assistance and English Language Training</strong><ul>\t<li>needs assessment </li>\t<li>information and referral to social network and community services</li>\t<li>assistance to complete forms and applications</li>\t<li>citizenship preparation classes</li></ul><strong>LINC classes</strong> (Language Instruction for Newcomers to Canada) in English -- limited childminding and transportation available to eligible participants<br /><strong>EH cafe </strong>-- weekly conversation circles to practice English<br /><br /><strong>Seniors Health and Wellness</strong> <ul>\t<li>fitness and recreational workshops and programming</li>\t<li>offered at several sites in Bolton, Caledon East, Caledon Village and Alton</li></ul><strong>Transportation service for seniors</strong> <ul>\t<li>rides to medical appointments and day programs</li>\t<li>weekly shopping and other important resources that support the activities of daily living</li>\t<li>travel assistance for passengers may be available as an option, check with dispatch</li></ul>Volunteer opportunities",
         "ParentAgency": "Caledon Community Services",
