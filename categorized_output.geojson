@@ -4268,6 +4268,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.64463,
+          43.58919
+        ]
+      },
+      "properties": {
+        "id": 96187778,
+        "CurrentId": 96187778,
+        "ParentId": 69808335,
+        "PublicName": "Nisa Foundation - Remote Casework",
+        "Score": 105,
+        "ServiceArea": [
+          "Ontario"
+        ],
+        "Distance": 24,
+        "Description": "<p>Culturally responsive remote caseworker services</p><ul><li>support with financial assistance applications</li><li>mental health support</li><li>housing search support</li><li>referrals to community-based services for <ul><li>employment support</li><li>food and other basic needs </li><li>legal support</li></ul></li></ul>",
+        "Latitude": 43.58919,
+        "Longitude": -79.64463,
+        "PhysicalAddressStreet1": "",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "c/o National Zakat Foundation",
+        "MailingAddressStreet1": "",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "888-711-6472",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://www.nisafoundation.ca/",
+        "Email": "info@nisafoundation.ca",
+        "Hours": "Mon-Fri 9 am-5 pm",
+        "Hours2": "Mon 0900 - 1700; Tue 0900 - 1700; Wed 0900 - 1700; Thu 0900 - 1700; Fri 0900 - 1700; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2025-10-08 19:59:03",
+        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Case/Care Management * Muslim Community; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Women",
+        "TaxonomyCodes": "PH-1000 * YR-5000; PH-1000 * YS-2000.9500",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Women with or without children, with a focus on immigrant, refugee and Muslim women who are homeless, at risk of homelessness, or experiencing domestic violence",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Culturally responsive remote caseworker services</p><ul><li>support with financial assistance applications</li><li>mental health support</li><li>housing search support</li><li>referrals to community-based services for <ul><li>employment support</li><li>food and other basic needs </li><li>legal support</li></ul></li></ul>",
+        "ParentAgency": "Nisa Foundation",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.64412,
           43.589045
         ]
