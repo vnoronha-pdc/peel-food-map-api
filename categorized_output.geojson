@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
-          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region"
+          "York Region",
+          "Halton Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -4570,10 +4570,7 @@
         "ParentId": 73550874,
         "PublicName": "Ontario Health atHome - Ontario Health atHome, Mississauga Office",
         "Score": 105,
-        "ServiceArea": [
-          "Mississauga",
-          "Halton Region"
-        ],
+        "ServiceArea": [],
         "Distance": 30,
         "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care <br /><br />Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referral</strong> - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222 (area code not required)<br /><br /><strong>Children's Health Services</strong> - Special health services for children in both the home and school environment * supports children when health care provision is essential to a student's participation and development in school programs * services are provided within public, private or home-based schools<br /><br /><strong>Health Care Connect</strong> - Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector employed by Ontario Health atHome Mississauga Halton * Care Connectors work with family doctors and nurse practitioners who are accepting new patients<br /><br /><strong>In-Home Services</strong> - Health care services to people in their own homes<br /><br /><strong>Mental Health and Addictions Nurses</strong> -  Assessments, interventions and support to students and families with mental health and or addiction issues * consultation to school staff in regards to mental health and/or addiction issues as appropriate<br /><br /><strong>Placement Services</strong> - Determine eligibility for admission to long-term care facilities and prioritize and manage the admission process * support and information is provided to applicants and their families prior to and during the admission process<br /><br /><strong>Nursing Clinics</strong> - Nursing services for ambulatory patients at clinics located in the community<br /><br /><strong>Adult Day Programs</strong> - Programs that promote wellness, dignity, and enhance quality of life in a social setting, and provide a much-needed break for persons providing care and support at home * contact <a href=\"https://www.centralregistry.ca/adult-day-programs\" target=\"_blank\">Central Registry</a> at 905-281-4443 for information and how to apply</p>",
         "Latitude": 43.5124,
@@ -4630,8 +4627,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": null,
-        "TaxonomyTerms": "Health Care - Health Supportive Services - Long Term Care Coordination Centres; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Adult Day Programs; Health Care - Specialized Treatment and Prevention - Palliative Care; Health Care - Health Supportive Services - Health Care Referrals - Rehabilitation/Habilitative Medicine Referrals; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Health Issues; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Long Term Care Issues; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * People With Disabilities; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries * People With Disabilities; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Health Care - Health Supportive Services - Health Care Referrals - Nursing Registries; Health Care - Health Supportive Services - Long Term Care Options Counselling; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Respite Care Registries",
-        "TaxonomyCodes": "LH-4500; LT-2800; PH-0320; LT-6650; LH-2600.7000; TJ-3000.8000 * YZ-3050; TJ-3000.8000 * YZ-4750; PH-1000 * YB-8000; PH-1000 * YJ-8750; PH-2400.0500 * YJ-8750; PH-2400.3300; LH-2600.6050; LH-4600; PH-2400.7000",
+        "TaxonomyTerms": "",
+        "TaxonomyCodes": "",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "Covered by OHIP",
         "Eligibility": "<p>People of all ages who are facing the challenges of age, illness, injury, or disability</p><br /><br />Residency Requirements: Mississauga Halton region",
