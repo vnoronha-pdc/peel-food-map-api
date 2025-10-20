@@ -4045,13 +4045,13 @@
         "id": 76576697,
         "CurrentId": 76576697,
         "ParentId": 69807203,
-        "PublicName": "Services and Housing in the Province - Peel Family Shelter",
+        "PublicName": "Services and Housing In the Province (SHIP) - Peel Family Shelter",
         "Score": 105,
         "ServiceArea": [
           "Mississauga"
         ],
         "Distance": 20,
-        "Description": "<p><span><span>Emergency shelter for families, including food, clothing, psycho-social support, primary health care, help obtaining affordable housing, transition support to independent living, referrals to community agencies, employment support</span></span></p><ul><li>capacity 300</li><li>in partnership with the Region Of Peel </li></ul>",
+        "Description": "<p>Emergency shelter for families, including food, clothing, psycho-social support, help obtaining affordable housing, transition support to independent living, referrals to community agencies, employment support</p><ul><li>capacity 350</li><li>in partnership with the Region Of Peel </li></ul>",
         "Latitude": 43.58895,
         "Longitude": -79.74294,
         "PhysicalAddressStreet1": "2420 Surveyor Rd",
@@ -4071,19 +4071,13 @@
           {
             "Phone": "905-450-1996",
             "Name": "Crisis",
-            "Description": "PFS Intake",
+            "Description": "Shelter Central Intake Line",
             "Type": ""
           },
           {
-            "Phone": "905-272-7061",
+            "Phone": "905-272-7061 ",
             "Name": "Office",
-            "Description": "PFS Administration",
-            "Type": ""
-          },
-          {
-            "Phone": "905-450-1996",
-            "Name": "Crisis",
-            "Description": "SHIP Central Intake",
+            "Description": "PFS Administration  ",
             "Type": ""
           },
           {
@@ -4105,15 +4099,15 @@
         "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-09-26 13:25:04",
+        "UpdatedOn": "2025-10-17 15:25:08",
         "TaxonomyTerms": "Basic Needs - Housing/Shelter - Emergency Shelter - Homeless Shelter * Families",
         "TaxonomyCodes": "BH-1800.8500 * YK-2000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Families who are homeless or precariously housed, including those without documentation",
         "AgencyClassification": "",
-        "AgencyDescription": "<p><span><span>Emergency shelter for families, including food, clothing, psycho-social support, primary health care, help obtaining affordable housing, transition support to independent living, referrals to community agencies, employment support</span></span></p><ul><li>capacity 300</li><li>in partnership with the Region Of Peel </li></ul>",
-        "ParentAgency": "Services and Housing in the Province",
+        "AgencyDescription": "<p>Emergency shelter for families, including food, clothing, psycho-social support, help obtaining affordable housing, transition support to independent living, referrals to community agencies, employment support</p><ul><li>capacity 350</li><li>in partnership with the Region Of Peel </li></ul>",
+        "ParentAgency": "Services and Housing In the Province (SHIP)",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
