@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
-          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region"
+          "York Region",
+          "Halton Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -4069,15 +4069,15 @@
         "MailingAddressCountry": "Canada",
         "PhoneNumbers": [
           {
-            "Phone": "905-450-1996",
-            "Name": "Crisis",
-            "Description": "Shelter Central Intake Line",
-            "Type": ""
-          },
-          {
             "Phone": "905-272-7061 ",
             "Name": "Office",
             "Description": "PFS Administration  ",
+            "Type": ""
+          },
+          {
+            "Phone": "905-450-1996",
+            "Name": "Crisis",
+            "Description": "Shelter Central Intake Line",
             "Type": ""
           },
           {
@@ -4099,7 +4099,7 @@
         "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-10-21 10:24:49",
+        "UpdatedOn": "2025-10-23 13:45:54",
         "TaxonomyTerms": "Basic Needs - Housing/Shelter - Emergency Shelter - Homeless Shelter * Families",
         "TaxonomyCodes": "BH-1800.8500 * YK-2000",
         "LastVerifiedByPhoneNumber": "Not Available",
