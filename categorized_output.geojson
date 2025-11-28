@@ -3501,6 +3501,12 @@
             "Name": "Crisis",
             "Description": "Central Intake",
             "Type": ""
+          },
+          {
+            "Phone": "905 454-8212",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
           }
         ],
         "Website": "https://salvationarmy.ca/ontario",
@@ -3509,7 +3515,7 @@
         "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
         "MinAge": "25.00",
         "MaxAge": "",
-        "UpdatedOn": "2025-11-17 15:37:26",
+        "UpdatedOn": "2025-11-26 10:19:24",
         "TaxonomyTerms": "Basic Needs - Housing/Shelter - Emergency Shelter - Homeless Shelter * Men",
         "TaxonomyCodes": "BH-1800.8500 * YS-5000.5000",
         "LastVerifiedByPhoneNumber": "Not Available",
