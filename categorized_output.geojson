@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -411,13 +411,13 @@
         "id": 69807570,
         "CurrentId": 69807570,
         "ParentId": 69807567,
-        "PublicName": "St Anne's Church Food Assistance",
+        "PublicName": "St Anne's Church Food Assistance - Food Assistance",
         "Score": 410,
         "ServiceArea": [
           "Brampton"
         ],
         "Distance": 8,
-        "Description": "<p>Provides food vouchers on an emergency basis only</p><ul>\t<li>3 visits per year</li></ul><p><br /></p><p>Not a food bank</p>",
+        "Description": "<p>Provides food vouchers</p><ul>\t<li>3 visits per year</li></ul><p><br /></p><p>Not a food bank</p>",
         "Latitude": 43.698277,
         "Longitude": -79.762904,
         "PhysicalAddressStreet1": "115 Vodden St E",
@@ -447,14 +447,14 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-09-24 14:01:06",
+        "UpdatedOn": "2026-02-09 14:34:07",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Vouchers",
         "TaxonomyCodes": "BD-1800.2250",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Those in need living within St. Anne's parish boundaries\r\n<br />\r\nResidency Requirements: Bovaire Dr (North) to Queen St E (South), McLaughlin Rd (West) to Hwy 410 (East)",
         "AgencyClassification": "",
-        "AgencyDescription": "<p>Provides food vouchers on an emergency basis only</p><ul>\t<li>3 visits per year</li></ul><p><br /></p><p>Not a food bank</p>",
+        "AgencyDescription": "<p>Provides food vouchers</p><ul>\t<li>3 visits per year</li></ul><p><br /></p><p>Not a food bank</p>",
         "ParentAgency": "St Anne's Church Food Assistance",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
@@ -2700,7 +2700,7 @@
         "id": 69808342,
         "CurrentId": 69808342,
         "ParentId": 69808339,
-        "PublicName": "Women and Children Social Networking",
+        "PublicName": "Women & Children Social Networking",
         "Score": 190,
         "ServiceArea": [
           "Mississauga",
@@ -2744,15 +2744,15 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-12-09 11:06:51",
+        "UpdatedOn": "2026-02-09 12:16:13",
         "TaxonomyTerms": "Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counseling; Criminal Justice and Legal Services - Legal Services - Certificates/Forms Assistance * Immigrants/Refugees; Criminal Justice and Legal Services - Legal Services - Certificates/Forms Assistance * Housing Issues; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Cultural Transition Counseling; Basic Needs - Utilities - Utility Assistance; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - General Counseling Services; Education - Educational Support Services - Tutoring Services - Homework Help Programs; Individual and Family Life - Individual and Family Support Services - Personal Enrichment - Leadership Development; Income Support and Employment - Employment - Employment Preparation - Prejob Guidance; Individual and Family Life - Social Development and Enrichment - Youth Development - Youth Enrichment Programs; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Anger Management; Organizational/Community/International Services - Information Services - Information and Referral - Comprehensive Information and Referral; Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers - Neighborhood Multipurpose Centers; Individual and Family Life - Individual and Family Support Services - Cultural Transition Facilitation; Organizational/Community/International Services - Information Services - Electronic Information Resources - Public Access Computers/Tools * Immigrants/Refugees; Basic Needs - Food - Meals - School Meals; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Immigrants/Refugees; Consumer Services - Tax Organizations and Services - Tax Preparation Assistance; Basic Needs - Food - Emergency Food - Food Pantries; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys",
         "TaxonomyCodes": "RP-1400.8000-050; FT-1020 * YE-3500; FT-1020 * YZ-3150; RP-1400.8000-167; BV-8900; RP-1400.2500; HL-8700.3000; PH-6200.4500; ND-2000.6500; PS-9800.9900; RP-1400.8000-070; TJ-3000.1500; TC-5500.6000; PH-1450.6000; TJ-1800.6650 * YE-3500; BD-5000.8200; TJ-3000.8000 * YE-3500; DT-8800; BD-1800.2000; BM-6500.1500-250; PH-2950.3200",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
-        "Eligibility": "Individuals and families in need, particularly new immigrants, refugees and Ontario works recipients ; varies; see description or call for details<br/><br />Mississauga East: Bloor St E (north) to Dundas St E (south), and Cawthra Rd (west) to Dixie Rd (east), also surrounding neighbourhoods<br/><br />Toronto West: St Clair Ave W and Caledonia Rd area",
+        "Eligibility": "Individuals and families in need, particularly new immigrants, refugees and Ontario works recipients; varies; see description or call for details<br/><br />Mississauga East: Bloor St E (north) to Dundas St E (south), and Cawthra Rd (west) to Dixie Rd (east), also surrounding neighbourhoods<br/><br />Toronto West: St Clair Ave W and Caledonia Rd area",
         "AgencyClassification": "",
         "AgencyDescription": "<p><strong>Multiservice agency</strong></p><ul>\t<li>community information and referrals</li>\t<li>counselling, anger management</li>\t<li>counselling for youth and young adults</li>\t<li>employment assistance including resume/cover letter preparation, job search</li>\t<li>social housing application assistance</li>\t<li>year round income tax clinic</li>\t<li>leadership skills development</li>\t<li>children's breakfast club (on and off site)</li>\t<li>outreach</li>\t<li>workshops for women and youth</li>\t<li>social and recreation activities, including children's book club and youth homework club</li></ul><p><strong>Electricity bill support assistance:</strong> lead intake agency for Low-Income Energy Assistance Program (LEAP) through Ontario Energy Board (OEB)</p><ul>\t<li>pre-screening required, qualifying residents receive appointment to complete the application process</li>\t<li>access centre for <strong>Ontario Electricity Support Program:</strong> assistance with applications</li></ul><p><strong>Food, clothing, and toy distribution:</strong> for new immigrants, refugees and Ontario Works recipients</p><ul>\t<li>intake assessment required</li>\t<li>annual Christmas toy distribution application deadline October 15</li></ul><p><strong>Newcomer Information Services</strong> </p><ul>\t<li>information and referrals, including immigration, employment and community services</li>\t<li>counselling</li>\t<li>some form filling assistance</li>\t<li>access to computers</li></ul>",
-        "ParentAgency": "Women and Children Social Networking",
+        "ParentAgency": "Women & Children Social Networking",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Multi-Service Program"
       }
