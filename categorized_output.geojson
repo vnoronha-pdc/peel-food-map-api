@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
-          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region"
+          "York Region",
+          "Halton Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -115,7 +115,7 @@
         "Hours2": "Mon 0930 - 1630; Tue 0930 - 1630; Wed 0930 - 1800; Thu 0930 - 1630; Fri 0930 - 1200; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-11-07 14:16:40",
+        "UpdatedOn": "2026-03-03 10:14:12",
         "TaxonomyTerms": "Basic Needs - Food - Food Collection and Storage; Basic Needs - Food - Food Bank Referral Programs; Basic Needs - Food - Food Outlets - Grocery Delivery; Basic Needs - Food - Emergency Food - Food Pantries",
         "TaxonomyCodes": "BD-1875; BD-1850; BD-2400.2590; BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -1174,6 +1174,68 @@
         "AgencyClassification": "",
         "AgencyDescription": "Food bank<br /><br />Member agency of The Mississauga Food Bank",
         "ParentAgency": "St Mary's Food Bank",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.766401,
+          43.584147
+        ]
+      },
+      "properties": {
+        "id": 69797238,
+        "CurrentId": 69797238,
+        "ParentId": 69797184,
+        "PublicName": "Salvation Army, Community and Family Services - Meadowvale Food Bank and Community Services",
+        "Score": 405,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 20,
+        "Description": "Emergency food assistance according to postal codes <br />Christmas assistance program",
+        "Latitude": 43.584147,
+        "Longitude": -79.766401,
+        "PhysicalAddressStreet1": "3020 Vanderbilt Rd",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5N 4W8",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "3020 Vanderbilt Rd",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L5N 4W8",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-824-0450 ext 1",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://salvationarmy.ca/",
+        "Email": "",
+        "Hours": "Food Bank Tue 9 am-3 pm, Thu 10 am-5 pm",
+        "Hours2": "Tue 0900 - 1500; Thu 1000 - 1700; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-03-03 10:11:43",
+        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys; Basic Needs - Food - Emergency Food - Food Pantries",
+        "TaxonomyCodes": "PH-2950.1500; PH-2950.3200; BD-1800.2000",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Low-income individuals and families ; assistance provided to the following postal codes L5M, L5N, L5V, L5W",
+        "AgencyClassification": "",
+        "AgencyDescription": "Emergency food assistance according to postal codes <br />Christmas assistance program",
+        "ParentAgency": "Salvation Army, Community and Family Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -2346,68 +2408,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "<p>Food bank</p><ul><li>grocery store-like experience</li><li>culturally appropriate food and essentials</li></ul>",
         "ParentAgency": "Sakeenah Canada (GTA)",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.766401,
-          43.584147
-        ]
-      },
-      "properties": {
-        "id": 69797238,
-        "CurrentId": 69797238,
-        "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community and Family Services - Community Services",
-        "Score": 190,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 20,
-        "Description": "Emergency food assistance according to postal codes <br />Christmas assistance program",
-        "Latitude": 43.584147,
-        "Longitude": -79.766401,
-        "PhysicalAddressStreet1": "3020 Vanderbilt Rd",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5N 4W8",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "3020 Vanderbilt Rd",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L5N 4W8",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-824-0450 ext 1",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "https://salvationarmy.ca/",
-        "Email": "",
-        "Hours": "Food Bank Tue 9 am-3 pm, Thu 10 am-5 pm",
-        "Hours2": "Tue 0900 - 1500; Thu 1000 - 1700; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2025-12-08 15:34:03",
-        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys; Basic Needs - Food - Emergency Food - Food Pantries",
-        "TaxonomyCodes": "PH-2950.1500; PH-2950.3200; BD-1800.2000",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Low-income individuals and families ; assistance provided to the following postal codes L5M, L5N, L5V, L5W",
-        "AgencyClassification": "",
-        "AgencyDescription": "Emergency food assistance according to postal codes <br />Christmas assistance program",
-        "ParentAgency": "Salvation Army, Community and Family Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -3601,9 +3601,9 @@
         "Score": 105,
         "ServiceArea": [
           "Etobicoke",
+          "Woodbridge",
           "Dufferin County",
-          "Peel Region",
-          "Woodbridge"
+          "Peel Region"
         ],
         "Distance": 14,
         "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
