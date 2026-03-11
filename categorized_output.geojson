@@ -1957,6 +1957,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.67409,
+          43.6306
+        ]
+      },
+      "properties": {
+        "id": 76796064,
+        "CurrentId": 76796064,
+        "ParentId": 76796020,
+        "PublicName": "Indigenous Network - Indigenous Programs",
+        "Score": 195,
+        "ServiceArea": [
+          "Halton Region",
+          "Peel Region"
+        ],
+        "Distance": 19,
+        "Description": "<p><br /></p><p>Friendship Centre to meet, socialize, share and learn from each other, services include</p><p><strong>Akwe:go (AKW)<span> </span></strong>--<span>  support Indigenous children with their wellness</span></p><ul><li>after school activities</li><li>support circles and peer counseling</li><li>access to recreational and sporting activities</li><li>helping children in care</li><li>2SLGBTQ+ supports</li><li>working with children with disabilities</li><li>teaching coping skills, tools and education to parents</li><li>violence prevention</li><li>school and caregiver liaison</li></ul><p><strong>Urban Indigenous Food Security (UIFSP)</strong> -- learning opportunities for clients to empower food security</p><ul><li>food security by accessing to food bank, grocery hauls and community gardens</li><li>traditional Indigenous knowledge by growing and harvesting food including ceremonial foods</li><li>build food skills including cooking, growing food at home, storage and preservation</li><li style=\"font-weight: normal;\">urban aboriginal healthy living program<br /></li></ul><p><strong>Wasa-Nabin Youth Program (WN)</strong> -- individual and peer support, life skills guidance, personalized plan of action, addiction prevention</p><p><strong>Indigenous mental health and addictions</strong><span> </span>-- sweat ceremony, sharing circles, one on one sessions with Elders, Healers and Seers<br /></p><p><strong>Intergenerational Trauma (ITC)<span> </span></strong>--<span> culture based mental health services<span> </span></span></p><p><strong>Journey together: indigenous child and family outreach program</strong> -- deliver culturally specific experiences geared towards children and families attending EarlyON centres<br /><br /><strong>Indigenous court worker program</strong> -- support, liaison services, resources and information on matters relating to the judicial system</p><p><strong>Lifelong Care Program (LLC) </strong>-- community services including transportation assistance, friendly visiting, security checks, support services, congregate dining services</p><p><strong>Cultural resource </strong></p><ul>\t<li>cultural and recreational program</li>\t<li>traditional teaching</li>\t<li>drumming circles</li>\t<li>talkin circles</li>\t<li>one on one, group and peer informal counselling</li>\t<li>community referrals</li></ul>",
+        "Latitude": 43.6306,
+        "Longitude": -79.67409,
+        "PhysicalAddressStreet1": "208 Britannia Rd E",
+        "PhysicalAddressStreet2": "Unit 1",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L4Z 1S6",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "208 Britannia Rd E",
+        "MailingAddressStreet2": "Unit 1",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L4Z 1S6",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-712-4726",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          },
+          {
+            "Phone": "905-712-9803",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "https://theindigenousnetwork.com/",
+        "Email": "info@theindigenousnetwork.com",
+        "Hours": "Mon-Fri 10 am-5:30 pm",
+        "Hours2": "Mon 1000 - 1730; Tue 1000 - 1730; Wed 1000 - 1730; Thu 1000 - 1730; Fri 1000 - 1730; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-03-09 12:00:39",
+        "TaxonomyTerms": "Organizational/Community/International Services - Arts and Culture - Cultural Heritage Programs * Indigenous Communities; Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers -  * Cooking Classes; Education - Educational Institutions/Schools; Organizational/Community/International Services - Information Services - Information Sources - Legal Information Services * Indigenous Communities; Individual and Family Life - Social Development and Enrichment - Social Clubs/Events * Indigenous Communities; Health Care - Specialized Treatment and Prevention - Alternative Medicine; Basic Needs - Food - Emergency Food - Food Pantries * Indigenous Communities; Individual and Family Life - Leisure Activities/Recreation - Recreational/Leisure/Arts Instruction - Cooking Classes * Indigenous Communities",
+        "TaxonomyCodes": "TA-1550 * YH-6000.3280; TC-5500.3300 * PL-7400.1550; HD-3300; TJ-3200.4500 * YH-6000.3280; PS-8000 * YH-6000.3280; LT-0500.8560; BD-1800.2000 * YH-6000.3280; PL-7400.1550 * YH-6000.3280",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "Services and programs free unless specified",
+        "Eligibility": "\u200bAboriginal people, including First Nations, Inuit and Metis ",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p><br /></p><p>Friendship Centre to meet, socialize, share and learn from each other, services include</p><p><strong>Akwe:go (AKW)<span> </span></strong>--<span>  support Indigenous children with their wellness</span></p><ul><li>after school activities</li><li>support circles and peer counseling</li><li>access to recreational and sporting activities</li><li>helping children in care</li><li>2SLGBTQ+ supports</li><li>working with children with disabilities</li><li>teaching coping skills, tools and education to parents</li><li>violence prevention</li><li>school and caregiver liaison</li></ul><p><strong>Urban Indigenous Food Security (UIFSP)</strong> -- learning opportunities for clients to empower food security</p><ul><li>food security by accessing to food bank, grocery hauls and community gardens</li><li>traditional Indigenous knowledge by growing and harvesting food including ceremonial foods</li><li>build food skills including cooking, growing food at home, storage and preservation</li><li style=\"font-weight: normal;\">urban aboriginal healthy living program<br /></li></ul><p><strong>Wasa-Nabin Youth Program (WN)</strong> -- individual and peer support, life skills guidance, personalized plan of action, addiction prevention</p><p><strong>Indigenous mental health and addictions</strong><span> </span>-- sweat ceremony, sharing circles, one on one sessions with Elders, Healers and Seers<br /></p><p><strong>Intergenerational Trauma (ITC)<span> </span></strong>--<span> culture based mental health services<span> </span></span></p><p><strong>Journey together: indigenous child and family outreach program</strong> -- deliver culturally specific experiences geared towards children and families attending EarlyON centres<br /><br /><strong>Indigenous court worker program</strong> -- support, liaison services, resources and information on matters relating to the judicial system</p><p><strong>Lifelong Care Program (LLC) </strong>-- community services including transportation assistance, friendly visiting, security checks, support services, congregate dining services</p><p><strong>Cultural resource </strong></p><ul>\t<li>cultural and recreational program</li>\t<li>traditional teaching</li>\t<li>drumming circles</li>\t<li>talkin circles</li>\t<li>one on one, group and peer informal counselling</li>\t<li>community referrals</li></ul>",
+        "ParentAgency": "Indigenous Network",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.72452,
           43.729759
         ]
@@ -3735,75 +3804,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "<p>Culturally appropriate mental health, addiction, violence prevention, settlement, geriatric, youth and family services, and community and leadership development in South Asian communities, including volunteer opportunities and student placements<br /><br /><strong>Seniors and High Risk Seniors Services</strong><br />Supportive services to assist in aging at home</p><ul>\t<li>health promotion (diabetes education, tobacco prevention, healthy eating, cancer)</li>\t<li>domestic violence support and assistance</li>\t<li>women's and men's group programs</li>\t<li>group programs for youth and children</li>\t<li>parenting programs</li>\t<li>food bank services for abused women</li>\t<li>translation services</li>\t<li>resource development</li>\t<li>diversity training</li></ul><p><br /><strong>Sahara Mental Health Program</strong><br />Culturally and linguistically appropriate support for clients 16 years or over dealing with mental health challenges</p><ul>\t<li>short term and long term case management</li>\t<li>early psychosis intervention for youth and adults 14-35 years</li>\t<li>supportive counselling to clients and family members</li>\t<li>concurrent disorder support group</li>\t<li>mobile community support group</li></ul><p><br /><strong>Sahara Addiction Program</strong><br />Culturally appropriate service to individuals and family members struggling with substance abuse</p><ul>\t<li>case management</li>\t<li>addictions day program</li>\t<li>groups for men and women</li>\t<li>relapse prevention group</li>\t<li>coping skills for family members</li>\t<li>peer support program</li>\t<li>Sahara Opioid Addiction Program, including case management and prevention support group (collaboration with Home and Community Care Support Services Central West)</li></ul><p><br /><strong>Settlement Services</strong><br />Newcomer integration assistance, including information and referral, and information on training and skills development</p><ul>\t<li>orientation sessions including Canadian laws and norms</li>\t<li>assistance in filling out government forms</li>\t<li>attestation of documents</li>\t<li>translation/interpretation services</li>\t<li>supportive counselling</li></ul><p><br /><strong>Sahara Geriatric Program</strong><br />Community support for seniors 55 years and older, including case management, referrals, crisis management, caregiver support and counselling</p><ul>\t<li>Integrated Seniors Team (IST) Program in partnership with Peel Senior Link and Supportive Housing in Peel</li>\t<li>Behavioural Supports Ontario (BSO) Day Program for caregivers of adults with cognitive impairments such as dementia</li>\t<li>education, assessments and capacity development in partnership with other community agencies</li>\t<li>Senior Caregivers Support Day Program, including separate and combined groups for women and men</li></ul><p><br /><strong>Better Families Program</strong><br />Support, groups, mentoring, and referrals for youth 13-24 years and their parents in addressing issues related to healthy interactions between families and communities<br /><br /><strong>Community Development and Social Enterprise</strong><br />Leadership and community development, and civic engagement for youth and adults in South Asian communities in Malton</p>",
         "ParentAgency": "PCHS",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.67409,
-          43.6306
-        ]
-      },
-      "properties": {
-        "id": 76796064,
-        "CurrentId": 76796064,
-        "ParentId": 76796020,
-        "PublicName": "Indigenous Network - Indigenous Programs",
-        "Score": 105,
-        "ServiceArea": [
-          "Halton Region",
-          "Peel Region"
-        ],
-        "Distance": 19,
-        "Description": "Centre to meet, socialize, share and learn from each other, services include<br /><br /><strong>Tin pantry</strong> -- in collaboration with the Mississauga food bank<br /><br /><strong>Wasa-Nabin Youth Program</strong> -- individual and peer support, life skills guidance, personalized plan of action, addiction prevention<br /><br /><strong>Journey together: indigenous child and family outreach program</strong> -- deliver culturally specific experiences geared towards children and families attending EarlyON centres<br /><br /><strong>Indigenous court worker program</strong> -- support, liaison services, resources and information on matters relating to the judicial system <br /><strong>Gladue writer</strong> -- write and submit a Gladue report to provide information to the court - for sentencing purposes - regarding the life circumstances if an Indigenous offender<br /><strong>Gladue aftercare </strong>-- case management to ensure the clients are meeting the needs of their sentencing conditions<br /><br /><strong>Indigenous mental health and addictions</strong> -- sweat ceremony, sharing circles, one on one sessions with Elders, Healers and Seers<br /><br /><strong>Urban aboriginal healthy living program </strong>-- nutrition education, physical fitness activities<br /><br /><strong>Cultural resource </strong><ul>\t<li>cultural and recreational program</li>\t<li>traditional teaching</li>\t<li>drumming circles</li>\t<li>talkin circles</li>\t<li>one on one, group and peer informal counselling</li>\t<li>community referrals</li></ul>",
-        "Latitude": 43.6306,
-        "Longitude": -79.67409,
-        "PhysicalAddressStreet1": "208 Britannia Rd E",
-        "PhysicalAddressStreet2": "Unit 1",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L4Z 1S6",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "208 Britannia Rd E",
-        "MailingAddressStreet2": "Unit 1",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L4Z 1S6",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-712-4726",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          },
-          {
-            "Phone": "905-712-9803",
-            "Name": "Fax",
-            "Description": "",
-            "Type": "Fax"
-          }
-        ],
-        "Website": "https://theindigenousnetwork.com/",
-        "Email": "info@theindigenousnetwork.com",
-        "Hours": "Mon-Fri 9 am-5 pm<br/>\r\nTin pantry -- Mon-Fri 10 am-5:30 pm",
-        "Hours2": "Mon 0930 - 1700; Tue 0930 - 1700; Wed 0930 - 1700; Thu 0930 - 1700; Fri 0930 - 1700; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2025-01-20 10:56:34",
-        "TaxonomyTerms": "Income Support and Employment - Employment - Employment Preparation - Career Development - Career Counseling * Indigenous Communities; Organizational/Community/International Services - Arts and Culture - Cultural Heritage Programs * Indigenous Communities; Criminal Justice and Legal Services - Legal Services - Family Law - Divorce Assistance * Indigenous Communities; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision * Indigenous Communities; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Indigenous Communities; Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers; Education - Educational Institutions/Schools; Organizational/Community/International Services - Information Services - Information Sources - Legal Information Services * Indigenous Communities; Individual and Family Life - Social Development and Enrichment - Social Clubs/Events * Indigenous Communities; Health Care - Specialized Treatment and Prevention - Alternative Medicine",
-        "TaxonomyCodes": "ND-2000.1500-160 * YH-6000.3280; TA-1550 * YH-6000.3280; FT-3000.1700 * YH-6000.3280; BM-6500.1500-250 * YH-6000.3280; BH-3900.3100 * YH-6000.3280; TC-5500.3300; HD-3300; TJ-3200.4500 * YH-6000.3280; PS-8000 * YH-6000.3280; LT-0500.8560",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "Services and programs free unless specified",
-        "Eligibility": "\u200bAboriginal people, including First Nations, Inuit and Metis <br/>\r\nWasa-Nabin Youth Program - youth 13-18 years",
-        "AgencyClassification": "",
-        "AgencyDescription": "Centre to meet, socialize, share and learn from each other, services include<br /><br /><strong>Tin pantry</strong> -- in collaboration with the Mississauga food bank<br /><br /><strong>Wasa-Nabin Youth Program</strong> -- individual and peer support, life skills guidance, personalized plan of action, addiction prevention<br /><br /><strong>Journey together: indigenous child and family outreach program</strong> -- deliver culturally specific experiences geared towards children and families attending EarlyON centres<br /><br /><strong>Indigenous court worker program</strong> -- support, liaison services, resources and information on matters relating to the judicial system <br /><strong>Gladue writer</strong> -- write and submit a Gladue report to provide information to the court - for sentencing purposes - regarding the life circumstances if an Indigenous offender<br /><strong>Gladue aftercare </strong>-- case management to ensure the clients are meeting the needs of their sentencing conditions<br /><br /><strong>Indigenous mental health and addictions</strong> -- sweat ceremony, sharing circles, one on one sessions with Elders, Healers and Seers<br /><br /><strong>Urban aboriginal healthy living program </strong>-- nutrition education, physical fitness activities<br /><br /><strong>Cultural resource </strong><ul>\t<li>cultural and recreational program</li>\t<li>traditional teaching</li>\t<li>drumming circles</li>\t<li>talkin circles</li>\t<li>one on one, group and peer informal counselling</li>\t<li>community referrals</li></ul>",
-        "ParentAgency": "Indigenous Network",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
