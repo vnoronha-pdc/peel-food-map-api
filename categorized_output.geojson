@@ -345,8 +345,8 @@
         "PublicName": "Muslim Welfare Canada - Mississauga Halal Food and Essential Items Bank",
         "Score": 490,
         "ServiceArea": [
-          "Scarborough",
-          "Mississauga"
+          "Mississauga",
+          "Scarborough"
         ],
         "Distance": 25,
         "Description": "Halal food bank<ul>\t<li>clothing and household items</li></ul>",
@@ -1191,7 +1191,7 @@
         "id": 69797238,
         "CurrentId": 69797238,
         "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community and Family Services - Meadowvale Food Bank and Community Services",
+        "PublicName": "Salvation Army, Community Services - Meadowvale Food Bank and Community Services",
         "Score": 405,
         "ServiceArea": [
           "Mississauga"
@@ -1235,7 +1235,7 @@
         "Eligibility": "Low-income individuals and families ; assistance provided to the following postal codes L5M, L5N, L5V, L5W",
         "AgencyClassification": "",
         "AgencyDescription": "Emergency food assistance according to postal codes <br />Christmas assistance program",
-        "ParentAgency": "Salvation Army, Community and Family Services",
+        "ParentAgency": "Salvation Army, Community Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -1377,7 +1377,7 @@
         "id": 69797232,
         "CurrentId": 69797232,
         "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community and Family Services - Mississauga Temple Family Services - Food Bank",
+        "PublicName": "Salvation Army, Community Services - Mississauga Temple Family Services - Food Bank",
         "Score": 405,
         "ServiceArea": [
           "Mississauga"
@@ -1427,7 +1427,7 @@
         "Eligibility": "Low-income individuals and families<br/>\r\nChristmas assistance for single person and families <br/>\r\nServes those living in postal code areas beginning with L4V, L4W, L4X, L4Y, L4Z, L5A, L5B, L5E, L5G, L5P, L5R, L5S and L5T",
         "AgencyClassification": "",
         "AgencyDescription": "Provides the following services to people in need:<ul>\t<li>Food Bank -- by appointment</li>\t<li>Christmas Assistance Program available to single persons and families</li></ul>Volunteers needed",
-        "ParentAgency": "Salvation Army, Community and Family Services",
+        "ParentAgency": "Salvation Army, Community Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -1569,7 +1569,7 @@
         "id": 83212984,
         "CurrentId": 83212984,
         "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community and Family Services - Erin Mills Church Food Bank",
+        "PublicName": "Salvation Army, Community Services - Erin Mills Church Food Bank",
         "Score": 405,
         "ServiceArea": [
           "Mississauga"
@@ -1619,7 +1619,7 @@
         "Eligibility": "Low-income individuals and families; toys for children 14 and under; serves postal codes L5L, L5C, L5K, L5H and L5J",
         "AgencyClassification": "",
         "AgencyDescription": "<ul>\t<li>food bank</li>\t<li>Christmas Assistance, toys</li>\t</ul>",
-        "ParentAgency": "Salvation Army, Community and Family Services",
+        "ParentAgency": "Salvation Army, Community Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -2034,7 +2034,7 @@
         "id": 69797235,
         "CurrentId": 69797235,
         "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community and Family Services - Brampton Branch",
+        "PublicName": "Salvation Army, Community Services - Brampton Branch",
         "Score": 190,
         "ServiceArea": [
           "Peel Region",
@@ -2079,7 +2079,7 @@
         "Eligibility": "Low income and families in need ; serves those living in postal code areas beginning with L4T, L6P, L6R, L6S, L6T, L6V, L6W, L6X, L6Y, L6Z and L7A  <br/> \r\n<br /><b>Christmas Care</b> -- children 0-14 years",
         "AgencyClassification": "",
         "AgencyDescription": "<p><strong>Community and family services; </strong>provides the following services to people in need:</p><ul>\t<li>food bank</li>\t<li>Christmas assistance, toys</li>\t<li>clothing</li></ul>",
-        "ParentAgency": "Salvation Army, Community and Family Services",
+        "ParentAgency": "Salvation Army, Community Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -2563,6 +2563,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.636788,
+          43.590993
+        ]
+      },
+      "properties": {
+        "id": 97605039,
+        "CurrentId": 97605039,
+        "ParentId": 69806781,
+        "PublicName": "Ach\u0113v - Programs for Women",
+        "Score": 190,
+        "ServiceArea": [
+          "Peel Region"
+        ],
+        "Distance": 24,
+        "Description": "<p><strong>Stronger Together: </strong>gender-based violence prevention and support, including one-on-one counselling, peer support groups and customized staff training or community workshops</p><p><strong>EmpowHER:</strong> training and mentoring to fill various employability gaps faced by young women</p><p><strong>Workforce pathways for women in Senior Care:</strong> applications presently closed</p><p><strong>RISE Program for women experiencing abuse:</strong> counselling, safety planning, support groups, awareness presentations, system navigation, life skills development</p><p><strong>Paving the Way for Immigrant and Racialized Women:</strong> 21 month program offering free Diversity, Equity, Inclusion, and Accessibility (DEIA) training</p><p><strong>Skills for Success in Food Services and Accommodation program:</strong> skills development for careers in the hospitality industry, also supports Newcomers, youth, and racialized individuals</p>",
+        "Latitude": 43.590993,
+        "Longitude": -79.636788,
+        "PhysicalAddressStreet1": "Sussex Centre, 90 Burnhamthorpe Rd W",
+        "PhysicalAddressStreet2": "Suite 210",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5B 3C3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "Sussex Centre, 90 Burnhamthorpe Rd W",
+        "MailingAddressStreet2": "Suite 210",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L5B 3C3",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-949-0049",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://achev.ca/services/women-services/",
+        "Email": "info@achev.ca",
+        "Hours": "Hours vary by program",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-03-19 14:54:15",
+        "TaxonomyTerms": "Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Abuse Counseling - Spouse/Intimate Partner Abuse Counseling * Abused Women; Mental Health and Substance Use Disorder Services - Mental Health Support Services - Peer Mental Health Support Services * Abused Women; Organizational/Community/International Services - Organizational Development and Management Services - Human Resources Management Support * Abused Women; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Abused Women; Criminal Justice and Legal Services - Law Enforcement Services - Crime Prevention - Family Violence Prevention - Spouse/Intimate Partner Abuse Prevention; Income Support and Employment - Employment - Employment Preparation - Occupation Specific Job Training * Women; Income Support and Employment - Employment - Employment Preparation - Occupation Specific Job Training * Community Newcomers; Income Support and Employment - Employment - Employment Preparation - Occupation Specific Job Training * Racialized Communities",
+        "TaxonomyCodes": "RP-1400.8000-020.80 * YX-0300.0190; RR-6510 * YX-0300.0190; TP-3000 * YX-0300.0190; TJ-3000.8000 * YX-0300.0190; FN-1500.1900-800; ND-2000.6400 * YS-2000.9500; ND-2000.6400 * YJ-1600; ND-2000.6400 * YJ-8950",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Female or female-identifying persons, some programs may have more specific eligibility criteria, contact for details",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p><strong>Stronger Together: </strong>gender-based violence prevention and support, including one-on-one counselling, peer support groups and customized staff training or community workshops</p><p><strong>EmpowHER:</strong> training and mentoring to fill various employability gaps faced by young women</p><p><strong>Workforce pathways for women in Senior Care:</strong> applications presently closed</p><p><strong>RISE Program for women experiencing abuse:</strong> counselling, safety planning, support groups, awareness presentations, system navigation, life skills development</p><p><strong>Paving the Way for Immigrant and Racialized Women:</strong> 21 month program offering free Diversity, Equity, Inclusion, and Accessibility (DEIA) training</p><p><strong>Skills for Success in Food Services and Accommodation program:</strong> skills development for careers in the hospitality industry, also supports Newcomers, youth, and racialized individuals</p>",
+        "ParentAgency": "Ach\u0113v",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.595224,
           43.617757
         ]
@@ -2701,7 +2763,7 @@
         "id": 69797230,
         "CurrentId": 69797230,
         "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community and Family Services - Mississauga Community and Family Services",
+        "PublicName": "Salvation Army, Community Services - Mississauga Community and Family Services",
         "Score": 190,
         "ServiceArea": [
           "Mississauga"
@@ -2751,7 +2813,7 @@
         "Eligibility": "Low-income individuals and families <br/>\r\nCall for eligibility criteria for specific programs and assistance<br/>\r\nServes postal codes beginning with L4V, L4Y, L4W, L4X, L4Z, L5A, L5B, L5E, L5G, L5P, L5R, L5S, L5T\r\n<br />",
         "AgencyClassification": "",
         "AgencyDescription": "Programs include<ul>\t<li>Anger Management course</li>\t<li>Trustee program</li>\t<li><strong>seniors' program</strong> -- social interaction, including a light lunch and education on various relevant topics such as internet safety, food education</li>\t<li><strong>Pathway of Hope program</strong> -- a holistic approach to end poverty one person/family at a time</li>\t<li>back pack school program</li></ul>",
-        "ParentAgency": "Salvation Army, Community and Family Services",
+        "ParentAgency": "Salvation Army, Community Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
       }
@@ -3301,7 +3363,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-09-25 07:56:48",
+        "UpdatedOn": "2026-03-18 10:20:35",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities * Physical Disabilities; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for People with Disabilities * Physical Disabilities",
         "TaxonomyCodes": "PH-0500 * YF-6500; BH-8400.6000-800 * YF-6500",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -3669,10 +3731,10 @@
         "PublicName": "Ontario Health atHome, Brampton office - Ontario Health atHome, Brampton",
         "Score": 105,
         "ServiceArea": [
+          "Etobicoke",
           "Woodbridge",
           "Dufferin County",
-          "Peel Region",
-          "Etobicoke"
+          "Peel Region"
         ],
         "Distance": 14,
         "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
@@ -3723,7 +3785,7 @@
         "Hours2": "Mon 0800 - 2000; Tue 0800 - 2000; Wed 0800 - 2000; Thu 0800 - 2000; Fri 0800 - 2000; Sat 0800 - 2000; Sun 0800 - 2000; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-11-28 08:20:57",
+        "UpdatedOn": "2026-03-18 10:20:34",
         "TaxonomyTerms": "Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Planning/Coordinating/Advisory Groups * Health Issues; Organizational/Community/International Services - Information Services - Information and Referral - Comprehensive Information and Referral; Health Care - Health Supportive Services; Health Care - Health Supportive Services - Long Term Care Options Counseling; Health Care - Health Screening/Diagnostic Services - Activities of Daily Living Assessment; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Individual and Family Life - Individual and Family Support Services - Respite Care - Out of Home Respite Care - Adult Out of Home Respite Care; Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities; Health Care - Specialized Treatment and Prevention - Home Health Care * Youth; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Older Adults; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * People With Disabilities; Health Care - Health Supportive Services - Health Care Referrals - Nursing Facility Referrals; Health Care - Specialized Treatment and Prevention - Palliative Care; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Health Care - Rehabilitation/Habilitation Services - Speech and Hearing - Speech and Language Pathology",
         "TaxonomyCodes": "TD-6500 * YZ-3050; TJ-3000.1500; LH-4500; LH-4600; LF-0100; PH-2400.0500; LT-2800; PH-2400.3300; PH-7000.6000-060; PH-0500; LT-2800 * YB-9500; BH-3900.3100 * YB-8000; BH-3900.3100 * YJ-8750; LH-2600.6000; LT-6650; PH-3300.6500; LR-8000.8000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -4542,7 +4604,7 @@
         "Hours2": "Mon 0830 - 2100; Tue 0830 - 2100; Wed 0830 - 2100; Thu 0830 - 2100; Fri 0830 - 2100; Sat 0830 - 2100; Sun 0830 - 2100; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-11-28 08:18:36",
+        "UpdatedOn": "2026-03-18 10:20:34",
         "TaxonomyTerms": "Health Care - Health Supportive Services; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries; Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Health Care - Rehabilitation/Habilitation Services - Occupational Therapy; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Health Care - Rehabilitation/Habilitation Services - Physical Therapy; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Health Issues; Health Care - Rehabilitation/Habilitation Services - Speech and Hearing - Speech and Language Pathology; Education - Educational Support Services - Student Services and Campus Life - Student Disability Services; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Brain Injuries; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Older Adults; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * People With Disabilities; Health Care - Health Supportive Services - Long Term Care Options Counseling; Health Care - Health Supportive Services - Health Care Referrals - Nursing Facility Referrals; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * People With Disabilities; Health Care - Specialized Treatment and Prevention - Home Health Care * Youth; Income Support and Employment - Public Assistance Programs - Medical Public Assistance Programs - Long Term Care Resident Subsidies; Health Care - Specialized Treatment and Prevention - Palliative Care * Youth; Individual and Family Life - Individual and Family Support Services - Respite Care - Out of Home Respite Care - Adult Out of Home Respite Care; Individual and Family Life - Individual and Family Support Services - Respite Care - In Home Respite Care - Children's In Home Respite Care",
         "TaxonomyCodes": "LH-4500; PH-2400.0500; PH-0500; LT-2800; PH-2400.3300; LR-6200; PH-3300.6500; LR-6600; TJ-3000.8000 * YZ-3050; LR-8000.8000; HL-8120.7980; PH-1000 * YF-3000.1300-050; BH-3900.3100 * YB-8000; BH-3900.3100 * YJ-8750; LH-4600; LH-2600.6000; PH-1000 * YB-8000; PH-1000 * YJ-8750; LT-2800 * YB-9500; NL-5000.4000; LT-6650 * YB-9500; PH-7000.6000-060; PH-7000.3300-140",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -4691,7 +4753,7 @@
         "Hours2": "Mon 0800 - 1500; Tue 0800 - 1500; Wed 0800 - 1500; Thu 0800 - 1500; Fri 0800 - 1500; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-09-25 07:56:45",
+        "UpdatedOn": "2026-03-18 10:20:32",
         "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals",
         "TaxonomyCodes": "BD-5000.3500",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5116,13 +5178,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
@@ -5155,7 +5217,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-01-09 13:54:26",
+        "UpdatedOn": "2026-03-18 10:20:33",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Companionship - Friendly Outreach Programs; Basic Needs - Food - Meals - Home Delivered Meals; Individual and Family Life - Individual and Family Support Services - Emergency Alert - Telephone Reassurance",
         "TaxonomyCodes": "PH-1400.1900; BD-5000.3500; PH-1800.8500",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5280,7 +5342,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-09-25 07:56:45",
+        "UpdatedOn": "2026-03-18 10:20:32",
         "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Individual and Family Life - Volunteer Opportunities; Individual and Family Life - Individual and Family Support Services - Companionship - Friendly Outreach Programs; Health Care - Health Supportive Services - Health Education - Wellness Programs * Older Adults; Individual and Family Life - Individual and Family Support Services - Emergency Alert - Locator Aids * Dementia; Basic Needs - Food - Food Outlets - Grocery Delivery; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Errand Running/Shopping Assistance",
         "TaxonomyCodes": "BD-5000.3500; PX; PH-1400.1900; LH-2700.9500 * YB-8000; PH-1800.4600 * YF-3000.2380; BD-2400.2590; PH-3300.1800",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5549,7 +5611,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-11-10 13:30:51",
+        "UpdatedOn": "2026-03-18 10:20:34",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Basic Needs - Food - Meals - Senior Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults; Basic Needs - Food - Meals - Home Delivered Meals",
         "TaxonomyCodes": "PH-1000 * YB-8000; BD-5000.1500; BH-8400.6000-060; PH-3300.3000; PH-1800.3350; PH-3300.6500; PL-6600 * YB-8000; BD-5000.3500",
         "LastVerifiedByPhoneNumber": "Not Available",
