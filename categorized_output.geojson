@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -2486,6 +2486,83 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.7193,
+          43.5843
+        ]
+      },
+      "properties": {
+        "id": 86818013,
+        "CurrentId": 97616912,
+        "ParentId": 86818008,
+        "PublicName": "Victorian Order of Nurses - Community Support Services",
+        "Score": 190,
+        "ServiceArea": [
+          "Milton",
+          "Mississauga",
+          "Oakville",
+          "Etobicoke"
+        ],
+        "Distance": 21,
+        "Description": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
+        "Latitude": 43.5843,
+        "Longitude": -79.7193,
+        "PhysicalAddressStreet1": "78 William St",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5M 1J3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "",
+        "MailingAddressProvince": "",
+        "MailingAddressPostalCode": "",
+        "MailingAddressCountry": "",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-821-3254",
+            "Name": "Business Line",
+            "Description": "",
+            "Type": "Business Line"
+          },
+          {
+            "Phone": "1-855-285-2991",
+            "Name": "Toll Free",
+            "Description": "",
+            "Type": "Toll Free"
+          },
+          {
+            "Phone": "905-821-8256 or 1-866-226-8005",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "von.ca/en/services-programs",
+        "Email": "clientrelations@von.ca",
+        "Hours": "<p>Hours vary per program and service<br>Administration: Mon-Fri 8:30am-4:30pm</p>",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": null,
+        "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Health Care - Rehabilitation/Habilitation Services - Therapeutic Exercise; Basic Needs - Food - Meals - Senior Meals; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Basic Needs - Food - Meals - Community Meals",
+        "TaxonomyCodes": "BD-5000.3500; LR-8400; BD-5000.1500; PH-3300.6500; PH-3300.3000; BD-5000.1470",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "Varies per program",
+        "Eligibility": "<p>Older adults and people with disabilities, who need physical, social, or emotional supports</p><br /><br />Residency Requirements: Mississauga, South Etobicoke, Oakville, Milton",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
+        "ParentAgency": "Victorian Order of Nurses",
+        "RecordOwner": "Halton Information Providers",
+        "FoodProgram": "Food Delivery Program"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.636788,
           43.590993
         ]
@@ -4167,78 +4244,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.7193,
-          43.5843
-        ]
-      },
-      "properties": {
-        "id": 86818013,
-        "CurrentId": 97607418,
-        "ParentId": 86818008,
-        "PublicName": "Victorian Order of Nurses - Community Support Services",
-        "Score": 105,
-        "ServiceArea": [],
-        "Distance": 21,
-        "Description": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
-        "Latitude": 43.5843,
-        "Longitude": -79.7193,
-        "PhysicalAddressStreet1": "78 William St",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5M 1J3",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "",
-        "MailingAddressProvince": "",
-        "MailingAddressPostalCode": "",
-        "MailingAddressCountry": "",
-        "PhoneNumbers": [
-          {
-            "Phone": "<p>905-821-3254",
-            "Name": "Business Line",
-            "Description": "",
-            "Type": "Business Line"
-          },
-          {
-            "Phone": "1-855-285-2991",
-            "Name": "Toll Free",
-            "Description": "",
-            "Type": "Toll Free"
-          },
-          {
-            "Phone": "905-821-8256 or 1-866-226-8005",
-            "Name": "Fax",
-            "Description": "",
-            "Type": "Fax"
-          }
-        ],
-        "Website": "von.ca/en/services-programs",
-        "Email": "clientrelations@von.ca",
-        "Hours": "<p>Hours vary per program and service<br>Administration: Mon-Fri 8:30am-4:30pm</p>",
-        "Hours2": "",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": null,
-        "TaxonomyTerms": "",
-        "TaxonomyCodes": "",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "Varies per program",
-        "Eligibility": "<p>Older adults and people with disabilities, who need physical, social, or emotional supports</p><br /><br />Residency Requirements: Mississauga, South Etobicoke, Oakville, Milton",
-        "AgencyClassification": "",
-        "AgencyDescription": "<p>Community Support Services:</p>\n<ul>\n<li>Meals on Wheels (hot and frozen * volunteers deliver nourishing meals to people unable to cook or shop for themselves)</li>\n<li>SMART Exercise Program (Seniors Maintaining Active Roles Together) * one-on-one in home exercise program that aims to restore frail, elderly, high risk seniors who have had a recent decline in functional abilities</li>\n<li>Supportive Housing Program (provides homemaking, personal support and/or attendant services to elderly individuals who live in designated supportive housing locations and who require services on a 24-hour basis)</li>\n<li>Supports for Daily Living (SDL) provides 24-hour pre-scheduled or urgent on call response for support services including multiple daily visits based on individual needs by trained personal support workers (PSWs) * personal care could include bathing, dressing, grooming, medication assistance/reminders, light food preparation, etc. * eligibility is determined by individual assessment * contact Mississauga Halton Central Registry at 905-281-4443</li>\n<li>Dining programs * bring together community members who are at risk of isolation to socialize and enjoy each other's company * monthly meals could be breakfasts, lunches, dinners or a hot beverage * activities may include music, games or a guest speaker</li>\n</ul>\n<p><br /><br /><strong>Services and Programs:</strong></p>\n<ul>\n<li>Dining Programs - Seniors Lunch Bunch</li>\n<li>Meals On Wheels</li>\n<li>Seniors Maintaining Active Roles Together (SMART) Enhanced Program</li>\n<li>Supportive Housing</li>\n<li>Supports for Daily Living</li>\n</ul>",
-        "ParentAgency": "Victorian Order of Nurses",
-        "RecordOwner": "Halton Information Providers",
-        "FoodProgram": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.603031,
           43.621285
         ]
@@ -4523,6 +4528,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.6104,
+          43.5726
+        ]
+      },
+      "properties": {
+        "id": 97617483,
+        "CurrentId": 97617483,
+        "ParentId": 97617480,
+        "PublicName": "Allergy Clinical Immunology and Rheumatology Clinic",
+        "Score": 105,
+        "ServiceArea": [
+          "Mississauga",
+          "Oakville"
+        ],
+        "Distance": 27,
+        "Description": "<p>Multidisciplinary clinic offering allergy and rheumatology care * allergies develop when a person's immune system overreacts to substances that are usually harmless<br /><br />Services include:</p>\n<ul>\n<li>allergy testing and treatment</li>\n<li>skin condition management</li>\n<li>asthma management</li>\n<li>food allergy challenges</li>\n<li>penicillin allergy management</li>\n<li>rheumatology diagnosis, management and treatment</li>\n<li>joint injections</li>\n</ul>",
+        "Latitude": 43.5726,
+        "Longitude": -79.6104,
+        "PhysicalAddressStreet1": "89 Queensway W",
+        "PhysicalAddressStreet2": "Suite 212",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5B 2V2",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "",
+        "MailingAddressProvince": "",
+        "MailingAddressPostalCode": "",
+        "MailingAddressCountry": "",
+        "PhoneNumbers": [
+          {
+            "Phone": "416-907-2003",
+            "Name": "Business Line",
+            "Description": "",
+            "Type": "Business Line"
+          },
+          {
+            "Phone": "416-907-4166",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "acir.ca",
+        "Email": "patients@acir.ca",
+        "Hours": "<p>Mon-Fri 9am-5pm</p>",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": null,
+        "TaxonomyTerms": "Health Care - Specialty Medicine - Allergy Specialty; Health Care - Health Screening/Diagnostic Services - Disease/Disability Specific Screening/Diagnosis - Allergy Testing; Health Care - Specialty Medicine - Internal Medicine - Rheumatology",
+        "TaxonomyCodes": "LV-0500; LF-4900.0450; LV-3300.7000",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "also accepts Interim Federal Health Program (IFHP) and private pay patients",
+        "Eligibility": "<p>Adult and pediatric allergy and rheumatology patients</p>",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Multidisciplinary clinic offering allergy and rheumatology care * allergies develop when a person's immune system overreacts to substances that are usually harmless<br /><br />Services include:</p>\n<ul>\n<li>allergy testing and treatment</li>\n<li>skin condition management</li>\n<li>asthma management</li>\n<li>food allergy challenges</li>\n<li>penicillin allergy management</li>\n<li>rheumatology diagnosis, management and treatment</li>\n<li>joint injections</li>\n</ul>",
+        "ParentAgency": "Allergy Clinical Immunology and Rheumatology Clinic",
+        "RecordOwner": "Halton Information Providers",
+        "FoodProgram": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.662402,
           43.512902
         ]
@@ -4623,7 +4697,7 @@
       },
       "properties": {
         "id": 73550892,
-        "CurrentId": 97607808,
+        "CurrentId": 97617186,
         "ParentId": 73550874,
         "PublicName": "Ontario Health atHome - Ontario Health atHome, Mississauga Office",
         "Score": 105,
@@ -4632,7 +4706,7 @@
           "Halton Region"
         ],
         "Distance": 30,
-        "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care <br /><br />Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referral</strong> - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222 (area code not required)<br /><br /><strong>Children's Health Services</strong> - Special health services for children in both the home and school environment * supports children when health care provision is essential to a student's participation and development in school programs * services are provided within public, private or home-based schools<br /><br /><strong>Health Care Connect</strong> - Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector employed by Ontario Health atHome Mississauga Halton * Care Connectors work with family doctors and nurse practitioners who are accepting new patients<br /><br /><strong>In-Home Services</strong> - Health care services to people in their own homes<br /><br /><strong>Mental Health and Addictions Nurses</strong> - Assessments, interventions and support to students and families with mental health and or addiction issues * consultation to school staff in regards to mental health and/or addiction issues as appropriate<br /><br /><strong>Placement Services</strong> - Determine eligibility for admission to long-term care facilities and prioritize and manage the admission process * support and information is provided to applicants and their families prior to and during the admission process<br /><br /><strong>Nursing Clinics</strong> - Nursing services for ambulatory patients at clinics located in the community<br /><br /><strong>Adult Day Programs</strong> - Programs that promote wellness, dignity, and enhance quality of life in a social setting, and provide a much-needed break for persons providing care and support at home * contact Central Registry at 905-281-4443 for information and how to apply</p>",
+        "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care <br /><br />Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referral</strong> - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222 (area code not required)<br /><br /><strong>Children's Health Services</strong> - Special health services for children in both the home and school environment * supports children when health care provision is essential to a student's participation and development in school programs * services are provided within public, private or home-based schools<br /><br /><strong>Health Care Connect</strong> - Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector employed by Ontario Health atHome Mississauga Halton * Care Connectors work with family doctors and nurse practitioners who are accepting new patients<br /><br /><strong>In-Home Services</strong> - Health care services to people in their own homes<br /><br /><strong>Mental Health and Addictions Nurses</strong> -  Assessments, interventions and support to students and families with mental health and or addiction issues * consultation to school staff in regards to mental health and/or addiction issues as appropriate<br /><br /><strong>Placement Services</strong> - Determine eligibility for admission to long-term care facilities and prioritize and manage the admission process * support and information is provided to applicants and their families prior to and during the admission process<br /><br /><strong>Nursing Clinics</strong> - Nursing services for ambulatory patients at clinics located in the community<br /><br /><strong>Adult Day Programs</strong> - Programs that promote wellness, dignity, and enhance quality of life in a social setting, and provide a much-needed break for persons providing care and support at home * contact <a href=\"https://www.centralregistry.ca/adult-day-programs\" target=\"_blank\">Central Registry</a> at 905-281-4443 for information and how to apply</p>",
         "Latitude": 43.5124,
         "Longitude": -79.6625,
         "PhysicalAddressStreet1": "2655 North Sheridan Way",
@@ -4650,7 +4724,7 @@
         "MailingAddressCountry": "",
         "PhoneNumbers": [
           {
-            "Phone": "<p>905-855-9090",
+            "Phone": "905-855-9090",
             "Name": "Business Line",
             "Description": "",
             "Type": "Business Line"
@@ -4693,7 +4767,7 @@
         "FeeStructureSource": "Covered by OHIP",
         "Eligibility": "<p>People of all ages who are facing the challenges of age, illness, injury, or disability</p><br /><br />Residency Requirements: Mississauga Halton region",
         "AgencyClassification": "",
-        "AgencyDescription": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care <br /><br />Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referral</strong> - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222 (area code not required)<br /><br /><strong>Children's Health Services</strong> - Special health services for children in both the home and school environment * supports children when health care provision is essential to a student's participation and development in school programs * services are provided within public, private or home-based schools<br /><br /><strong>Health Care Connect</strong> - Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector employed by Ontario Health atHome Mississauga Halton * Care Connectors work with family doctors and nurse practitioners who are accepting new patients<br /><br /><strong>In-Home Services</strong> - Health care services to people in their own homes<br /><br /><strong>Mental Health and Addictions Nurses</strong> - Assessments, interventions and support to students and families with mental health and or addiction issues * consultation to school staff in regards to mental health and/or addiction issues as appropriate<br /><br /><strong>Placement Services</strong> - Determine eligibility for admission to long-term care facilities and prioritize and manage the admission process * support and information is provided to applicants and their families prior to and during the admission process<br /><br /><strong>Nursing Clinics</strong> - Nursing services for ambulatory patients at clinics located in the community<br /><br /><strong>Adult Day Programs</strong> - Programs that promote wellness, dignity, and enhance quality of life in a social setting, and provide a much-needed break for persons providing care and support at home * contact Central Registry at 905-281-4443 for information and how to apply</p>",
+        "AgencyDescription": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care <br /><br />Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referral</strong> - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222 (area code not required)<br /><br /><strong>Children's Health Services</strong> - Special health services for children in both the home and school environment * supports children when health care provision is essential to a student's participation and development in school programs * services are provided within public, private or home-based schools<br /><br /><strong>Health Care Connect</strong> - Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector employed by Ontario Health atHome Mississauga Halton * Care Connectors work with family doctors and nurse practitioners who are accepting new patients<br /><br /><strong>In-Home Services</strong> - Health care services to people in their own homes<br /><br /><strong>Mental Health and Addictions Nurses</strong> -  Assessments, interventions and support to students and families with mental health and or addiction issues * consultation to school staff in regards to mental health and/or addiction issues as appropriate<br /><br /><strong>Placement Services</strong> - Determine eligibility for admission to long-term care facilities and prioritize and manage the admission process * support and information is provided to applicants and their families prior to and during the admission process<br /><br /><strong>Nursing Clinics</strong> - Nursing services for ambulatory patients at clinics located in the community<br /><br /><strong>Adult Day Programs</strong> - Programs that promote wellness, dignity, and enhance quality of life in a social setting, and provide a much-needed break for persons providing care and support at home * contact <a href=\"https://www.centralregistry.ca/adult-day-programs\" target=\"_blank\">Central Registry</a> at 905-281-4443 for information and how to apply</p>",
         "ParentAgency": "Ontario Health atHome",
         "RecordOwner": "Halton Information Providers",
         "FoodProgram": "Food Education Program (Communal Cooking)"
@@ -5479,6 +5553,82 @@
         "ParentAgency": "Smart Serve Ontario",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7193,
+          43.5843
+        ]
+      },
+      "properties": {
+        "id": 86818011,
+        "CurrentId": 97616910,
+        "ParentId": 86818008,
+        "PublicName": "Victorian Order of Nurses - Meals On Wheels",
+        "Score": 80,
+        "ServiceArea": [
+          "Mississauga",
+          "Oakville",
+          "Etobicoke"
+        ],
+        "Distance": 21,
+        "Description": "Community service that offers affordable, nutritious hot meals by volunteers * frozen meals are also available to choose from * delivers 5 days a week, Mon-Fri (except statutory holidays) * meals are prepared in government-inspected kitchens by volunteers or under contract between VON and commercial or institutional kitchens * meals can be adapted to the unique dietary needs of each client * volunteer opportunities available",
+        "Latitude": 43.5843,
+        "Longitude": -79.7193,
+        "PhysicalAddressStreet1": "78 William St",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5M 1J3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "",
+        "MailingAddressProvince": "",
+        "MailingAddressPostalCode": "",
+        "MailingAddressCountry": "",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-821-3254 ext 2",
+            "Name": "Business Line",
+            "Description": "",
+            "Type": "Business Line"
+          },
+          {
+            "Phone": "1-855-285-2991",
+            "Name": "Toll Free",
+            "Description": "",
+            "Type": "Toll Free"
+          },
+          {
+            "Phone": "905-821-8256 or 1-866-226-8005",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "von.ca/en/von-care/Meals-on-Wheels-Hot",
+        "Email": "peelMOW@von.ca",
+        "Hours": "",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": null,
+        "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Individual and Family Life - Volunteer Opportunities",
+        "TaxonomyCodes": "BD-5000.3500; PX",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "Set fee",
+        "Eligibility": "Older adults, adults with disabilities or those recovering from illness or surgery<br /><br />Residency Requirements: Mississauga (excluding Malton), Oakville, and Toronto (Etobicoke South)",
+        "AgencyClassification": "",
+        "AgencyDescription": "Community service that offers affordable, nutritious hot meals by volunteers * frozen meals are also available to choose from * delivers 5 days a week, Mon-Fri (except statutory holidays) * meals are prepared in government-inspected kitchens by volunteers or under contract between VON and commercial or institutional kitchens * meals can be adapted to the unique dietary needs of each client * volunteer opportunities available",
+        "ParentAgency": "Victorian Order of Nurses",
+        "RecordOwner": "Halton Information Providers",
+        "FoodProgram": "Food Delivery Program"
       }
     },
     {
