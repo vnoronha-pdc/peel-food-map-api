@@ -639,13 +639,13 @@
             "Type": "Fax"
           }
         ],
-        "Website": "http://www.mzaccanada.com",
+        "Website": "https://mzaccanada.com/food-bank/",
         "Email": "mzacfoodbank@gmail.com",
         "Hours": "Fri 1 pm-4 pm",
         "Hours2": "Fri 1300 - 1600; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-25 14:48:15",
+        "UpdatedOn": "2026-04-14 16:30:09",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
         "TaxonomyCodes": "BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
