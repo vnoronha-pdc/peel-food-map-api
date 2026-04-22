@@ -2024,24 +2024,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.72452,
-          43.729759
+          -79.7281519,
+          43.7334755
         ]
       },
       "properties": {
-        "id": 69797235,
-        "CurrentId": 69797235,
-        "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community Services - Brampton Branch",
+        "id": 97642190,
+        "CurrentId": 97642190,
+        "ParentId": 97642143,
+        "PublicName": "The Salvation Army Brampton Citadel Community Church - Community and family services",
         "Score": 190,
         "ServiceArea": [
           "Peel Region",
           "Woodbridge"
         ],
         "Distance": 8,
-        "Description": "<p><strong>Community and family services; </strong>provides the following services to people in need:</p><ul>\t<li>food bank</li>\t<li>Christmas assistance, toys</li>\t<li>clothing</li></ul>",
-        "Latitude": 43.729759,
-        "Longitude": -79.72452,
+        "Description": "<p>provides the following services to people in need:</p><ul>\t<li>food bank</li>\t<li>Christmas Toy Program</li>\t<li>Back to School Program</li></ul>",
+        "Latitude": 43.7334755,
+        "Longitude": -79.7281519,
         "PhysicalAddressStreet1": "9395 Bramalea Rd",
         "PhysicalAddressStreet2": "",
         "PhysicalAddressCity": "Brampton",
@@ -2063,21 +2063,21 @@
             "Type": ""
           }
         ],
-        "Website": "https://salvationarmy.ca/",
+        "Website": "",
         "Email": "bramptonarmy9395@gmail.com",
         "Hours": "Wed 10 am-3 pm, by appointment only",
         "Hours2": "Wed 1000 - 1500; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-11 14:37:15",
-        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision",
-        "TaxonomyCodes": "BD-1800.2000; PH-2950.1500; PH-2950.3200; BM-6500.1500-250",
+        "UpdatedOn": "2026-04-21 14:30:56",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys; Education - Educational Support Services - Student Services and Campus Life - School Supplies",
+        "TaxonomyCodes": "BD-1800.2000; PH-2950.1500; PH-2950.3200; HL-8120.7800",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Low income and families in need ; serves those living in postal code areas beginning with L4T, L6P, L6R, L6S, L6T, L6V, L6W, L6X, L6Y, L6Z and L7A  <br/> \r\n<br /><b>Christmas Care</b> -- children 0-14 years",
         "AgencyClassification": "",
-        "AgencyDescription": "<p><strong>Community and family services; </strong>provides the following services to people in need:</p><ul>\t<li>food bank</li>\t<li>Christmas assistance, toys</li>\t<li>clothing</li></ul>",
-        "ParentAgency": "Salvation Army, Community Services",
+        "AgencyDescription": "<p>provides the following services to people in need:</p><ul>\t<li>food bank</li>\t<li>Christmas Toy Program</li>\t<li>Back to School Program</li></ul>",
+        "ParentAgency": "The Salvation Army Brampton Citadel Community Church",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
