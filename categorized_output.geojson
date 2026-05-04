@@ -314,7 +314,7 @@
         "Hours2": "Mon 1000 - 1300; Thu 1400 - 1900; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-25 14:48:15",
+        "UpdatedOn": "2026-04-30 12:45:43",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
         "TaxonomyCodes": "BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -1511,7 +1511,7 @@
           "Mississauga"
         ],
         "Distance": 26,
-        "Description": "Food bank<br /><br />Learning Kitchen: cooking courses for food bank members<br /><br />Member agency of The Mississauga Food Bank",
+        "Description": "<p>Member agency of The Mississauga Food Bank<br /><br /><br /></p>",
         "Latitude": 43.53707,
         "Longitude": -79.710627,
         "PhysicalAddressStreet1": "3185 Unity Dr",
@@ -1541,14 +1541,14 @@
         "Hours2": "Tue 1600 - 1900; Wed 1300 - 1600; Fri 1000 - 1300; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-25 14:48:15",
+        "UpdatedOn": "2026-04-30 13:03:00",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
         "TaxonomyCodes": "BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
-        "Eligibility": "Food bank: individuals and families in need<br /><br />Residency Requirements: Western Mississauga, postal codes L5L, L5M, and L5N",
+        "Eligibility": "Food bank: individuals and families in need<br /><br />Residency Requirements: Western Mississauga, postal codes L5K, L5L, L5M",
         "AgencyClassification": "",
-        "AgencyDescription": "Food bank<br /><br />Learning Kitchen: cooking courses for food bank members<br /><br />Member agency of The Mississauga Food Bank",
+        "AgencyDescription": "<p>Member agency of The Mississauga Food Bank<br /><br /><br /></p>",
         "ParentAgency": "Eden Food for Change",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
@@ -1938,8 +1938,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2026-04-11 14:34:57",
-        "TaxonomyTerms": "Environment and Public Health/Safety - Public Health - Communicable Disease Control; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Restaurant/Food Sanitation Enforcement; Environment and Public Health/Safety - Environmental Protection and Improvement - Pollution Control - Water Quality Assurance; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Pest Control Services; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Pool Sanitation; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Public Facility Health Inspection; Environment and Public Health/Safety - Public Safety - Safety Advisories - Public Health Advisories; Criminal Justice and Legal Services - Law Enforcement Services - Crime Reporting - Unlawful Distribution of Controlled Substances Reporting; Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Administrative Entities - County Government Departments/Offices * Public Health Issues; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Personal Service Health Inspections",
-        "TaxonomyCodes": "JP-1500; JP-6500.7000; JD-6500.9500; JP-6500.6500; JP-6500.6630; JP-6500.6650; JR-8000.6400; FN-1700.9100; TD-0300.1300 * YZ-6910; JP-6500.6480",
+        "TaxonomyTerms": "Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Personal Service Health Inspections; Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Administrative Entities - County Government Departments/Offices * Public Health Issues; Criminal Justice and Legal Services - Law Enforcement Services - Crime Reporting - Unlawful Distribution of Controlled Substances Reporting; Environment and Public Health/Safety - Public Safety - Safety Advisories - Public Health Advisories; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Public Facility Health Inspection; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Pool Sanitation; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Pest Control Services; Environment and Public Health/Safety - Environmental Protection and Improvement - Pollution Control - Water Quality Assurance; Environment and Public Health/Safety - Public Health - Public Health Information/Inspection/Remediation - Restaurant/Food Sanitation Enforcement; Environment and Public Health/Safety - Public Health - Communicable Disease Control",
+        "TaxonomyCodes": "JP-6500.6480; TD-0300.1300 * YZ-6910; FN-1700.9100; JR-8000.6400; JP-6500.6650; JP-6500.6630; JP-6500.6500; JD-6500.9500; JP-6500.7000; JP-1500",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "No restrictions",
@@ -3379,6 +3379,80 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.72215,
+          43.719271
+        ]
+      },
+      "properties": {
+        "id": 69806777,
+        "CurrentId": 69806777,
+        "ParentId": 69806774,
+        "PublicName": "Peel Region. Housing and Social Support - Ontario Works, Brampton",
+        "Score": 105,
+        "ServiceArea": [
+          "Peel Region"
+        ],
+        "Distance": 9,
+        "Description": "<p>Financial supports, social supports, and referrals to employment supports for people receiving Ontario Works in Durham region</p><p><b>Community Resource Centre</b></p><ul type=\"disc\"> <li>computers with internet access</li> <li>printer, scanner, photocopier and telephones</li> <li>information about upcoming workshops or events</li> <li>educational information</li> <li>financial literacy</li> <li>life   skills and wellness</li> </ul><p><b>Financial Assistance</b></p><ul> <li>monthly allowance based on family size, housing costs and income</li> <li>monthly drug benefit card</li> <li>income tax clinic </li></ul><p><b><span><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/ontario-works\" title=\"https://www.durham.ca/en/living-here/additional-benefits.aspx\" target=\"_blank\" aria-label=\"Open in new window\">Programs and Benefits</a> </span></b><span> </span>-- may include money for </p><ul type=\"disc\"> <li>food</li> <li>shelter   and emergency housing related costs</li> <li>clothing   and other household costs</li> <li>health   costs include dentures, emergency dental services, eyeglasses, prosthetic devices and funeral expenses</li> <li>programs may vary by City or Municipality</li><li><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" title=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" target=\"_blank\" aria-label=\"Open in new window\">past-due bills or rent</a></strong><span> </span>-- help with utility bills or rent to avoid eviction</li> </ul><ul type=\"disc\"> </ul><p><a target=\"_blank\" rel=\"nofollow\" href=\"https://mybenefits.mcss.gov.on.ca/auth/login\" title=\"\" aria-label=\"Open in new window\">MyBenefits</a> - online service to update the Ontario Works case information</p><p><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/services/bus-fare-discounts\" title=\"https://peelregion.ca/services/bus-fare-discounts\" target=\"_blank\">Affordable Transit program</a></strong><span> </span>-- for residents of Brampton or Mississauga who cant afford a monthly bus pass</p><p><b><a href=\"https://feat.findhelp.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Employment Supports</a><span> </span></b>-- these supports may include help to:</p><ul type=\"disc\"><li>write a resume</li><li>build job-related skills</li><li>participate in training</li><li>gain work experience</li><li>search for a job</li><li>access to telephones, faxes, computers and job banks</li></ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" title=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" target=\"_blank\">Interactive Voice Response</a></b> (IVR)</p><ul type=\"disc\"> <li>automated information and payment details, payment history, file status</li> <li>information   and announcements about Ontario Works</li> </ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.mcss.gov.on.ca/wp/en/\" title=\"https://www.mcss.gov.on.ca/wp/en/\" target=\"_blank\">Welfare Fraud Hotline</a> -- </b>to report allegations of fraudulent collection of Ontario Works and Ontario Disability Support Program assistance</p>",
+        "Latitude": 43.719271,
+        "Longitude": -79.72215,
+        "PhysicalAddressStreet1": "10 Peel Centre Dr",
+        "PhysicalAddressStreet2": "Suite B",
+        "PhysicalAddressCity": "Brampton",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L6T 0E6",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "STN B",
+        "MailingAddressStreet1": "PO Box 3880 Stn Mail",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Markham",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L3R 6J7",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-793-9200",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          },
+          {
+            "Phone": "1-888-999-1142",
+            "Name": "Toll Free",
+            "Description": "",
+            "Type": "Toll Free"
+          },
+          {
+            "Phone": "1-800-387-5559",
+            "Name": "TTY",
+            "Description": "",
+            "Type": "TTY"
+          }
+        ],
+        "Website": "https://peelregion.ca/services/apply-ontario-works-or-emergency-assistance",
+        "Email": "info@peelregion.ca",
+        "Hours": "Mon-Fri 8:30 am-5 pm",
+        "Hours2": "Mon 0830 - 1700; Tue 0830 - 1700; Wed 0830 - 1700; Thu 0830 - 1700; Fri 0830 - 1700; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-04-29 15:00:09",
+        "TaxonomyTerms": "Income Support and Employment - Employment - Training and Employment Programs - Welfare to Work Programs; Income Support and Employment - Public Assistance Programs - Basic Income Maintenance Programs; Health Care - Health Supportive Services - Assistive Technology Equipment Provision Options - Assistive Technology Expense Assistance * Income Assistance Recipients; Organizational/Community/International Services - Information Services - Information Sources - Government Information Services - City Government Information Services * Income Assistance Recipients; Income Support and Employment - Employment - Comprehensive Job Assistance Centers; Income Support and Employment - Public Assistance Programs - Medical Public Assistance Programs - Government Subsidized Prescription Drug Benefits; Organizational/Community/International Services - Organizational Development and Management Services - Human Resources Management Support; Income Support and Employment - Employment - Job Finding Assistance - Job Search Resource Centers; Basic Needs - Transportation - Transportation Passes - Local Transit Passes; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Employment Issues; Basic Needs - Utilities - Utility Assistance * Income Assistance Recipients; Income Support and Employment - Employment - Work Related Fee Payment Assistance * Income Assistance Recipients; Basic Needs - Housing/Shelter - Housing Expense Assistance - Rent Payment Assistance; Income Support and Employment - Social Insurance Programs - Burial Benefits - Social Security Burial Benefits; Basic Needs - Transportation - Transportation Expense Assistance * Income Assistance Recipients; Health Care - Health Supportive Services - Medical Expense Assistance - Dental Care Expense Assistance * Income Assistance Recipients; Health Care - Health Supportive Services - Medical Expense Assistance - Eye Care Expense Assistance * Income Assistance Recipients",
+        "TaxonomyCodes": "ND-6500.9500; NL-1000.6350-650; LH-0650.0700 * YC-3100; TJ-3200.2500-140 * YC-3100; ND-1500; NL-5000.2600; TP-3000; ND-3500.3700; BT-8500.1000; TJ-3000.8000 * YZ-1950; BV-8900 * YC-3100; ND-9300 * YC-3100; BH-3800.7000; NS-1000.8000; BT-8300 * YC-3100; LH-5100.1700 * YC-3100; LH-5100.1750 * YC-3100",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Peel residents 18 years and older in financial need, determined by a review of income, assets and living expenses, youth 16-17 years may be eligible\r\nServes those living in postal code areas: L4T L6R L6S L6T L6V L6W L6X L6Y L6Z L7A L7C L7E L0N L0P L0G L0J L1E L9W",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Financial supports, social supports, and referrals to employment supports for people receiving Ontario Works in Durham region</p><p><b>Community Resource Centre</b></p><ul type=\"disc\"> <li>computers with internet access</li> <li>printer, scanner, photocopier and telephones</li> <li>information about upcoming workshops or events</li> <li>educational information</li> <li>financial literacy</li> <li>life   skills and wellness</li> </ul><p><b>Financial Assistance</b></p><ul> <li>monthly allowance based on family size, housing costs and income</li> <li>monthly drug benefit card</li> <li>income tax clinic </li></ul><p><b><span><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/ontario-works\" title=\"https://www.durham.ca/en/living-here/additional-benefits.aspx\" target=\"_blank\" aria-label=\"Open in new window\">Programs and Benefits</a> </span></b><span> </span>-- may include money for </p><ul type=\"disc\"> <li>food</li> <li>shelter   and emergency housing related costs</li> <li>clothing   and other household costs</li> <li>health   costs include dentures, emergency dental services, eyeglasses, prosthetic devices and funeral expenses</li> <li>programs may vary by City or Municipality</li><li><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" title=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" target=\"_blank\" aria-label=\"Open in new window\">past-due bills or rent</a></strong><span> </span>-- help with utility bills or rent to avoid eviction</li> </ul><ul type=\"disc\"> </ul><p><a target=\"_blank\" rel=\"nofollow\" href=\"https://mybenefits.mcss.gov.on.ca/auth/login\" title=\"\" aria-label=\"Open in new window\">MyBenefits</a> - online service to update the Ontario Works case information</p><p><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/services/bus-fare-discounts\" title=\"https://peelregion.ca/services/bus-fare-discounts\" target=\"_blank\">Affordable Transit program</a></strong><span> </span>-- for residents of Brampton or Mississauga who cant afford a monthly bus pass</p><p><b><a href=\"https://feat.findhelp.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Employment Supports</a><span> </span></b>-- these supports may include help to:</p><ul type=\"disc\"><li>write a resume</li><li>build job-related skills</li><li>participate in training</li><li>gain work experience</li><li>search for a job</li><li>access to telephones, faxes, computers and job banks</li></ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" title=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" target=\"_blank\">Interactive Voice Response</a></b> (IVR)</p><ul type=\"disc\"> <li>automated information and payment details, payment history, file status</li> <li>information   and announcements about Ontario Works</li> </ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.mcss.gov.on.ca/wp/en/\" title=\"https://www.mcss.gov.on.ca/wp/en/\" target=\"_blank\">Welfare Fraud Hotline</a> -- </b>to report allegations of fraudulent collection of Ontario Works and Ontario Disability Support Program assistance</p>",
+        "ParentAgency": "Peel Region. Housing and Social Support",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Education Program (Communal Cooking)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.712073,
           43.728069
         ]
@@ -3730,10 +3804,11 @@
         "Score": 105,
         "ServiceArea": [
           "Dufferin County",
-          "Peel Region"
+          "Etobicoke North",
+          "Brampton"
         ],
         "Distance": 14,
-        "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
+        "Description": "<p>Health care services offered at home, at school, and in the community, and access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p><strong>School Health Support Services </strong>- services for children who require medical or rehabilitative assistance to attend school</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to <strong>long-term care facilities, </strong>prioritize and manage the admission process and provide support to applicants and families during the process</p><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for adult day programs, supports for daily living or supportive housing</p><p>Information and Referral -<span> </span><a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a><span> </span>provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients - see <a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner?_ga=2.264709327.1548696692.1662644094-872895095.1662644094\" title=\"https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner?_ga=2.264709327.1548696692.1662644094-872895095.1662644094\" target=\"_blank\" aria-label=\"Open in new window\">webpage</a></p>",
         "Latitude": 43.660834,
         "Longitude": -79.721213,
         "PhysicalAddressStreet1": "199 County Court Blvd",
@@ -3781,14 +3856,14 @@
         "Hours2": "Mon 0800 - 2000; Tue 0800 - 2000; Wed 0800 - 2000; Thu 0800 - 2000; Fri 0800 - 2000; Sat 0800 - 2000; Sun 0800 - 2000; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-24 15:55:33",
+        "UpdatedOn": "2026-05-01 09:13:30",
         "TaxonomyTerms": "Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Planning/Coordinating/Advisory Groups * Health Issues; Organizational/Community/International Services - Information Services - Information and Referral - Comprehensive Information and Referral; Health Care - Health Supportive Services; Health Care - Health Supportive Services - Long Term Care Options Counseling; Health Care - Health Screening/Diagnostic Services - Activities of Daily Living Assessment; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Individual and Family Life - Individual and Family Support Services - Respite Care - Out of Home Respite Care - Adult Out of Home Respite Care; Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities; Health Care - Specialized Treatment and Prevention - Home Health Care * Youth; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Older Adults; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * People With Disabilities; Health Care - Health Supportive Services - Health Care Referrals - Nursing Facility Referrals; Health Care - Specialized Treatment and Prevention - Palliative Care; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Health Care - Rehabilitation/Habilitation Services - Speech and Hearing - Speech and Language Pathology",
         "TaxonomyCodes": "TD-6500 * YZ-3050; TJ-3000.1500; LH-4500; LH-4600; LF-0100; PH-2400.0500; LT-2800; PH-2400.3300; PH-7000.6000-060; PH-0500; LT-2800 * YB-9500; BH-3900.3100 * YB-8000; BH-3900.3100 * YJ-8750; LH-2600.6000; LT-6650; PH-3300.6500; LR-8000.8000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "Services covered by OHIP",
         "Eligibility": "No restrictions",
         "AgencyClassification": "",
-        "AgencyDescription": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p>Information and Referral - <a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a> provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><br /></p><p><strong>School Health Support Services </strong>- special health services for children who require medical or rehabilitative assistance to attend school, participate in school routines and receive instruction</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to long-term care facilities and prioritize and manage the admission process</p><ul><li>support and information is provided to applicants and their families prior to and during the admission process</li></ul><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for Adult Day Programs (ADS), supports for Daily Living or Supportive Housing</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients</p><ul><li><span class=\"e-editor-select-start\">once registered, program participants are assigned to a Care Connector, who work with family doctors and nurse practitioners who are accepting new patients</span></li></ul>",
+        "AgencyDescription": "<p>Health care services offered at home, at school, and in the community, and access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p><strong>School Health Support Services </strong>- services for children who require medical or rehabilitative assistance to attend school</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to <strong>long-term care facilities, </strong>prioritize and manage the admission process and provide support to applicants and families during the process</p><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for adult day programs, supports for daily living or supportive housing</p><p>Information and Referral -<span> </span><a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a><span> </span>provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients - see <a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner?_ga=2.264709327.1548696692.1662644094-872895095.1662644094\" title=\"https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner?_ga=2.264709327.1548696692.1662644094-872895095.1662644094\" target=\"_blank\" aria-label=\"Open in new window\">webpage</a></p>",
         "ParentAgency": "Ontario Health atHome Central West Area",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
@@ -3864,6 +3939,80 @@
         "ParentAgency": "PCHS",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.709049,
+          43.647463
+        ]
+      },
+      "properties": {
+        "id": 69806780,
+        "CurrentId": 69806780,
+        "ParentId": 69806774,
+        "PublicName": "Peel Region. Housing and Social Support - Ontario Works, Mississauga",
+        "Score": 105,
+        "ServiceArea": [
+          "Peel Region"
+        ],
+        "Distance": 15,
+        "Description": "<p>Financial supports, social supports, and referrals to employment supports for people receiving Ontario Works in Durham region</p><p><b>Community Resource Centre</b></p><ul type=\"disc\"> <li>computers with internet access</li> <li>printer, scanner, photocopier and telephones</li> <li>information about upcoming workshops or events</li> <li>educational information</li> <li>financial literacy</li> <li>life   skills and wellness</li> </ul><p><b>Financial Assistance</b></p><ul> <li>monthly allowance based on family size, housing costs and income</li> <li>monthly drug benefit card</li> <li>income tax clinic </li></ul><p><b><span><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/ontario-works\" title=\"https://www.durham.ca/en/living-here/additional-benefits.aspx\" target=\"_blank\" aria-label=\"Open in new window\">Programs and Benefits</a> </span></b><span> </span>-- may include money for </p><ul type=\"disc\"> <li>food</li> <li>shelter   and emergency housing related costs</li> <li>clothing   and other household costs</li> <li>health   costs include dentures, emergency dental services, eyeglasses, prosthetic devices and funeral expenses</li> <li>programs may vary by City or Municipality</li><li><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" title=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" target=\"_blank\" aria-label=\"Open in new window\">past-due bills or rent</a></strong><span> </span>-- help with utility bills or rent to avoid eviction</li> </ul><ul type=\"disc\"> </ul><p><a target=\"_blank\" rel=\"nofollow\" href=\"https://mybenefits.mcss.gov.on.ca/auth/login\" title=\"\" aria-label=\"Open in new window\">MyBenefits</a> - online service to update the Ontario Works case information</p><p><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/services/bus-fare-discounts\" title=\"https://peelregion.ca/services/bus-fare-discounts\" target=\"_blank\">Affordable Transit program</a></strong><span> </span>-- for residents of Brampton or Mississauga who cant afford a monthly bus pass</p><p><b><a href=\"https://feat.findhelp.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Employment Supports</a><span> </span></b>-- these supports may include help to:</p><ul type=\"disc\"><li>write a resume</li><li>build job-related skills</li><li>participate in training</li><li>gain work experience</li><li>search for a job</li><li>access to telephones, faxes, computers and job banks</li></ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" title=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" target=\"_blank\">Interactive Voice Response</a></b> (IVR)</p><ul type=\"disc\"> <li>automated information and payment details, payment history, file status</li> <li>information   and announcements about Ontario Works</li> </ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.mcss.gov.on.ca/wp/en/\" title=\"https://www.mcss.gov.on.ca/wp/en/\" target=\"_blank\">Welfare Fraud Hotline</a> -- </b>to report allegations of fraudulent collection of Ontario Works and Ontario Disability Support Program assistance</p>",
+        "Latitude": 43.647463,
+        "Longitude": -79.709049,
+        "PhysicalAddressStreet1": "7120 Hurontario St",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5W 1N4",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "RPO Streetsville",
+        "MailingAddressStreet1": "PO Box 3880 Stn Main",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Markham",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L3R 6J7",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": " 905-793-9200",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          },
+          {
+            "Phone": "1-888-999-1142",
+            "Name": "Toll Free",
+            "Description": "",
+            "Type": "Toll Free"
+          },
+          {
+            "Phone": "1-800-387-5559",
+            "Name": "TTY",
+            "Description": "",
+            "Type": "TTY"
+          }
+        ],
+        "Website": "https://peelregion.ca/services/apply-ontario-works-or-emergency-assistance",
+        "Email": "info@peelregion.ca",
+        "Hours": "Mon-Fri 8:30 am-5 pm",
+        "Hours2": "Mon 0830 - 1700; Tue 0830 - 1700; Wed 0830 - 1700; Thu 0830 - 1700; Fri 0830 - 1700; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-04-29 15:00:38",
+        "TaxonomyTerms": "Income Support and Employment - Employment - Training and Employment Programs - Welfare to Work Programs; Income Support and Employment - Public Assistance Programs - Basic Income Maintenance Programs; Health Care - Health Supportive Services - Assistive Technology Equipment Provision Options - Assistive Technology Expense Assistance * Income Assistance Recipients; Organizational/Community/International Services - Information Services - Information Sources - Government Information Services - City Government Information Services * Income Assistance Recipients; Income Support and Employment - Employment - Comprehensive Job Assistance Centers; Income Support and Employment - Public Assistance Programs - Medical Public Assistance Programs - Government Subsidized Prescription Drug Benefits; Organizational/Community/International Services - Organizational Development and Management Services - Human Resources Management Support; Income Support and Employment - Employment - Job Finding Assistance - Job Search Resource Centers; Basic Needs - Transportation - Transportation Passes - Local Transit Passes; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Employment Issues; Basic Needs - Utilities - Utility Assistance * Income Assistance Recipients; Income Support and Employment - Employment - Work Related Fee Payment Assistance * Income Assistance Recipients; Basic Needs - Housing/Shelter - Housing Expense Assistance - Rent Payment Assistance; Income Support and Employment - Social Insurance Programs - Burial Benefits - Social Security Burial Benefits; Individual and Family Life - Death Certification/Burial Arrangements - Burial/Cremation Expense Assistance; Basic Needs - Transportation - Transportation Expense Assistance * Income Assistance Recipients; Health Care - Health Supportive Services - Medical Expense Assistance - Dental Care Expense Assistance * Income Assistance Recipients; Health Care - Health Supportive Services - Medical Expense Assistance - Eye Care Expense Assistance * Income Assistance Recipients",
+        "TaxonomyCodes": "ND-6500.9500; NL-1000.6350-650; LH-0650.0700 * YC-3100; TJ-3200.2500-140 * YC-3100; ND-1500; NL-5000.2600; TP-3000; ND-3500.3700; BT-8500.1000; TJ-3000.8000 * YZ-1950; BV-8900 * YC-3100; ND-9300 * YC-3100; BH-3800.7000; NS-1000.8000; PB-0900; BT-8300 * YC-3100; LH-5100.1700 * YC-3100; LH-5100.1750 * YC-3100",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Peel residents 18 years and older in financial need, determined by a review of income, assets and living expenses, youth 16-17 years may be eligible\r\nServes those living in postal code areas: L4V L4W L4X L4Y L4Z L5A L5B L5C L5E L5G L5H L5J L5K L5L L5M L5N L5P L5R L5S L5T L5V L5W",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Financial supports, social supports, and referrals to employment supports for people receiving Ontario Works in Durham region</p><p><b>Community Resource Centre</b></p><ul type=\"disc\"> <li>computers with internet access</li> <li>printer, scanner, photocopier and telephones</li> <li>information about upcoming workshops or events</li> <li>educational information</li> <li>financial literacy</li> <li>life   skills and wellness</li> </ul><p><b>Financial Assistance</b></p><ul> <li>monthly allowance based on family size, housing costs and income</li> <li>monthly drug benefit card</li> <li>income tax clinic </li></ul><p><b><span><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/ontario-works\" title=\"https://www.durham.ca/en/living-here/additional-benefits.aspx\" target=\"_blank\" aria-label=\"Open in new window\">Programs and Benefits</a> </span></b><span> </span>-- may include money for </p><ul type=\"disc\"> <li>food</li> <li>shelter   and emergency housing related costs</li> <li>clothing   and other household costs</li> <li>health   costs include dentures, emergency dental services, eyeglasses, prosthetic devices and funeral expenses</li> <li>programs may vary by City or Municipality</li><li><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" title=\"https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction\" target=\"_blank\" aria-label=\"Open in new window\">past-due bills or rent</a></strong><span> </span>-- help with utility bills or rent to avoid eviction</li> </ul><ul type=\"disc\"> </ul><p><a target=\"_blank\" rel=\"nofollow\" href=\"https://mybenefits.mcss.gov.on.ca/auth/login\" title=\"\" aria-label=\"Open in new window\">MyBenefits</a> - online service to update the Ontario Works case information</p><p><strong><a class=\"e-rte-anchor\" href=\"https://peelregion.ca/services/bus-fare-discounts\" title=\"https://peelregion.ca/services/bus-fare-discounts\" target=\"_blank\">Affordable Transit program</a></strong><span> </span>-- for residents of Brampton or Mississauga who cant afford a monthly bus pass</p><p><b><a href=\"https://feat.findhelp.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Employment Supports</a><span> </span></b>-- these supports may include help to:</p><ul type=\"disc\"><li>write a resume</li><li>build job-related skills</li><li>participate in training</li><li>gain work experience</li><li>search for a job</li><li>access to telephones, faxes, computers and job banks</li></ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" title=\"https://www.ontario.ca/page/interactive-voice-response-ivr-system-social-assistance-clients\" target=\"_blank\">Interactive Voice Response</a></b> (IVR)</p><ul type=\"disc\"> <li>automated information and payment details, payment history, file status</li> <li>information   and announcements about Ontario Works</li> </ul><p><b><a class=\"e-rte-anchor\" href=\"https://www.mcss.gov.on.ca/wp/en/\" title=\"https://www.mcss.gov.on.ca/wp/en/\" target=\"_blank\">Welfare Fraud Hotline</a> -- </b>to report allegations of fraudulent collection of Ontario Works and Ontario Disability Support Program assistance</p>",
+        "ParentAgency": "Peel Region. Housing and Social Support",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Education Program (Communal Cooking)"
       }
     },
     {
@@ -3959,7 +4108,7 @@
           "Peel Region"
         ],
         "Distance": 20,
-        "Description": "<p>Support, counselling, case management, parent education, information and referral, and public awareness from a Catholic perspective<br /><br /><strong>One-to-One Counselling</strong></p><ul><li><strong>\u200b</strong>emotional and practical support including prenatal and postnatal information and education, and strategies and resources for housing, income supports, education, and employment</li></ul><p><strong>Parenting Groups</strong></p><ul><li><strong>\u200b</strong><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">10 week parenting and life skills programs, including Nobody's Perfect, Growing as Parents, Supper Connection, and Make the Connection</span><ul><li><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">child minding, snacks and bus tickets for participants for in-person programs</span></li></ul></li></ul><p><strong>Care Closet</strong></p><ul><li><strong>\u200b</strong>diapers, wipes, formula, baby food, gently used baby clothes and related items<ul><li>dependent on donations</li></ul></li>\t\t<li>open to registered clients only</li></ul><p><strong>Community Fridge and Food Pantry</strong></p><ul><li>donation dependent </li><li>open to registered clients only</li></ul><p>Satellite offices in Brampton and Caledon, by appointment only</p>",
+        "Description": "<p>Support services from a Catholic perspective<br /><br /><strong>One-to-One Counselling</strong></p><ul><li><strong>\u200b</strong>emotional and practical support including prenatal and postnatal information and education, and strategies and resources for housing, income supports, education, and employment</li></ul><p><strong>Parenting Groups</strong></p><ul><li><strong>\u200b</strong><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">10 week parenting and life skills programs, including Nobody's Perfect, Growing as Parents, Supper Connection, and Make the Connection</span><ul><li><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">child minding, snacks and bus tickets for participants for in-person programs</span></li></ul></li></ul><p><strong>Care Closet</strong></p><ul><li><strong>\u200b</strong>diapers, wipes, formula, baby food, gently used baby clothes and related items<ul><li>dependent on donations</li></ul></li>\t\t<li>open to registered clients only</li></ul><p><strong>Community Fridge and Food Pantry</strong></p><ul><li>donation dependent </li><li>open to registered clients only</li></ul><p>Satellite offices in Brampton and Caledon, by appointment only</p>",
         "Latitude": 43.6236831,
         "Longitude": -79.6661392,
         "PhysicalAddressStreet1": "5659 McAdam Rd",
@@ -3995,14 +4144,14 @@
         "Hours2": "Mon 0830 - 1630; Tue 0830 - 1630; Wed 0830 - 1630; Thu 0830 - 1630; Fri 0830 - 1630; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-15 18:10:41",
+        "UpdatedOn": "2026-04-30 17:36:15",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Parenting Education - Expectant/New Parent Assistance - Teen Expectant/New Parent Assistance; Individual and Family Life - Individual and Family Support Services - Parenting Education - Expectant/New Parent Assistance - General Expectant/New Parent Assistance; Individual and Family Life - Mutual Support - Support Groups - Parenting/Family Support Groups - Parent Support Groups; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Parenting Issues; Health Care - Human Reproduction - Family Planning - Pregnancy Counseling - Pro-Life Pregnancy Counseling",
         "TaxonomyCodes": "PH-6100.1800-900; PH-6100.1800-250; PN-8100.6500-650; TJ-3000.8000 * YZ-6200; LJ-2000.6500-700",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Parents/caregivers with children birth-6 years or families who are pregnant \r\n\r\nResidency Requirements: Peel Region",
         "AgencyClassification": "",
-        "AgencyDescription": "<p>Support, counselling, case management, parent education, information and referral, and public awareness from a Catholic perspective<br /><br /><strong>One-to-One Counselling</strong></p><ul><li><strong>\u200b</strong>emotional and practical support including prenatal and postnatal information and education, and strategies and resources for housing, income supports, education, and employment</li></ul><p><strong>Parenting Groups</strong></p><ul><li><strong>\u200b</strong><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">10 week parenting and life skills programs, including Nobody's Perfect, Growing as Parents, Supper Connection, and Make the Connection</span><ul><li><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">child minding, snacks and bus tickets for participants for in-person programs</span></li></ul></li></ul><p><strong>Care Closet</strong></p><ul><li><strong>\u200b</strong>diapers, wipes, formula, baby food, gently used baby clothes and related items<ul><li>dependent on donations</li></ul></li>\t\t<li>open to registered clients only</li></ul><p><strong>Community Fridge and Food Pantry</strong></p><ul><li>donation dependent </li><li>open to registered clients only</li></ul><p>Satellite offices in Brampton and Caledon, by appointment only</p>",
+        "AgencyDescription": "<p>Support services from a Catholic perspective<br /><br /><strong>One-to-One Counselling</strong></p><ul><li><strong>\u200b</strong>emotional and practical support including prenatal and postnatal information and education, and strategies and resources for housing, income supports, education, and employment</li></ul><p><strong>Parenting Groups</strong></p><ul><li><strong>\u200b</strong><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">10 week parenting and life skills programs, including Nobody's Perfect, Growing as Parents, Supper Connection, and Make the Connection</span><ul><li><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">child minding, snacks and bus tickets for participants for in-person programs</span></li></ul></li></ul><p><strong>Care Closet</strong></p><ul><li><strong>\u200b</strong>diapers, wipes, formula, baby food, gently used baby clothes and related items<ul><li>dependent on donations</li></ul></li>\t\t<li>open to registered clients only</li></ul><p><strong>Community Fridge and Food Pantry</strong></p><ul><li>donation dependent </li><li>open to registered clients only</li></ul><p>Satellite offices in Brampton and Caledon, by appointment only</p>",
         "ParentAgency": "Vita Centre",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
@@ -4606,7 +4755,7 @@
         "ServiceArea": [
           "Mississauga",
           "Halton Region",
-          "Etobicoke"
+          "Etobicoke South"
         ],
         "Distance": 30,
         "Description": "Access to health care support at home, at school or in the community; care coordination for people in the community or leaving hospital; also long term home, short stay, convalescent and crisis placements<br /><br />Care provided in community settings such as home, school, residential facility or nursing community clinic; also information on community services and referrals when appropriate<br /><br />Services available to eligible patients may include:<ul>\t<li>nursing</li>\t<li>nurse practitioner</li>\t<li>personal support</li>\t<li>physiotherapy and occupational therapy</li>\t<li>speech and language therapy</li>\t<li>social work</li>\t<li>nutrition and food counselling (dietitians)</li>\t<li>palliative care</li>\t<li>medical supplies and equipment</li>\t<li>access to long-term care homes</li>\t<li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li>\t<li>health support in the school</li>\t<li>specialized services for people living with specific health conditions including acquired brain injury service access and coordination</li>\t<li>information and referral to other community supports</li></ul><br /><strong>Children's Health Services</strong><br />Special health services for children in home and school environment including public, private or home-based schools, supports children when health care provision is essential to student's participation and development in school programs<br /><br /><strong>Mental Health and Addictions Nurses</strong><br />Assessment, intervention and support for students and families with mental health and or addiction issues, including consultation for school staff as appropriate<br /><br /><strong>Placement Services</strong><br />Determine eligibility for admission to long-term care facilities and prioritize and manage the admission process; support and information for applicants and their families prior to and during admission process<br /><br /><strong>Nursing Clinics</strong><br />Services for ambulatory patients at community clinics<br /><br /><strong>Supported Living</strong><br />Information and/or assessment for Adult Day Programs (ADS), Retirement Homes, Supports for Daily Living or Supportive Housing<br /><br /><strong>Health Care Connect</strong><br />Referral to family health care providers who may be accepting new patients, for registered program participants (individuals and families) who do not have a family physician",
@@ -4627,7 +4776,7 @@
         "MailingAddressCountry": "Canada",
         "PhoneNumbers": [
           {
-            "Phone": "310-2222 (no area code required)",
+            "Phone": "1-833-515-1234",
             "Name": "Office",
             "Description": "General Inquiries",
             "Type": ""
@@ -4639,7 +4788,7 @@
             "Type": ""
           },
           {
-            "Phone": "771",
+            "Phone": "711",
             "Name": "TTY",
             "Description": "Bell Relay Operator",
             "Type": ""
@@ -4669,7 +4818,7 @@
         "Hours2": "Mon 0830 - 2100; Tue 0830 - 2100; Wed 0830 - 2100; Thu 0830 - 2100; Fri 0830 - 2100; Sat 0830 - 2100; Sun 0830 - 2100; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-18 10:20:34",
+        "UpdatedOn": "2026-04-29 16:28:42",
         "TaxonomyTerms": "Health Care - Health Supportive Services; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries; Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Health Care - Rehabilitation/Habilitation Services - Occupational Therapy; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Health Care - Rehabilitation/Habilitation Services - Physical Therapy; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Health Issues; Health Care - Rehabilitation/Habilitation Services - Speech and Hearing - Speech and Language Pathology; Education - Educational Support Services - Student Services and Campus Life - Student Disability Services; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Brain Injuries; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Older Adults; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * People With Disabilities; Health Care - Health Supportive Services - Long Term Care Options Counseling; Health Care - Health Supportive Services - Health Care Referrals - Nursing Facility Referrals; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * People With Disabilities; Health Care - Specialized Treatment and Prevention - Home Health Care * Youth; Income Support and Employment - Public Assistance Programs - Medical Public Assistance Programs - Long Term Care Resident Subsidies; Health Care - Specialized Treatment and Prevention - Palliative Care * Youth; Individual and Family Life - Individual and Family Support Services - Respite Care - Out of Home Respite Care - Adult Out of Home Respite Care; Individual and Family Life - Individual and Family Support Services - Respite Care - In Home Respite Care - Children's In Home Respite Care",
         "TaxonomyCodes": "LH-4500; PH-2400.0500; PH-0500; LT-2800; PH-2400.3300; LR-6200; PH-3300.6500; LR-6600; TJ-3000.8000 * YZ-3050; LR-8000.8000; HL-8120.7980; PH-1000 * YF-3000.1300-050; BH-3900.3100 * YB-8000; BH-3900.3100 * YJ-8750; LH-4600; LH-2600.6000; PH-1000 * YB-8000; PH-1000 * YJ-8750; LT-2800 * YB-9500; NL-5000.4000; LT-6650 * YB-9500; PH-7000.6000-060; PH-7000.3300-140",
         "LastVerifiedByPhoneNumber": "Not Available",
