@@ -1021,7 +1021,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-25 14:48:15",
+        "UpdatedOn": "2026-05-06 11:53:39",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
         "TaxonomyCodes": "BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -2555,6 +2555,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.603031,
+          43.621285
+        ]
+      },
+      "properties": {
+        "id": 97653076,
+        "CurrentId": 97653076,
+        "ParentId": 69807402,
+        "PublicName": "Dixie Bloor Neighbourhood Centre - Employment Workshops and Training",
+        "Score": 190,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 23,
+        "Description": "<p><strong>Job Search Workshops for Newcomers</strong></p><ul>\t<li>employment counsellors help newcomer clients to identify steps to reach employment goals and understand specific occupations in Canada</li>\t<li>learn job search strategies</li>\t<li>gain knowledge of Canadian work culture, labour market and employer expectations</li>\t<li>network and contact employers, connect with mentoring programs</li></ul><p><br /></p><p><strong>Digital Literacy</strong></p><ul><li>one-on-one support in computer basics including MS Office (Word, Excel, Powerpoint), Internet, email, social media and job applications</li></ul><p><br /></p><p><strong>TRIEC Mentoring Partnership</strong> (Toronto Region Immigrant Employment Council)</p><ul><li> helps immigrant professionals reconnect with their careers; mentees receive support and advice from mentors in their profession -- see separate listing</li></ul><p><br /></p><p><strong>Entrepreneurship</strong><br /></p><ul><li>training on taking first steps to start a business</li><li>support in business planning, goal setting, marketing, financial resources and other supports available for small businesses<br /><br /></li></ul><p><strong>Food Handler Training and Certification</strong></p><ul>\t<li>for newcomers and other job seekers</li>\t<li>learn about safe food handling practices and prepare for certification exam</li>\t<li>assistance with job search tools and techniques, and support with co-op or job placement</li>\t<li>free childminding and bus fare for eligible participant</li></ul><p><br /></p><p>Some trainings may take place at other agency locations; please contact organization for details</p>",
+        "Latitude": 43.621285,
+        "Longitude": -79.603031,
+        "PhysicalAddressStreet1": "Burnhamthorpe Library, 3650 Dixie Rd",
+        "PhysicalAddressStreet2": "Suite 103",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L4Y 3V9",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "Burnhamthorpe Library, 3650 Dixie Rd",
+        "MailingAddressStreet2": "Suite 103",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L4Y 3V9",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "437-238-5268",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://www.dixiebloor.ca",
+        "Email": "employmentservices@dixiebloor.ca",
+        "Hours": "Office Mon-Fri 9 am-4:30 pm",
+        "Hours2": "Mon 0900 - 1630; Tue 0900 - 1630; Wed 0900 - 1630; Thu 0900 - 1630; Fri 0900 - 1630; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-05-05 08:35:09",
+        "TaxonomyTerms": "Income Support and Employment - Employment - Job Finding Assistance - Job Search Resource Centers * Immigrants/Refugees; Income Support and Employment - Employment - Training and Employment Programs - Immigrant/Refugee Employment Programs * Internationally Trained Skilled Workers; Individual and Family Life - Individual and Family Support Services - Companionship - Mentoring Programs - Adult Mentoring Programs * Immigrants/Refugees; Consumer Services - Consumer Regulation - Records/Licenses/Permits - Food Handling Permits; Organizational/Community/International Services - Community Economic Development and Finance - Business Development - Business Assistance Services",
+        "TaxonomyCodes": "ND-3500.3700 * YE-3500; ND-6500.3300 * YL-3500.3300; PH-1400.5000-050 * YE-3500; DF-7000.2250; TB-0900.0650",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Services focused on newcomers to Canada who are permanent residents, Convention refugees, or live-in-caregivers",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p><strong>Job Search Workshops for Newcomers</strong></p><ul>\t<li>employment counsellors help newcomer clients to identify steps to reach employment goals and understand specific occupations in Canada</li>\t<li>learn job search strategies</li>\t<li>gain knowledge of Canadian work culture, labour market and employer expectations</li>\t<li>network and contact employers, connect with mentoring programs</li></ul><p><br /></p><p><strong>Digital Literacy</strong></p><ul><li>one-on-one support in computer basics including MS Office (Word, Excel, Powerpoint), Internet, email, social media and job applications</li></ul><p><br /></p><p><strong>TRIEC Mentoring Partnership</strong> (Toronto Region Immigrant Employment Council)</p><ul><li> helps immigrant professionals reconnect with their careers; mentees receive support and advice from mentors in their profession -- see separate listing</li></ul><p><br /></p><p><strong>Entrepreneurship</strong><br /></p><ul><li>training on taking first steps to start a business</li><li>support in business planning, goal setting, marketing, financial resources and other supports available for small businesses<br /><br /></li></ul><p><strong>Food Handler Training and Certification</strong></p><ul>\t<li>for newcomers and other job seekers</li>\t<li>learn about safe food handling practices and prepare for certification exam</li>\t<li>assistance with job search tools and techniques, and support with co-op or job placement</li>\t<li>free childminding and bus fare for eligible participant</li></ul><p><br /></p><p>Some trainings may take place at other agency locations; please contact organization for details</p>",
+        "ParentAgency": "Dixie Bloor Neighbourhood Centre",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.636788,
           43.590993
         ]
@@ -2608,68 +2670,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "<p><strong>Stronger Together: </strong>gender-based violence prevention and support, including one-on-one counselling, peer support groups and customized staff training or community workshops</p><p><strong>EmpowHER:</strong> training and mentoring to fill various employability gaps faced by young women</p><p><strong>Workforce pathways for women in Senior Care:</strong> applications presently closed</p><p><strong>RISE Program for women experiencing abuse:</strong> counselling, safety planning, support groups, awareness presentations, system navigation, life skills development</p><p><strong>Paving the Way for Immigrant and Racialized Women:</strong> 21 month program offering free Diversity, Equity, Inclusion, and Accessibility (DEIA) training</p><p><strong>Skills for Success in Food Services and Accommodation program:</strong> skills development for careers in the hospitality industry, also supports Newcomers, youth, and racialized individuals</p>",
         "ParentAgency": "Ach\u1ebdv",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.595224,
-          43.617757
-        ]
-      },
-      "properties": {
-        "id": 96998065,
-        "CurrentId": 96998065,
-        "ParentId": 69807402,
-        "PublicName": "Dixie Bloor Neighbourhood Centre - Employment Resource Room and Training",
-        "Score": 190,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 24,
-        "Description": "<p><strong>Resource Centre</strong></p><ul>\t<li>employment information and assistance such as job search techniques, apprenticeship information, co-op and volunteering information, information on starting a business, resumes and cover letters</li>\t<li>one-on-one employment assistance and counselling by appointment</li>\t<li>access to phones, fax machine, photocopier and scanner, computers with internet, reference materials</li></ul><p><br /></p><p><strong>Job Search Workshops for Newcomers</strong></p><ul>\t<li>employment counsellors help newcomer clients to identify steps to reach employment goals and understand specific occupations in Canada</li>\t<li>learn job search strategies</li>\t<li>gain knowledge of Canadian work culture, labour market and employer expectations</li>\t<li>network and contact employers, connect with mentoring programs</li></ul><p><br /></p><p><strong>Digital Literacy</strong></p><ul><li>one-on-one support in computer basics including MS Office (Word, Excel, Powerpoint), Internet, email, social media and job applications</li></ul><p><br /></p><p><strong>TRIEC Mentoring Partnership</strong> (Toronto Region Immigrant Employment Council)</p><ul><li> helps immigrant professionals reconnect with their careers; mentees receive support and advice from mentors in their profession -- see separate listing</li></ul><p><br /></p><p><strong>Entrepreneurship</strong><br /></p><ul><li>training on taking first steps to start a business</li><li>support in business planning, goal setting, marketing, financial resources and other supports available for small businesses<br /><br /></li></ul><p><strong>Food Handler Training and Certification</strong></p><ul>\t<li>for newcomers and other job seekers</li>\t<li>learn about safe food handling practices and prepare for certification exam</li>\t<li>assistance with job search tools and techniques, and support with co-op or job placement</li>\t<li>free childminding and bus fare for eligible participants</li></ul><p><br /></p><p>Some trainings may take place at other agency locations; please contact organization for details</p><p><br /></p>",
-        "Latitude": 43.617757,
-        "Longitude": -79.595224,
-        "PhysicalAddressStreet1": "3415 Dixie Rd",
-        "PhysicalAddressStreet2": "Suite 17C",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L4Y 2B1",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "3415 Dixie Rd",
-        "MailingAddressStreet2": "Suite 17C",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L4Y 2B1",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-267-3137 ext 1221",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "https://www.dixiebloor.ca",
-        "Email": "employment@dixiebloor.ca",
-        "Hours": "Office Mon-Fri 9 am-4:30 pm",
-        "Hours2": "Mon 0900 - 1630; Tue 0900 - 1630; Wed 0900 - 1630; Thu 0900 - 1630; Fri 0900 - 1630; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-04-19 15:49:18",
-        "TaxonomyTerms": "Income Support and Employment - Employment - Job Finding Assistance - Job Search Resource Centers * Immigrants/Refugees; Income Support and Employment - Employment - Training and Employment Programs - Immigrant/Refugee Employment Programs * Internationally Trained Skilled Workers; Individual and Family Life - Individual and Family Support Services - Companionship - Mentoring Programs - Adult Mentoring Programs * Immigrants/Refugees; Consumer Services - Consumer Regulation - Records/Licenses/Permits - Food Handling Permits; Organizational/Community/International Services - Community Economic Development and Finance - Business Development - Business Assistance Services",
-        "TaxonomyCodes": "ND-3500.3700 * YE-3500; ND-6500.3300 * YL-3500.3300; PH-1400.5000-050 * YE-3500; DF-7000.2250; TB-0900.0650",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Services focused on newcomers to Canada who are permanent residents, Convention refugees, or live-in-caregivers",
-        "AgencyClassification": "",
-        "AgencyDescription": "<p><strong>Resource Centre</strong></p><ul>\t<li>employment information and assistance such as job search techniques, apprenticeship information, co-op and volunteering information, information on starting a business, resumes and cover letters</li>\t<li>one-on-one employment assistance and counselling by appointment</li>\t<li>access to phones, fax machine, photocopier and scanner, computers with internet, reference materials</li></ul><p><br /></p><p><strong>Job Search Workshops for Newcomers</strong></p><ul>\t<li>employment counsellors help newcomer clients to identify steps to reach employment goals and understand specific occupations in Canada</li>\t<li>learn job search strategies</li>\t<li>gain knowledge of Canadian work culture, labour market and employer expectations</li>\t<li>network and contact employers, connect with mentoring programs</li></ul><p><br /></p><p><strong>Digital Literacy</strong></p><ul><li>one-on-one support in computer basics including MS Office (Word, Excel, Powerpoint), Internet, email, social media and job applications</li></ul><p><br /></p><p><strong>TRIEC Mentoring Partnership</strong> (Toronto Region Immigrant Employment Council)</p><ul><li> helps immigrant professionals reconnect with their careers; mentees receive support and advice from mentors in their profession -- see separate listing</li></ul><p><br /></p><p><strong>Entrepreneurship</strong><br /></p><ul><li>training on taking first steps to start a business</li><li>support in business planning, goal setting, marketing, financial resources and other supports available for small businesses<br /><br /></li></ul><p><strong>Food Handler Training and Certification</strong></p><ul>\t<li>for newcomers and other job seekers</li>\t<li>learn about safe food handling practices and prepare for certification exam</li>\t<li>assistance with job search tools and techniques, and support with co-op or job placement</li>\t<li>free childminding and bus fare for eligible participants</li></ul><p><br /></p><p>Some trainings may take place at other agency locations; please contact organization for details</p><p><br /></p>",
-        "ParentAgency": "Dixie Bloor Neighbourhood Centre",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": ""
       }
