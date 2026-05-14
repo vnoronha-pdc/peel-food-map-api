@@ -343,8 +343,8 @@
         "PublicName": "Muslim Welfare Canada - Mississauga Halal Food and Essential Items Bank",
         "Score": 490,
         "ServiceArea": [
-          "Scarborough",
-          "Mississauga"
+          "Mississauga",
+          "Scarborough"
         ],
         "Distance": 25,
         "Description": "Halal food bank<ul>\t<li>clothing and household items</li></ul>",
@@ -1175,68 +1175,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.766401,
-          43.584147
-        ]
-      },
-      "properties": {
-        "id": 69797238,
-        "CurrentId": 69797238,
-        "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community Services - Meadowvale Food Bank and Community Services",
-        "Score": 405,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 20,
-        "Description": "Emergency food assistance according to postal codes <br />Christmas assistance program",
-        "Latitude": 43.584147,
-        "Longitude": -79.766401,
-        "PhysicalAddressStreet1": "3020 Vanderbilt Rd",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5N 4W8",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "3020 Vanderbilt Rd",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L5N 4W8",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-824-0450 ext 1",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "https://salvationarmy.ca/",
-        "Email": "",
-        "Hours": "Food Bank Tue 9 am-3 pm, Thu 10 am-5 pm",
-        "Hours2": "Tue 0900 - 1500; Thu 1000 - 1700; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-04-11 14:37:17",
-        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys; Basic Needs - Food - Emergency Food - Food Pantries",
-        "TaxonomyCodes": "PH-2950.1500; PH-2950.3200; BD-1800.2000",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Low-income individuals and families ; assistance provided to the following postal codes L5M, L5N, L5V, L5W",
-        "AgencyClassification": "",
-        "AgencyDescription": "Emergency food assistance according to postal codes <br />Christmas assistance program",
-        "ParentAgency": "Salvation Army, Community Services",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.64432,
           43.61493
         ]
@@ -1352,74 +1290,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "Food bank",
         "ParentAgency": "Good Measure Food Bank",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.60338,
-          43.598729
-        ]
-      },
-      "properties": {
-        "id": 69797232,
-        "CurrentId": 69797232,
-        "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community Services - Mississauga Temple Family Services - Food Bank",
-        "Score": 405,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 25,
-        "Description": "Provides the following services to people in need:<ul>\t<li>Food Bank -- by appointment</li>\t<li>Christmas Assistance Program available to single persons and families</li></ul>Volunteers needed",
-        "Latitude": 43.598729,
-        "Longitude": -79.60338,
-        "PhysicalAddressStreet1": "3167 Cawthra Rd",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5A 2X4",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "3167 Cawthra Rd",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L5A 2X4",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-279-3941",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          },
-          {
-            "Phone": "905-279-0154",
-            "Name": "Fax",
-            "Description": "",
-            "Type": "Fax"
-          }
-        ],
-        "Website": "https://mississaugatemple.com/",
-        "Email": "info@mississaugatemple.com",
-        "Hours": "Mon-Tue 9 am-12 noon, 1 pm-3:30 pm; Wed 9 am-12 noon, 1 pm-6:30 pm; Thu 1 pm-3:30 pm; Fri 9 am-12 noon",
-        "Hours2": "Mon 0900 - 1530; Tue 0900 - 1530; Wed 0900 - 1830; Thu 1300 - 1530; Fri 0900 - 1200; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-04-11 14:37:18",
-        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Individual and Family Life - Volunteer Opportunities; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs",
-        "TaxonomyCodes": "BD-1800.2000; PX; PH-2950.1500",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Low-income individuals and families<br/>\r\nChristmas assistance for single person and families <br/>\r\nServes those living in postal code areas beginning with L4V, L4W, L4X, L4Y, L4Z, L5A, L5B, L5E, L5G, L5P, L5R, L5S and L5T",
-        "AgencyClassification": "",
-        "AgencyDescription": "Provides the following services to people in need:<ul>\t<li>Food Bank -- by appointment</li>\t<li>Christmas Assistance Program available to single persons and families</li></ul>Volunteers needed",
-        "ParentAgency": "Salvation Army, Community Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -1553,23 +1423,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.685729,
-          43.536
+          -79.685991,
+          43.536004
         ]
       },
       "properties": {
-        "id": 83212984,
-        "CurrentId": 83212984,
-        "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community Services - Erin Mills Church Food Bank",
+        "id": 97658200,
+        "CurrentId": 97658200,
+        "ParentId": 97658130,
+        "PublicName": "Salvation Army Mississauga Community Church (The) - Erin Mills Church Food Bank",
         "Score": 405,
         "ServiceArea": [
           "Mississauga"
         ],
         "Distance": 27,
         "Description": "<ul>\t<li>food bank</li>\t<li>Christmas Assistance, toys</li>\t</ul>",
-        "Latitude": 43.536,
-        "Longitude": -79.685729,
+        "Latitude": 43.536004,
+        "Longitude": -79.685991,
         "PhysicalAddressStreet1": "2460 The Collegeway",
         "PhysicalAddressStreet2": "",
         "PhysicalAddressCity": "Mississauga",
@@ -1589,21 +1459,15 @@
             "Name": "Office",
             "Description": "",
             "Type": ""
-          },
-          {
-            "Phone": "905 820-2050",
-            "Name": "Fax",
-            "Description": "",
-            "Type": "Fax"
           }
         ],
-        "Website": "https://salvationarmy.ca/",
+        "Website": "https://www.samississauga.com/",
         "Email": "",
         "Hours": "<strong>Food Bank open by appointment only</strong><br />Office hours Mon 9:30 am-3:30 pm, Tue 1 pm-6:30 pm, Wed 9 am-3:30 pm, Thu 9 am-3:30 pm, Fri 9:30 am-12 noon",
         "Hours2": "Mon 0930 - 1530; Tue 1300 - 1830; Wed 1300 - 1530; Thu 0900 - 1530; Fri 0930 - 1200; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-11 14:37:16",
+        "UpdatedOn": "2026-05-12 09:29:05",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys; Basic Needs - Food - Emergency Food - Food Pantries",
         "TaxonomyCodes": "PH-2950.1500; PH-2950.3200; BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -1611,7 +1475,7 @@
         "Eligibility": "Low-income individuals and families; toys for children 14 and under; serves postal codes L5L, L5C, L5K, L5H and L5J",
         "AgencyClassification": "",
         "AgencyDescription": "<ul>\t<li>food bank</li>\t<li>Christmas Assistance, toys</li>\t</ul>",
-        "ParentAgency": "Salvation Army, Community Services",
+        "ParentAgency": "Salvation Army Mississauga Community Church (The)",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -2747,23 +2611,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.60338,
-          43.598729
+          -79.6033582,
+          43.598736
         ]
       },
       "properties": {
-        "id": 69797230,
-        "CurrentId": 69797230,
-        "ParentId": 69797184,
-        "PublicName": "Salvation Army, Community Services - Mississauga Community and Family Services",
+        "id": 97658283,
+        "CurrentId": 97658283,
+        "ParentId": 97658130,
+        "PublicName": "Salvation Army Mississauga Community Church (The) - Mississauga Community and Family Services",
         "Score": 190,
         "ServiceArea": [
           "Mississauga"
         ],
         "Distance": 25,
         "Description": "Programs include<ul>\t<li>Anger Management course</li>\t<li>Trustee program</li>\t<li><strong>seniors' program</strong> -- social interaction, including a light lunch and education on various relevant topics such as internet safety, food education</li>\t<li><strong>Pathway of Hope program</strong> -- a holistic approach to end poverty one person/family at a time</li>\t<li>back pack school program</li></ul>",
-        "Latitude": 43.598729,
-        "Longitude": -79.60338,
+        "Latitude": 43.598736,
+        "Longitude": -79.6033582,
         "PhysicalAddressStreet1": "3167 Cawthra Rd",
         "PhysicalAddressStreet2": "",
         "PhysicalAddressCity": "Mississauga",
@@ -2797,7 +2661,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-11 14:37:18",
+        "UpdatedOn": null,
         "TaxonomyTerms": "Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Anger Management; Consumer Services - Money Management - Personal Finances Administration; Basic Needs - Food - Meals - Senior Meals; Education - Educational Support Services - Student Services and Campus Life - School Supplies",
         "TaxonomyCodes": "RP-1400.8000-070; DM-6000; BD-5000.1500; HL-8120.7800",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -2805,7 +2669,7 @@
         "Eligibility": "Low-income individuals and families <br/>\r\nCall for eligibility criteria for specific programs and assistance<br/>\r\nServes postal codes beginning with L4V, L4Y, L4W, L4X, L4Z, L5A, L5B, L5E, L5G, L5P, L5R, L5S, L5T\r\n<br />",
         "AgencyClassification": "",
         "AgencyDescription": "Programs include<ul>\t<li>Anger Management course</li>\t<li>Trustee program</li>\t<li><strong>seniors' program</strong> -- social interaction, including a light lunch and education on various relevant topics such as internet safety, food education</li>\t<li><strong>Pathway of Hope program</strong> -- a holistic approach to end poverty one person/family at a time</li>\t<li>back pack school program</li></ul>",
-        "ParentAgency": "Salvation Army, Community Services",
+        "ParentAgency": "Salvation Army Mississauga Community Church (The)",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
       }
@@ -5386,13 +5250,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
