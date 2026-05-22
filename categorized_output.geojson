@@ -519,6 +519,70 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.763983,
+          43.6885656
+        ]
+      },
+      "properties": {
+        "id": 97660917,
+        "CurrentId": 97660917,
+        "ParentId": 97660685,
+        "PublicName": "Giving Without Expectations - Food Bank",
+        "Score": 410,
+        "ServiceArea": [
+          "Brantford",
+          "Brampton",
+          "Mississauga"
+        ],
+        "Distance": 9,
+        "Description": "<p>Distribution of culturally appropriate food and essential items</p><ul style=\"list-style-type: disc; text-align: left;\"><li>perishable and nonperishable food, beverages</li><li>personal care products</li><li>clothing</li><li>seasonal back-to-school supplies</li></ul><p>Items vary from week to week. Bring grocery bags</p><p><br /></p>",
+        "Latitude": 43.6885656,
+        "Longitude": -79.763983,
+        "PhysicalAddressStreet1": " 165 Main St North",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Brampton",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L6X 1N1",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "32 Fallharvest Ave",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Brampton",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L6Y 0P2",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "647-498-4614",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://www.giwexp.org/#",
+        "Email": "info@giwexp.org",
+        "Hours": "Brampton Sat 8 am-9 am<br>Mississauga Sat 10 am-11 am<br>Brantford bi-weekly Sun 11:30 am-1 pm call for information",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-05-20 09:50:00",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Education - Educational Support Services - Student Services and Campus Life - School Supplies; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Personal/Grooming Supplies; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision",
+        "TaxonomyCodes": "BD-1800.2000; HL-8120.7800; BM-6500.6500-650; BM-6500.1500-250",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Individuals and families experiencing food insecurity, including seniors and those facing homelessness\r\n",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Distribution of culturally appropriate food and essential items</p><ul style=\"list-style-type: disc; text-align: left;\"><li>perishable and nonperishable food, beverages</li><li>personal care products</li><li>clothing</li><li>seasonal back-to-school supplies</li></ul><p>Items vary from week to week. Bring grocery bags</p><p><br /></p>",
+        "ParentAgency": "Giving Without Expectations",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.656423,
           43.710113
         ]
@@ -646,6 +710,70 @@
         "AgencyClassification": "",
         "AgencyDescription": "<p>Church providing Malton residents in need with non-perishable food, and occasionally perishable foods. Can visit once every two weeks<br /></p>",
         "ParentAgency": "Mount Zion Apostolic Church Food Pantry",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7178503,
+          43.584814
+        ]
+      },
+      "properties": {
+        "id": 97660918,
+        "CurrentId": 97660918,
+        "ParentId": 97660685,
+        "PublicName": "Giving Without Expectations - Food Bank",
+        "Score": 410,
+        "ServiceArea": [
+          "Brantford",
+          "Brampton",
+          "Mississauga"
+        ],
+        "Distance": 21,
+        "Description": "<p>Distribution of culturally appropriate food and essential items</p><ul style=\"list-style-type: disc; text-align: left;\"><li>perishable and nonperishable food, beverages</li><li>personal care products</li><li>clothing</li><li>seasonal back-to-school supplies</li></ul><p>Items vary from week to week. Bring grocery bags</p><p><br /></p>",
+        "Latitude": 43.584814,
+        "Longitude": -79.7178503,
+        "PhysicalAddressStreet1": "77 Queen St South",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5M 1K7",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "32 Fallharvest Ave",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Brampton",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L6Y 0P2",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "647-498-4614",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://www.giwexp.org/#",
+        "Email": "info@giwexp.org",
+        "Hours": "Brampton Sat 8 am-9 am<br>Mississauga Sat 10 am-11 am<br>Brantford bi-weekly Sun 11:30 am-1 pm call for information",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-05-20 09:50:00",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Education - Educational Support Services - Student Services and Campus Life - School Supplies; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Personal/Grooming Supplies; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision",
+        "TaxonomyCodes": "BD-1800.2000; HL-8120.7800; BM-6500.6500-650; BM-6500.1500-250",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Individuals and families experiencing food insecurity, including seniors and those facing homelessness\r\n",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Distribution of culturally appropriate food and essential items</p><ul style=\"list-style-type: disc; text-align: left;\"><li>perishable and nonperishable food, beverages</li><li>personal care products</li><li>clothing</li><li>seasonal back-to-school supplies</li></ul><p>Items vary from week to week. Bring grocery bags</p><p><br /></p>",
+        "ParentAgency": "Giving Without Expectations",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -1166,6 +1294,68 @@
         "AgencyClassification": "",
         "AgencyDescription": "Food bank<br /><br />Member agency of The Mississauga Food Bank",
         "ParentAgency": "St Mary's Food Bank",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.766362,
+          43.584177
+        ]
+      },
+      "properties": {
+        "id": 97658231,
+        "CurrentId": 97658231,
+        "ParentId": 97658130,
+        "PublicName": "Salvation Army Mississauga Community Church (The) - Meadowvale Food Bank and Community Services",
+        "Score": 405,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 20,
+        "Description": "Emergency food assistance according to postal codes <br />Christmas assistance program",
+        "Latitude": 43.584177,
+        "Longitude": -79.766362,
+        "PhysicalAddressStreet1": "3020 Vanderbilt Rd",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5N 4W8",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "3020 Vanderbilt Rd",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L5N 4W8",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-824-0450 ext 1",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://www.samississauga.com/",
+        "Email": "mississaugacc.info@salvationarmy.ca",
+        "Hours": "Food Bank Tue 9 am-3 pm, Thu 10 am-5 pm",
+        "Hours2": "Tue 0900 - 1500; Thu 1000 - 1700; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-05-12 11:41:39",
+        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Holiday Gifts/Toys; Basic Needs - Food - Emergency Food - Food Pantries",
+        "TaxonomyCodes": "PH-2950.1500; PH-2950.3200; BD-1800.2000",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Low-income individuals and families; assistance provided to the following postal codes L5M, L5N, L5V, L5W",
+        "AgencyClassification": "",
+        "AgencyDescription": "Emergency food assistance according to postal codes <br />Christmas assistance program",
+        "ParentAgency": "Salvation Army Mississauga Community Church (The)",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
