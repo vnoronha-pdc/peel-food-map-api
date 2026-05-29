@@ -343,8 +343,8 @@
         "PublicName": "Muslim Welfare Canada - Mississauga Halal Food and Essential Items Bank",
         "Score": 490,
         "ServiceArea": [
-          "Mississauga",
-          "Scarborough"
+          "Scarborough",
+          "Mississauga"
         ],
         "Distance": 25,
         "Description": "Halal food bank<ul>\t<li>clothing and household items</li></ul>",
@@ -3045,18 +3045,18 @@
             "Type": ""
           }
         ],
-        "Website": "https://www.stpeterserindale.ca",
+        "Website": "https://stpeterserindale.ca/mission-and-ministry/outreach/deacons-cupboard/",
         "Email": "stpeters@stpeterserindale.ca",
         "Hours": "Wed 9am-12 noon<br>\r\nClosed July",
         "Hours2": "Wed 0900 - 1200; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-25 14:49:51",
+        "UpdatedOn": "2026-05-27 14:05:19",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
         "TaxonomyCodes": "BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
-        "Eligibility": "Residents living within catchment area\r\n<br />\r\n<br />Residency Requirements: Postal codes beginning with L5B, L5C, L5H, L5J, L5K, L5L",
+        "Eligibility": "Residents living within catchment area; postal codes beginning with L5B, L5C, L5H, L5J, L5K, L5L\r\n",
         "AgencyClassification": "",
         "AgencyDescription": "Food Bank",
         "ParentAgency": "St Peter's Anglican Erindale",
@@ -5440,13 +5440,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
