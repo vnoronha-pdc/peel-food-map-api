@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -1534,8 +1534,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2026-03-25 14:49:51",
-        "TaxonomyTerms": "Individual and Family Life - Volunteer Opportunities; Organizational/Community/International Services - Donor Services - Donated Specialty Items - Food Donation Programs; Basic Needs - Food - Emergency Food - Food Pantries",
-        "TaxonomyCodes": "PX; TI-1800.2000; BD-1800.2000",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Organizational/Community/International Services - Donor Services - Donated Specialty Items - Food Donation Programs; Individual and Family Life - Volunteer Opportunities",
+        "TaxonomyCodes": "BD-1800.2000; TI-1800.2000; PX",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Low-income residents of catchment area<br />\r\nResidency Requirements: Postal codes served: L4X, L4Y, L5A",
@@ -2990,8 +2990,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2024-08-16 15:47:59",
-        "TaxonomyTerms": "Basic Needs - Food - Meals - School Meals; Individual and Family Life - Individual and Family Support Services - Family Based Services; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Food Preparation Facilities; Individual and Family Life - Social Development and Enrichment - Parent/Child Activity Groups; Individual and Family Life - Leisure Activities/Recreation - Recreational/Leisure/Arts Instruction - Cooking Classes",
-        "TaxonomyCodes": "BD-5000.8200; PH-2360.1800; BM-6500.6500-250; PS-6500; PL-7400.1550",
+        "TaxonomyTerms": "Individual and Family Life - Social Development and Enrichment - Parent/Child Activity Groups; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Food Preparation Facilities; Individual and Family Life - Individual and Family Support Services - Family Based Services; Basic Needs - Food - Meals - School Meals; Individual and Family Life - Leisure Activities/Recreation - Recreational/Leisure/Arts Instruction - Cooking Classes",
+        "TaxonomyCodes": "PS-6500; BM-6500.6500-250; PH-2360.1800; BD-5000.8200; PL-7400.1550",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Children and their caregivers residing in the Forest Ridge and Arbour Mill apartment complexes and surrounding neighborhoods; see Description for individual program eligibilities<br /><br />Residency Requirements: Forest Ridge and Arbour Mill apartment complexes and surrounding neighborhoods",
@@ -5078,8 +5078,8 @@
         "MinAge": "16.00",
         "MaxAge": "24.00",
         "UpdatedOn": "2025-08-06 10:55:25",
-        "TaxonomyTerms": "Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Tenant Rights Information/Counseling; Individual and Family Life - Individual and Family Support Services - Personal Enrichment - Life Skills Education; Individual and Family Life - Mutual Support - Support Groups - Mental Health Related Support Groups; Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Eviction Prevention Assistance; Basic Needs - Housing/Shelter - Housing Expense Assistance - Rent Payment Assistance; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Runaway/Homeless Youth Counseling; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counseling * Black Community; Basic Needs - Material Goods - Household Goods - General Household Goods Provision; Basic Needs - Food - Emergency Food - Food Vouchers; Basic Needs - Housing/Shelter - At Risk/Homeless Housing Related Assistance Programs - Homelessness Prevention Programs; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counseling * Indigenous Communities",
-        "TaxonomyCodes": "FT-4500.8550; PH-6200.4600; PN-8100.5000; FT-4500.1800; BH-3800.7000; RP-1400.8000-750; RP-1400.8000-050 * YH-6000.1020; BM-3000.2500; BD-1800.2250; BH-0500.3140; RP-1400.8000-050 * YH-6000.3280",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Vouchers; Basic Needs - Material Goods - Household Goods - General Household Goods Provision; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counseling * Black Community; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Runaway/Homeless Youth Counseling; Basic Needs - Housing/Shelter - Housing Expense Assistance - Rent Payment Assistance; Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Eviction Prevention Assistance; Individual and Family Life - Mutual Support - Support Groups - Mental Health Related Support Groups; Individual and Family Life - Individual and Family Support Services - Personal Enrichment - Life Skills Education; Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Tenant Rights Information/Counseling; Basic Needs - Housing/Shelter - At Risk/Homeless Housing Related Assistance Programs - Homelessness Prevention Programs; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counseling * Indigenous Communities",
+        "TaxonomyCodes": "BD-1800.2250; BM-3000.2500; RP-1400.8000-050 * YH-6000.1020; RP-1400.8000-750; BH-3800.7000; FT-4500.1800; PN-8100.5000; PH-6200.4600; FT-4500.8550; BH-0500.3140; RP-1400.8000-050 * YH-6000.3280",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Young people 16-24 years who are unhoused or at risk of homelessness, and who identify as Black, Indigenous, or Persons of Colour (BIPOC)",
@@ -5140,8 +5140,8 @@
         "MinAge": "",
         "MaxAge": "",
         "UpdatedOn": "2026-04-11 14:37:17",
-        "TaxonomyTerms": "Individual and Family Life - Mutual Support - Support Groups - Health/Disability Related Support Groups * Lupus Erythematosus; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Health/Disability Related Counseling * South Asian Community; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Food Preparation Facilities; Individual and Family Life - Individual and Family Support Services - Parenting Education - Expectant/New Parent Assistance - Teen Expectant/New Parent Assistance; Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers - Neighborhood Multipurpose Centers; Organizational/Community/International Services - Community Facilities/Centers - Agency Facility Space; Individual and Family Life - Mutual Support - Support Groups - Addictions/Substance Use Disorder Support Groups - Drug Use Disorder Support Groups; Individual and Family Life - Mutual Support - Support Groups - Families/Friends Support Groups - Families/Friends of Individuals With an Alcohol Use Disorder Support Groups; Individual and Family Life - Mutual Support - Support Groups - Addictions/Substance Use Disorder Support Groups - Alcohol Use Disorder Support Groups",
-        "TaxonomyCodes": "PN-8100.3000 * YF-3000.4800; RP-1400.8000-300 * YH-0500.8140; BM-6500.6500-250; PH-6100.1800-900; TC-5500.6000; TC-0500; PN-8100.0500-180; PN-8100.2000-230; PN-8100.0500-070",
+        "TaxonomyTerms": "Individual and Family Life - Mutual Support - Support Groups - Addictions/Substance Use Disorder Support Groups - Alcohol Use Disorder Support Groups; Individual and Family Life - Mutual Support - Support Groups - Families/Friends Support Groups - Families/Friends of Individuals With an Alcohol Use Disorder Support Groups; Individual and Family Life - Mutual Support - Support Groups - Addictions/Substance Use Disorder Support Groups - Drug Use Disorder Support Groups; Organizational/Community/International Services - Community Facilities/Centers - Agency Facility Space; Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers - Neighborhood Multipurpose Centers; Individual and Family Life - Individual and Family Support Services - Parenting Education - Expectant/New Parent Assistance - Teen Expectant/New Parent Assistance; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Food Preparation Facilities; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Health/Disability Related Counseling * South Asian Community; Individual and Family Life - Mutual Support - Support Groups - Health/Disability Related Support Groups * Lupus Erythematosus",
+        "TaxonomyCodes": "PN-8100.0500-070; PN-8100.2000-230; PN-8100.0500-180; TC-0500; TC-5500.6000; PH-6100.1800-900; BM-6500.6500-250; RP-1400.8000-300 * YH-0500.8140; PN-8100.3000 * YF-3000.4800",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "Room rental",
         "Eligibility": "Agencies<br />Welcoming Wednesdays: seniors",
@@ -5149,7 +5149,7 @@
         "AgencyDescription": "<p>Meeting space for rent to charities and non-profits, community kitchen<br /><br />Programs are offered by many agencies such as these (some will have separate listings with more information):<br /><strong>Regeneration Outreach</strong> - breakfast seven days a week<br /><strong>Vita Centre - Parenting programs</strong> -- support meetings online</p><p><strong>Welcoming Wednesdays</strong></p><ul><li>seniors group</li><li>variety of activities</li><li>lunch is served, most of the time it is a potluck</li></ul><p><br />Grace Noon AA Meetings, Brampton Bad Boys AA, Living In Recovery (Narcotics Anonymous)</p>",
         "ParentAgency": "Grace Place Community Resource Centre",
         "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Education Program (Communal Cooking)"
+        "FoodProgram": "Multi-Service Program"
       }
     },
     {
