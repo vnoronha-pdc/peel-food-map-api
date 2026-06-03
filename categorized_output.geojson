@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
-          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region"
+          "York Region",
+          "Halton Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -4899,7 +4899,7 @@
           "Halton Region"
         ],
         "Distance": 30,
-        "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care<br /><br /></p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referra</strong>l - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 1-833-515-1234<br /><br /><strong>Health Care Connect </strong>- Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector * Care Connectors work with family doctors and nurse practitioners who are accepting new patients</p>",
+        "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care</p>\n<p>Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referra</strong>l - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 1-833-515-1234<br /><br /><strong>Health Care Connect </strong>- Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector * Care Connectors work with family doctors and nurse practitioners who are accepting new patients</p>",
         "Latitude": 43.5124,
         "Longitude": -79.6625,
         "PhysicalAddressStreet1": "2655 North Sheridan Way",
@@ -4953,14 +4953,14 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-05-24 21:52:27",
+        "UpdatedOn": "2026-06-01 09:49:34",
         "TaxonomyTerms": "Health Care - Health Supportive Services; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Adult Day Programs; Health Care - Specialized Treatment and Prevention - Palliative Care; Health Care - Health Supportive Services - Health Care Referrals - Rehabilitation/Habilitative Medicine Referrals; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Health Issues; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Long Term Care Issues; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * People With Disabilities; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries * People With Disabilities; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Health Care - Health Supportive Services - Health Care Referrals - Nursing Registries; Health Care - Health Supportive Services - Long Term Care Options Counseling; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Respite Care Registries",
         "TaxonomyCodes": "LH-4500; LT-2800; PH-0320; LT-6650; LH-2600.7000; TJ-3000.8000 * YZ-3050; TJ-3000.8000 * YZ-4750; PH-1000 * YB-8000; PH-1000 * YJ-8750; PH-2400.0500 * YJ-8750; PH-2400.3300; LH-2600.6050; LH-4600; PH-2400.7000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "Covered by OHIP",
         "Eligibility": "<p>People of all ages who are facing the challenges of age, illness, injury, or disability</p><br />Residency Requirements: Mississauga Halton region",
         "AgencyClassification": "",
-        "AgencyDescription": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care<br /><br /></p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referra</strong>l - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 1-833-515-1234<br /><br /><strong>Health Care Connect </strong>- Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector * Care Connectors work with family doctors and nurse practitioners who are accepting new patients</p>",
+        "AgencyDescription": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care</p>\n<p>Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referra</strong>l - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 1-833-515-1234<br /><br /><strong>Health Care Connect </strong>- Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector * Care Connectors work with family doctors and nurse practitioners who are accepting new patients</p>",
         "ParentAgency": "Ontario Health atHome",
         "RecordOwner": "Halton Information Providers",
         "FoodProgram": "Food Education Program (Communal Cooking)"
@@ -5953,68 +5953,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.64285,
-          43.58892
-        ]
-      },
-      "properties": {
-        "id": 75740336,
-        "CurrentId": 75740336,
-        "ParentId": 69806766,
-        "PublicName": "Mississauga Library - Open Window Hub",
-        "Score": 80,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 24,
-        "Description": "<p>Resource and information centre to support and empower individuals and families who are unhoused or those experiencing mental health issues or both</p><ul>\t<li>personal hygiene kits and items such as socks, gloves and hats are provided as needed</li><li>community lunch Monday, Tuesday and Friday at 12 noon (see separate entry)</li>\t<li>information sessions and workshops</li>\t<li>Homeless Health Peel Nurse on site Tuesday and Friday 1 pm-4 pm</li>\t<li>Region of Peel Housing Support worker on site Thursday, 10 am-12 noon, Ontario Works on site from 9 am-3 pm</li>\t<li>Library Outreach Worker is on site to assist clients</li></ul><p><br /> </p>",
-        "Latitude": 43.58892,
-        "Longitude": -79.64285,
-        "PhysicalAddressStreet1": "301 City Centre Dr",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5B 3C1",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "301 City Centre Dr",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L5B 3C1",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-615-3200 ext 3541",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "https://www.mississauga.ca/library/using-the-library/open-window-hub",
-        "Email": "",
-        "Hours": "Mon-Fri 9 am-4 pm",
-        "Hours2": "Mon 0900 - 1600; Tue 0900 - 1600; Wed 0900 - 1600; Thu 0900 - 1600; Fri 0900 - 1600; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-02-24 09:59:41",
-        "TaxonomyTerms": "Basic Needs - Material Goods - Personal Goods/Services - Clothing - Winter Clothing * Homeless People; Basic Needs - Food - Meals - Community Meals; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Personal/Grooming Supplies",
-        "TaxonomyCodes": "BM-6500.1500-920 * YV-3000; BD-5000.1470; BM-6500.6500-650",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Individuals and families who are unhoused and experiencing mental health issues or both<br /><br />Residency requirement: City of Mississauga",
-        "AgencyClassification": "",
-        "AgencyDescription": "<p>Resource and information centre to support and empower individuals and families who are unhoused or those experiencing mental health issues or both</p><ul>\t<li>personal hygiene kits and items such as socks, gloves and hats are provided as needed</li><li>community lunch Monday, Tuesday and Friday at 12 noon (see separate entry)</li>\t<li>information sessions and workshops</li>\t<li>Homeless Health Peel Nurse on site Tuesday and Friday 1 pm-4 pm</li>\t<li>Region of Peel Housing Support worker on site Thursday, 10 am-12 noon, Ontario Works on site from 9 am-3 pm</li>\t<li>Library Outreach Worker is on site to assist clients</li></ul><p><br /> </p>",
-        "ParentAgency": "Mississauga Library",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Community Meal Program"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.643457,
           43.587477
         ]
@@ -6067,6 +6005,68 @@
         "Eligibility": "Individuals and families within the City of Mississauga who are unhoused or experiencing mental health issues or both",
         "AgencyClassification": "",
         "AgencyDescription": "Boxed lunches offered on first come first served basis<br />",
+        "ParentAgency": "Mississauga Library",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Community Meal Program"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.643457,
+          43.587477
+        ]
+      },
+      "properties": {
+        "id": 97669579,
+        "CurrentId": 97669579,
+        "ParentId": 69806766,
+        "PublicName": "Mississauga Library - Open Window Hub",
+        "Score": 80,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 24,
+        "Description": "<p>Resource and information centre to support and empower individuals and families who are unhoused or those experiencing mental health issues or both</p><ul>\t<li>personal hygiene kits and items such as socks, gloves and hats are provided as needed</li><li>community lunch Monday, Tuesday and Friday at 12 noon (see separate entry)</li>\t<li>information sessions and workshops</li>\t<li>Homeless Health Peel Nurse on site Tuesday and Friday 1 pm-4 pm</li>\t<li>Region of Peel Housing Support worker on site Thursday, 10 am-12 noon, Ontario Works on site from 9 am-3 pm</li>\t<li>Library Outreach Worker is on site to assist clients</li></ul><p><br /> </p>",
+        "Latitude": 43.587477,
+        "Longitude": -79.643457,
+        "PhysicalAddressStreet1": "301 Burnhamthorpe Rd W",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5B 3Y3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "301 Burnhamthorpe Rd W",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L5B 3Y3",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-615-3200 ext 3541",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://www.mississauga.ca/library/using-the-library/open-window-hub",
+        "Email": "",
+        "Hours": "Mon-Fri 9 am-4 pm",
+        "Hours2": "Mon 0900 - 1600; Tue 0900 - 1600; Wed 0900 - 1600; Thu 0900 - 1600; Fri 0900 - 1600; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-06-01 14:18:43",
+        "TaxonomyTerms": "Basic Needs - Material Goods - Personal Goods/Services - Clothing - Winter Clothing * Homeless People; Basic Needs - Food - Meals - Community Meals; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Personal/Grooming Supplies",
+        "TaxonomyCodes": "BM-6500.1500-920 * YV-3000; BD-5000.1470; BM-6500.6500-650",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Individuals and families who are unhoused and experiencing mental health issues or both<br /><br />Residency requirement: City of Mississauga",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Resource and information centre to support and empower individuals and families who are unhoused or those experiencing mental health issues or both</p><ul>\t<li>personal hygiene kits and items such as socks, gloves and hats are provided as needed</li><li>community lunch Monday, Tuesday and Friday at 12 noon (see separate entry)</li>\t<li>information sessions and workshops</li>\t<li>Homeless Health Peel Nurse on site Tuesday and Friday 1 pm-4 pm</li>\t<li>Region of Peel Housing Support worker on site Thursday, 10 am-12 noon, Ontario Works on site from 9 am-3 pm</li>\t<li>Library Outreach Worker is on site to assist clients</li></ul><p><br /> </p>",
         "ParentAgency": "Mississauga Library",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Community Meal Program"
