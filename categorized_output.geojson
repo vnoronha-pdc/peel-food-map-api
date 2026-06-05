@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -3578,7 +3578,7 @@
           "Peel Region"
         ],
         "Distance": 9,
-        "Description": "Peel Street Outreach Program mobile team provides food, personal supplies, housing/emergency shelter, mental health and/or substance help, call Street Helpline 1-877-848-8481 or Centralized Shelter Intake 905-450-1996 Monday to Sunday 24 hours<br /><br /><strong>----------</strong><br /><br />Emergency and transitional shelters, street outreach, support services and help to find permanent housing",
+        "Description": "<p>Peel Street Outreach Program mobile team provides food, personal supplies, housing/emergency shelter, mental health and/or substance help, call Street Helpline 1-877-848-8481 or Centralized Shelter Intake 905-450-1996 Monday to Sunday 24 hours<br /><br /><strong>----------</strong><br /><br />Intake for emergency and transitional shelters, street outreach, support services and help to find permanent housing</p>",
         "Latitude": 43.71491,
         "Longitude": -79.7198,
         "PhysicalAddressStreet1": "10 Peel Centre Dr",
@@ -3614,14 +3614,14 @@
         "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-25 14:55:35",
+        "UpdatedOn": "2026-06-03 16:43:01",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Street Outreach Programs; Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Administrative Entities - City Government Departments/Offices * Homelessness Issues; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Homeless People; Organizational/Community/International Services - Information Services - Information Sources - Shelter Information Services * Homeless People; Basic Needs - Housing/Shelter - At Risk/Homeless Housing Related Assistance Programs - Housing Related Coordinated Entry",
         "TaxonomyCodes": "PH-8000; TD-0300.1200 * YZ-3100; BH-3900.3100 * YV-3000; TJ-3200.8000 * YV-3000; BH-0500.3200",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Serving individuals 16 years and older and families who are homeless or at risk of becoming homeless<br /><br /><strong>Residency requirement:</strong> Peel region residents for longer than 1 month, or receiving OntarioWorks through a Peel Region worker",
         "AgencyClassification": "",
-        "AgencyDescription": "Peel Street Outreach Program mobile team provides food, personal supplies, housing/emergency shelter, mental health and/or substance help, call Street Helpline 1-877-848-8481 or Centralized Shelter Intake 905-450-1996 Monday to Sunday 24 hours<br /><br /><strong>----------</strong><br /><br />Emergency and transitional shelters, street outreach, support services and help to find permanent housing",
+        "AgencyDescription": "<p>Peel Street Outreach Program mobile team provides food, personal supplies, housing/emergency shelter, mental health and/or substance help, call Street Helpline 1-877-848-8481 or Centralized Shelter Intake 905-450-1996 Monday to Sunday 24 hours<br /><br /><strong>----------</strong><br /><br />Intake for emergency and transitional shelters, street outreach, support services and help to find permanent housing</p>",
         "ParentAgency": "Peel Region. Housing and Shelter",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
@@ -5440,13 +5440,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
