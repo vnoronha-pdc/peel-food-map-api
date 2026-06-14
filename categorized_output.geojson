@@ -5139,7 +5139,7 @@
         "Hours2": "Mon 0900 - 1600; Tue 0900 - 1600; Wed 0900 - 1600; Thu 0900 - 1600; Fri 0900 - 1600; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-06-08 14:08:15",
+        "UpdatedOn": "2026-06-12 11:44:39",
         "TaxonomyTerms": "Individual and Family Life - Mutual Support - Support Groups - Addictions/Substance Use Disorder Support Groups - Alcohol Use Disorder Support Groups; Individual and Family Life - Mutual Support - Support Groups - Families/Friends Support Groups - Families/Friends of Individuals With an Alcohol Use Disorder Support Groups; Individual and Family Life - Mutual Support - Support Groups - Addictions/Substance Use Disorder Support Groups - Drug Use Disorder Support Groups; Organizational/Community/International Services - Community Facilities/Centers - Agency Facility Space; Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers - Neighborhood Multipurpose Centers; Individual and Family Life - Individual and Family Support Services - Parenting Education - Expectant/New Parent Assistance - Teen Expectant/New Parent Assistance; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Food Preparation Facilities; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Health/Disability Related Counseling * South Asian Community; Individual and Family Life - Mutual Support - Support Groups - Health/Disability Related Support Groups * Lupus Erythematosus; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Public Showers/Baths; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Laundry Facilities; Organizational/Community/International Services - Information Services - Public Awareness/Education - Outreach Programs",
         "TaxonomyCodes": "PN-8100.0500-070; PN-8100.2000-230; PN-8100.0500-180; TC-0500; TC-5500.6000; PH-6100.1800-900; BM-6500.6500-250; RP-1400.8000-300 * YH-0500.8140; PN-8100.3000 * YF-3000.4800; BM-6500.6500-710; BM-6500.6500-450; TJ-6500.6300",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5440,13 +5440,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
