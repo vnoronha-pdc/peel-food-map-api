@@ -3361,13 +3361,13 @@
         "id": 69807326,
         "CurrentId": 69807326,
         "ParentId": 69807323,
-        "PublicName": "Peel Cheshire Homes Brampton - Supportive Housing and Outreach, Peel Cheshire Homes Brampton",
+        "PublicName": "Peel Cheshire Homes Brampton - Supportive Housing and Outreach Program",
         "Score": 105,
         "ServiceArea": [
           "Brampton"
         ],
         "Distance": 8,
-        "Description": "<p>Provides support to adults who live life with a physical disability</p><ul>\t<li>12 unit supportive housing unit that provides residents with a private room with bathroom, attendant care, food preparation, and other services which support independent living</li>\t<li>also provides an Outreach Program for approximately 25 to 30 physically disabled adults who live in their own home within the City of Brampton</li>\t<li>Personal Support Workers (PSWs) assist with daily living needs such as bathing, meal preparation, with some light housekeeping as required</li></ul>",
+        "Description": "<p>Provides non-medical support to adults who live life with a physical disability</p><p><strong>Supportive Housing</strong> - twelve unit supportive housing home, private room with bathroom, attendant care, food preparation, and other services which support independent living</p><p><strong>Outreach program</strong> to physically disabled adults who live in their own home within the City of Brampton</p><ul>\t<li>personal support workers (PSWs) assist with daily living needs such as bathing, meal preparation,  light housekeeping as required</li></ul>",
         "Latitude": 43.698879,
         "Longitude": -79.780244,
         "PhysicalAddressStreet1": "156 Murray St",
@@ -3393,7 +3393,7 @@
           {
             "Phone": "905-450-5185",
             "Name": "Office #2",
-            "Description": "Home Service",
+            "Description": "Residential Service",
             "Type": ""
           },
           {
@@ -3407,16 +3407,16 @@
         "Email": "",
         "Hours": "Supportive Housing Mon-Sun 24 hrs<br>\r\nOutreach Services Mon-Sun 6 am-12 midnight",
         "Hours2": "",
-        "MinAge": "",
+        "MinAge": "18.00",
         "MaxAge": "",
-        "UpdatedOn": "2026-03-18 10:20:35",
-        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities * Physical Disabilities; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for People with Disabilities * Physical Disabilities",
-        "TaxonomyCodes": "PH-0500 * YF-6500; BH-8400.6000-800 * YF-6500",
+        "UpdatedOn": "2026-06-18 14:15:08",
+        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Attendant Services for People With Disabilities * Physical Disabilities; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for People with Disabilities * Physical Disabilities; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - In Home Assistance - In Home Meal Preparation",
+        "TaxonomyCodes": "PH-0500 * YF-6500; BH-8400.6000-800 * YF-6500; PH-3300.6500; PH-3300.3000; PH-3300.3220",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "Admission - subsidized rent program available for low income earners within the supportive housing program;  no fees associated with outreach program, fee assistance available.",
-        "Eligibility": "Adults 18 years and older insured under Health Insurance Act of Ontario<ul>\r\n<li>Have a permanent physical disability\r\n<li>Be able to clearly direct their own personal support and homemaking services</ul>",
+        "Eligibility": "Adults 18 years and older with a permanent physical disability and able to direct their own personal support and homemaking services\r\n",
         "AgencyClassification": "",
-        "AgencyDescription": "<p>Provides support to adults who live life with a physical disability</p><ul>\t<li>12 unit supportive housing unit that provides residents with a private room with bathroom, attendant care, food preparation, and other services which support independent living</li>\t<li>also provides an Outreach Program for approximately 25 to 30 physically disabled adults who live in their own home within the City of Brampton</li>\t<li>Personal Support Workers (PSWs) assist with daily living needs such as bathing, meal preparation, with some light housekeeping as required</li></ul>",
+        "AgencyDescription": "<p>Provides non-medical support to adults who live life with a physical disability</p><p><strong>Supportive Housing</strong> - twelve unit supportive housing home, private room with bathroom, attendant care, food preparation, and other services which support independent living</p><p><strong>Outreach program</strong> to physically disabled adults who live in their own home within the City of Brampton</p><ul>\t<li>personal support workers (PSWs) assist with daily living needs such as bathing, meal preparation,  light housekeeping as required</li></ul>",
         "ParentAgency": "Peel Cheshire Homes Brampton",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": ""
