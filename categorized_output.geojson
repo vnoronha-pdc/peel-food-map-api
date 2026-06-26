@@ -4703,7 +4703,7 @@
         "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
         "MinAge": "16.00",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-19 14:35:08",
+        "UpdatedOn": "2026-06-24 15:35:42",
         "TaxonomyTerms": "Criminal Justice and Legal Services - Law Enforcement Services - Crime Prevention - Family Violence Prevention - Spouse/Intimate Partner Abuse Prevention; Criminal Justice and Legal Services - Law Enforcement Services - Crime Victim Support - Crime Victim Accompaniment Services * Abused Women; Criminal Justice and Legal Services - Law Enforcement Services - Crime Victim Support - General Crime Victim Assistance * Abused Women; Individual and Family Life - Mutual Support - Support Groups - Abuse/Violence Related Support Groups * Abused Women",
         "TaxonomyCodes": "FN-1500.1900-800; FN-1900.0500 * YX-0300.0190; FN-1900.2500 * YX-0300.0190; PN-8100.0200 * YX-0300.0190",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5440,13 +5440,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
