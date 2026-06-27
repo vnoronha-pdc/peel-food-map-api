@@ -347,7 +347,7 @@
           "Scarborough"
         ],
         "Distance": 25,
-        "Description": "Halal food bank<ul>\t<li>clothing and household items</li></ul>",
+        "Description": "<p>Halal food bank</p><ul>\t<li>groceries and essential items for registered clients</li><li>meals on wheels program</li></ul>",
         "Latitude": 43.575155,
         "Longitude": -79.646746,
         "PhysicalAddressStreet1": "3490 Mavis Rd",
@@ -377,14 +377,14 @@
         "Hours2": "Mon 1100 - 1600; Tue 1100 - 1600; Wed 1100 - 1600; Thu 1100 - 1600; Sun 1100 - 1600; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-05-04 09:25:04",
-        "TaxonomyTerms": "Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision * Muslim Community; Basic Needs - Food - Emergency Food - Food Pantries; Basic Needs - Material Goods - Household Goods - Appliances",
-        "TaxonomyCodes": "BM-6500.1500-250 * YR-5000; BD-1800.2000; BM-3000.0500",
+        "UpdatedOn": "2026-06-25 15:26:25",
+        "TaxonomyTerms": "Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision * Muslim Community; Basic Needs - Food - Emergency Food - Food Pantries; Basic Needs - Material Goods - Household Goods - Appliances; Basic Needs - Food - Meals - Home Delivered Meals",
+        "TaxonomyCodes": "BM-6500.1500-250 * YR-5000; BD-1800.2000; BM-3000.0500; BD-5000.3500",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Individuals or families, including refugees and new immigrants, who are unemployed or receiving social assistance",
         "AgencyClassification": "",
-        "AgencyDescription": "Halal food bank<ul>\t<li>clothing and household items</li></ul>",
+        "AgencyDescription": "<p>Halal food bank</p><ul>\t<li>groceries and essential items for registered clients</li><li>meals on wheels program</li></ul>",
         "ParentAgency": "Muslim Welfare Canada",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
@@ -5440,13 +5440,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
