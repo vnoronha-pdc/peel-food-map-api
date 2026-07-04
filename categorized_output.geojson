@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
-          "Halton Region",
-          "Peel Region",
           "Greater Toronto Area",
-          "York Region"
+          "Peel Region",
+          "York Region",
+          "Halton Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -2544,8 +2544,8 @@
         "Score": 190,
         "ServiceArea": [
           "Milton",
-          "Oakville",
           "Mississauga",
+          "Oakville",
           "Etobicoke"
         ],
         "Distance": 21,
@@ -3705,10 +3705,10 @@
         "PublicName": "PCHS - PCHS Brampton",
         "Score": 105,
         "ServiceArea": [
+          "Toronto",
           "Durham Region",
           "Halton Region",
           "Peel Region",
-          "Toronto",
           "York Region"
         ],
         "Distance": 10,
@@ -3852,8 +3852,8 @@
         "Score": 105,
         "ServiceArea": [
           "Dufferin County",
-          "Brampton",
-          "Etobicoke North"
+          "Etobicoke North",
+          "Brampton"
         ],
         "Distance": 14,
         "Description": "<p>Health care services offered at home, at school, and in the community, and access to supported living programs and long-term care</p><p>Care coordinators work with people in the community or leaving hospital to determine what help is needed and arrange for care</p><p>Services available to eligible patients may include:</p><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>physiotherapy and occupational therapy</li><li>speech and language therapy</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>palliative care</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing and assisted living)</li><li>access to respite care and convalescent care (short-term stays)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li></ul><p><strong>School Health Support Services </strong>- services for children who require medical or rehabilitative assistance to attend school</p><ul><li>services are provided within public, private or home-based schools</li></ul><p><strong>Mental Health and Addictions School Program</strong> - assessments, interventions and support to students and families with mental health and or addiction issues</p><ul><li>consultation to school staff in regards to mental health and/or addiction issues as appropriate</li></ul><p><strong>Placement Services</strong> - determine eligibility for admission to <strong>long-term care facilities, </strong>prioritize and manage the admission process and provide support to applicants and families during the process</p><p><strong>Community Nursing Clinics </strong>- nursing services for ambulatory patients at clinics located in the community</p><p><strong>Supported Living</strong> - information and/or assessment for adult day programs, supports for daily living or supportive housing</p><p>Information and Referral -<span> </span><a href=\"http://www.centralwesthealthline.ca/\" target=\"_blank\" aria-label=\"Open in new window\">Central West Healthline</a><span> </span>provides online access to health, social and community resource information for Brampton, Caledon, Dufferin County, North Etobicoke, Malton and West Woodbridge area</p><p><strong>Health Care Connect </strong>- refers people who do not have a doctor to a family health care provider who may be accepting new patients - see <a class=\"e-rte-anchor\" href=\"https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner?_ga=2.264709327.1548696692.1662644094-872895095.1662644094\" title=\"https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner?_ga=2.264709327.1548696692.1662644094-872895095.1662644094\" target=\"_blank\" aria-label=\"Open in new window\">webpage</a></p>",
@@ -3933,10 +3933,10 @@
         "PublicName": "PCHS - PCHS Mississauga",
         "Score": 105,
         "ServiceArea": [
+          "Toronto",
           "Durham Region",
           "Halton Region",
           "Peel Region",
-          "Toronto",
           "York Region"
         ],
         "Distance": 14,
@@ -4732,8 +4732,8 @@
         "PublicName": "Allergy Clinical Immunology and Rheumatology Clinic",
         "Score": 105,
         "ServiceArea": [
-          "Oakville",
-          "Mississauga"
+          "Mississauga",
+          "Oakville"
         ],
         "Distance": 27,
         "Description": "<p>Multidisciplinary clinic offering allergy and rheumatology care * allergies develop when a person's immune system overreacts to substances that are usually harmless<br /><br />Services include:</p>\n<ul>\n<li>allergy testing and treatment</li>\n<li>skin condition management</li>\n<li>asthma management</li>\n<li>food allergy challenges</li>\n<li>penicillin allergy management</li>\n<li>rheumatology diagnosis, management and treatment</li>\n<li>joint injections</li>\n</ul>",
@@ -4801,8 +4801,8 @@
         "PublicName": "Ontario Health at Home Mississauga Halton - Mississauga Office",
         "Score": 105,
         "ServiceArea": [
-          "Halton Region",
           "Mississauga",
+          "Halton Region",
           "Etobicoke South"
         ],
         "Distance": 30,
@@ -4895,8 +4895,8 @@
         "PublicName": "Ontario Health atHome - Ontario Health atHome, Mississauga Office",
         "Score": 105,
         "ServiceArea": [
-          "Halton Region",
-          "Mississauga"
+          "Mississauga",
+          "Halton Region"
         ],
         "Distance": 30,
         "Description": "<p>Health care services offered at home, at school, and in the community, as well as access to supported living programs and long-term care * care coordinators work with people in the community or leaving the hospital to determine what help is needed and arrange for care</p>\n<p>Services available to eligible patients may include:</p>\n<ul>\n<li>nursing</li>\n<li>nurse practitioner</li>\n<li>personal support</li>\n<li>physiotherapy and occupational therapy</li>\n<li>speech and language therapy</li>\n<li>social work</li>\n<li>nutrition and food counselling (dietitians)</li>\n<li>palliative care</li>\n<li>medical supplies and equipment</li>\n<li>access to long-term care homes</li>\n<li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li>\n<li>health support in the school</li>\n<li>specialized services for people living with specific health conditions</li>\n<li>referral to other community supports</li>\n</ul>\n<p><br /><strong>Information and Referra</strong>l - thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 1-833-515-1234<br /><br /><strong>Health Care Connect </strong>- Refers people who do not have a doctor to a family health care provider who may be accepting new patients * once registered, program participants are assigned to a Care Connector * Care Connectors work with family doctors and nurse practitioners who are accepting new patients</p>",
@@ -5440,13 +5440,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Pickering",
-          "Oakville",
           "Brampton",
           "Mississauga",
-          "Etobicoke",
+          "Oakville",
+          "Pickering",
+          "York Region",
           "Scarborough",
-          "York Region"
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
@@ -5570,8 +5570,8 @@
         "PublicName": "Caledon Meals on Wheels - Community Services",
         "Score": 80,
         "ServiceArea": [
-          "Orangeville",
-          "Caledon"
+          "Caledon",
+          "Orangeville"
         ],
         "Distance": 14,
         "Description": "<p>Provides home delivered meals, seniors' social and wellness programs, friendly visiting and Project Lifesaver<br /></p><p><br /></p><p><strong>Hot and Frozen Meals</strong> </p><ul>\t<li>meals prepared daily, can be ordered 1 to 3 times a week on a long-term or temporary basis</li>\t<li>special meal options, dietary restrictions, and minced form</li>\t<li>frozen meals are delivered every two weeks</li>\t<li>daily meal orders or cancellations must be received by 9 am</li></ul><p><strong>Friendly Visiting</strong></p><ul>\t<li>regular contact, in-person visits or over the telephone from volunteers</li>\t<li>provides friendship, support, social connection</li></ul><p><strong>Health and Wellness Programs for Seniors</strong></p><ul>\t<li>senior health, exercise classes, wellness and independent living</li>\t<li>guest speakers or entertainers</li>\t<li>seasonal parties and special luncheons</li>\t<li>discussion group</li>\t<li>creative activities</li>\t<li>programs available in local senior buildings and throughout the community</li></ul><p><strong>Project Lifesaver</strong></p><ul>\t<li>for individuals who may wander due to cognitive impairment such as Alzheimer's Disease, autism, Down Syndrome and acquired brain injury</li>\t<li>individuals are equipped with a wrist transmitter which sends a radio signal that can be tracked</li></ul><p>Volunteer opportunities</p>",
@@ -5633,8 +5633,8 @@
         "PublicName": "Caledon Seniors Centre",
         "Score": 80,
         "ServiceArea": [
-          "Orangeville",
-          "Caledon"
+          "Caledon",
+          "Orangeville"
         ],
         "Distance": 15,
         "Description": "<p>Social and recreational programs</p><ul><li>arts and crafts</li><li>social and recreation activities</li><li>lunch, Mondays, Tuesdays, Wednesdays, Thursdays</li><li>fitness</li><li>technology classes</li><li>day trips</li><li>seasonal income tax clinic</li></ul><p>Transportation available to the Centre through Caledon Community Services</p>",
@@ -5764,8 +5764,8 @@
         "PublicName": "Victorian Order of Nurses - Meals On Wheels",
         "Score": 80,
         "ServiceArea": [
-          "Oakville",
           "Mississauga",
+          "Oakville",
           "Etobicoke"
         ],
         "Distance": 21,
