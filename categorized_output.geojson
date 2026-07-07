@@ -343,8 +343,8 @@
         "PublicName": "Muslim Welfare Canada - Mississauga Halal Food and Essential Items Bank",
         "Score": 490,
         "ServiceArea": [
-          "Mississauga",
-          "Scarborough"
+          "Scarborough",
+          "Mississauga"
         ],
         "Distance": 25,
         "Description": "<p>Halal food bank</p><ul>\t<li>groceries and essential items for registered clients</li><li>meals on wheels program</li></ul>",
@@ -4953,7 +4953,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-06-01 09:49:34",
+        "UpdatedOn": "2026-07-05 16:48:57",
         "TaxonomyTerms": "Health Care - Health Supportive Services; Health Care - Specialized Treatment and Prevention - Home Health Care; Individual and Family Life - Individual and Family Support Services - Adult Day Programs; Health Care - Specialized Treatment and Prevention - Palliative Care; Health Care - Health Supportive Services - Health Care Referrals - Rehabilitation/Habilitative Medicine Referrals; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Health Issues; Organizational/Community/International Services - Information Services - Information and Referral - Specialized Information and Referral * Long Term Care Issues; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Individual and Family Life - Individual and Family Support Services - Case/Care Management * People With Disabilities; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Attendant Registries * People With Disabilities; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - In Home Assistance Registries; Health Care - Health Supportive Services - Health Care Referrals - Nursing Registries; Health Care - Health Supportive Services - Long Term Care Options Counseling; Individual and Family Life - Individual and Family Support Services - Family Support Recruitment/Referral - Respite Care Registries",
         "TaxonomyCodes": "LH-4500; LT-2800; PH-0320; LT-6650; LH-2600.7000; TJ-3000.8000 * YZ-3050; TJ-3000.8000 * YZ-4750; PH-1000 * YB-8000; PH-1000 * YJ-8750; PH-2400.0500 * YJ-8750; PH-2400.3300; LH-2600.6050; LH-4600; PH-2400.7000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5440,13 +5440,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
@@ -5811,7 +5811,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-06-09 14:45:11",
+        "UpdatedOn": "2026-07-05 16:43:51",
         "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Individual and Family Life - Volunteer Opportunities",
         "TaxonomyCodes": "BD-5000.3500; PX",
         "LastVerifiedByPhoneNumber": "Not Available",
