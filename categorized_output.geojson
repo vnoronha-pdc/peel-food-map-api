@@ -2806,8 +2806,8 @@
         ]
       },
       "properties": {
-        "id": 97658283,
-        "CurrentId": 97658283,
+        "id": 97691856,
+        "CurrentId": 97691856,
         "ParentId": 97658130,
         "PublicName": "Salvation Army Mississauga Community Church (The) - Mississauga Community and Family Services",
         "Score": 190,
@@ -2851,7 +2851,7 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": null,
+        "UpdatedOn": "2026-07-07 15:10:10",
         "TaxonomyTerms": "Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Anger Management; Consumer Services - Money Management - Personal Finances Administration; Basic Needs - Food - Meals - Senior Meals; Education - Educational Support Services - Student Services and Campus Life - School Supplies",
         "TaxonomyCodes": "RP-1400.8000-070; DM-6000; BD-5000.1500; HL-8120.7800",
         "LastVerifiedByPhoneNumber": "Not Available",
