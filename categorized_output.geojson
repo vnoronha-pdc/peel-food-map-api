@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -5685,6 +5685,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.7505319,
+          43.6028136
+        ]
+      },
+      "properties": {
+        "id": 69797894,
+        "CurrentId": 69797894,
+        "ParentId": 69797888,
+        "PublicName": "Victorian Order of Nurses, Toronto-York Region Branch - Community Supports Peel",
+        "Score": 80,
+        "ServiceArea": [
+          "Peel Region"
+        ],
+        "Distance": 19,
+        "Description": "<p><strong>Community Support</strong> </p><ul><li>meals on wheels, hot and frozen</li><li>supportive housing</li><li>Seniors In-Home Exercise Programs, (SMART)</li><li>home support and home nursing </li></ul><p><strong>Supports for daily living</strong></p><ul style=\"list-style-type: disc;\"><li>personal support, dressing, bathing</li><li>homemaking</li><li>medication monitoring</li></ul><p><strong>Seniors Lunch Bunch </strong></p><ul style=\"list-style-type: disc;\"><li>hot meals for 65 and older </li><li>registration required</li><li>call for price and locations </li></ul>",
+        "Latitude": 43.6028136,
+        "Longitude": -79.7505319,
+        "PhysicalAddressStreet1": "6925 Century Ave",
+        "PhysicalAddressStreet2": "Suite 501",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5N 7K2",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "6925 Century Ave",
+        "MailingAddressStreet2": "Suite 501",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L5N 7K2",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-821-3254",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "https://von.ca/en/locations/peel",
+        "Email": "",
+        "Hours": "Supports for Daily Living Mon-Sun 24 hours; Community Support Services Mon-Fri 8:30 am-4:30 pm; community meal contact for information",
+        "Hours2": "",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-07-09 15:09:44",
+        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Basic Needs - Food - Meals - Senior Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults; Basic Needs - Food - Meals - Home Delivered Meals",
+        "TaxonomyCodes": "PH-1000 * YB-8000; BD-5000.1500; BH-8400.6000-060; PH-3300.3000; PH-1800.3350; PH-3300.6500; PL-6600 * YB-8000; BD-5000.3500",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "Varies, some free programs; call for information",
+        "Eligibility": "Older adults 65 years and older; adults with disabilities are eligible for some programs",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p><strong>Community Support</strong> </p><ul><li>meals on wheels, hot and frozen</li><li>supportive housing</li><li>Seniors In-Home Exercise Programs, (SMART)</li><li>home support and home nursing </li></ul><p><strong>Supports for daily living</strong></p><ul style=\"list-style-type: disc;\"><li>personal support, dressing, bathing</li><li>homemaking</li><li>medication monitoring</li></ul><p><strong>Seniors Lunch Bunch </strong></p><ul style=\"list-style-type: disc;\"><li>hot meals for 65 and older </li><li>registration required</li><li>call for price and locations </li></ul>",
+        "ParentAgency": "Victorian Order of Nurses, Toronto-York Region Branch",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Delivery Program"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.5943321,
           43.6672698
         ]
@@ -5821,68 +5883,6 @@
         "AgencyDescription": "<p>Community service that offers affordable, nutritious hot meals by volunteers * frozen meals are also available to choose from * delivers 5 days a week, Mon-Fri (except statutory holidays) * meals are prepared in government-inspected kitchens by volunteers or under contract between VON and commercial or institutional kitchens * meals can be adapted to the unique dietary needs of each client * volunteer opportunities available</p>",
         "ParentAgency": "Victorian Order of Nurses",
         "RecordOwner": "Halton Information Providers",
-        "FoodProgram": "Food Delivery Program"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.719283,
-          43.584257
-        ]
-      },
-      "properties": {
-        "id": 69797894,
-        "CurrentId": 69797894,
-        "ParentId": 69797888,
-        "PublicName": "Victorian Order of Nurses, Toronto-York Region Branch - Peel Satellite Office",
-        "Score": 80,
-        "ServiceArea": [
-          "Peel Region"
-        ],
-        "Distance": 21,
-        "Description": "<strong>Community Support</strong> -- congregate dining<ul>\t<li>meals on wheels</li>\t<li>supportive housing</li>\t<li>S.M.A.R.T. (Seniors Maintaining Active Roles Together) Enhanced</li></ul><strong>Supports for daily living</strong> -- personal support and homemaking<ul>\t<li>care coordination</li></ul>",
-        "Latitude": 43.584257,
-        "Longitude": -79.719283,
-        "PhysicalAddressStreet1": "78 William St",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5M 1J3",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "78 William St",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L5M 1J3",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-821-3254",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "http://www.von.ca/en/site/peel",
-        "Email": "",
-        "Hours": "Supports for Daily Living -- Mon-Sun 24 hours; Community Support Services -- Mon-Fri 8:30 am-4:30 pm",
-        "Hours2": "",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-03-18 10:20:34",
-        "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Case/Care Management * Older Adults; Basic Needs - Food - Meals - Senior Meals; Basic Needs - Housing/Shelter - Supportive Housing - Older Adult/Disability Related Supportive Housing - Supportive Housing for Older Adults; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Homemaker Assistance; Individual and Family Life - Individual and Family Support Services - Emergency Alert - In Person Reassurance/Monitoring Programs; Individual and Family Life - Individual and Family Support Services - In Home Assistance - Personal Care; Individual and Family Life - Leisure Activities/Recreation - Physical Fitness * Older Adults; Basic Needs - Food - Meals - Home Delivered Meals",
-        "TaxonomyCodes": "PH-1000 * YB-8000; BD-5000.1500; BH-8400.6000-060; PH-3300.3000; PH-1800.3350; PH-3300.6500; PL-6600 * YB-8000; BD-5000.3500",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Older adults 65 years and older; adults with disabilities are eligible for some programs",
-        "AgencyClassification": "",
-        "AgencyDescription": "<strong>Community Support</strong> -- congregate dining<ul>\t<li>meals on wheels</li>\t<li>supportive housing</li>\t<li>S.M.A.R.T. (Seniors Maintaining Active Roles Together) Enhanced</li></ul><strong>Supports for daily living</strong> -- personal support and homemaking<ul>\t<li>care coordination</li></ul>",
-        "ParentAgency": "Victorian Order of Nurses, Toronto-York Region Branch",
-        "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Delivery Program"
       }
     },
