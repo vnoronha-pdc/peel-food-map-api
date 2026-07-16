@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -524,21 +524,19 @@
         ]
       },
       "properties": {
-        "id": 97660917,
-        "CurrentId": 97660917,
+        "id": 97695333,
+        "CurrentId": 97695333,
         "ParentId": 97660685,
-        "PublicName": "Giving Without Expectations - Food Bank",
+        "PublicName": "Giving Without Expectations - Food Bank - Brampton",
         "Score": 410,
         "ServiceArea": [
-          "Brantford",
-          "Brampton",
-          "Mississauga"
+          "Brampton"
         ],
         "Distance": 9,
         "Description": "<p>Distribution of culturally appropriate food and essential items</p><ul style=\"list-style-type: disc; text-align: left;\"><li>perishable and nonperishable food, beverages</li><li>personal care products</li><li>clothing</li><li>seasonal back-to-school supplies</li></ul><p>Items vary from week to week. Bring grocery bags</p><p><br /></p>",
         "Latitude": 43.6885656,
         "Longitude": -79.763983,
-        "PhysicalAddressStreet1": " 165 Main St North",
+        "PhysicalAddressStreet1": "165 Main St North",
         "PhysicalAddressStreet2": "",
         "PhysicalAddressCity": "Brampton",
         "PhysicalAddressProvince": "ON",
@@ -559,13 +557,13 @@
             "Type": ""
           }
         ],
-        "Website": "https://www.giwexp.org/#",
+        "Website": "https://giwexp.org/#what-we-do",
         "Email": "info@giwexp.org",
-        "Hours": "Brampton Sat 8 am-9 am<br>Mississauga Sat 10 am-11 am<br>Brantford bi-weekly Sun 11:30 am-1 pm call for information",
-        "Hours2": "",
+        "Hours": "Brampton Sat 8 am-9 am",
+        "Hours2": "Sat 0800 - 0900; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-05-20 09:50:00",
+        "UpdatedOn": "2026-07-14 14:31:43",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Education - Educational Support Services - Student Services and Campus Life - School Supplies; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Personal/Grooming Supplies; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision",
         "TaxonomyCodes": "BD-1800.2000; HL-8120.7800; BM-6500.6500-650; BM-6500.1500-250",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -724,14 +722,12 @@
         ]
       },
       "properties": {
-        "id": 97660918,
-        "CurrentId": 97660918,
+        "id": 97695584,
+        "CurrentId": 97695584,
         "ParentId": 97660685,
-        "PublicName": "Giving Without Expectations - Food Bank",
+        "PublicName": "Giving Without Expectations - Food Bank - Mississauga",
         "Score": 410,
         "ServiceArea": [
-          "Brantford",
-          "Brampton",
           "Mississauga"
         ],
         "Distance": 21,
@@ -765,9 +761,9 @@
         "Hours2": "",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-05-20 09:50:00",
-        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Education - Educational Support Services - Student Services and Campus Life - School Supplies; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Personal/Grooming Supplies; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision",
-        "TaxonomyCodes": "BD-1800.2000; HL-8120.7800; BM-6500.6500-650; BM-6500.1500-250",
+        "UpdatedOn": null,
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Basic Needs - Material Goods - Personal Goods/Services - Clothing - General Clothing Provision; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Personal/Grooming Supplies; Education - Educational Support Services - Student Services and Campus Life - School Supplies",
+        "TaxonomyCodes": "BD-1800.2000; BM-6500.1500-250; BM-6500.6500-650; HL-8120.7800",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Individuals and families experiencing food insecurity, including seniors and those facing homelessness\r\n",
@@ -1480,6 +1476,74 @@
         "AgencyClassification": "",
         "AgencyDescription": "Food bank",
         "ParentAgency": "Good Measure Food Bank",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6033582,
+          43.598736
+        ]
+      },
+      "properties": {
+        "id": 97695246,
+        "CurrentId": 97695246,
+        "ParentId": 97658130,
+        "PublicName": "Salvation Army Mississauga Community Church (The) - Mississauga Temple Family Services - Food Bank",
+        "Score": 405,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 25,
+        "Description": "Provides the following services to people in need:<ul>\t<li>Food Bank -- by appointment</li>\t<li>Christmas Assistance Program available to single persons and families</li></ul>Volunteers needed",
+        "Latitude": 43.598736,
+        "Longitude": -79.6033582,
+        "PhysicalAddressStreet1": "3167 Cawthra Rd",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5A 2X4",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "3167 Cawthra Rd",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L5A 2X4",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-279-3941",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          },
+          {
+            "Phone": "905-279-0154",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "https://mississaugatemple.com/",
+        "Email": "info@mississaugatemple.com",
+        "Hours": "Mon-Tue 9 am-12 noon, 1 pm-3:30 pm; Wed 9 am-12 noon, 1 pm-6:30 pm; Thu 1 pm-3:30 pm; Fri 9 am-12 noon",
+        "Hours2": "Mon 0900 - 1530; Tue 0900 - 1530; Wed 0900 - 1830; Thu 1300 - 1530; Fri 0900 - 1200; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-07-14 09:31:52",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Individual and Family Life - Volunteer Opportunities; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs",
+        "TaxonomyCodes": "BD-1800.2000; PX; PH-2950.1500",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Low-income individuals and families<br/>\r\nChristmas assistance for single person and families <br/>\r\nServes those living in postal code areas beginning with L4V, L4W, L4X, L4Y, L4Z, L5A, L5B, L5E, L5G, L5P, L5R, L5S and L5T",
+        "AgencyClassification": "",
+        "AgencyDescription": "Provides the following services to people in need:<ul>\t<li>Food Bank -- by appointment</li>\t<li>Christmas Assistance Program available to single persons and families</li></ul>Volunteers needed",
+        "ParentAgency": "Salvation Army Mississauga Community Church (The)",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
