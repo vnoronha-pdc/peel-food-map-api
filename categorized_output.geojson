@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -1493,7 +1493,7 @@
         "id": 97695246,
         "CurrentId": 97695246,
         "ParentId": 97658130,
-        "PublicName": "Salvation Army Mississauga Community Church (The) - Mississauga Temple Family Services - Food Bank",
+        "PublicName": "Salvation Army Mississauga Community Church (The) - Mississauga Community Services - Food Bank",
         "Score": 405,
         "ServiceArea": [
           "Mississauga"
@@ -1535,7 +1535,7 @@
         "Hours2": "Mon 0900 - 1530; Tue 0900 - 1530; Wed 0900 - 1830; Thu 1300 - 1530; Fri 0900 - 1200; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-07-14 09:31:52",
+        "UpdatedOn": "2026-07-16 15:16:28",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Individual and Family Life - Volunteer Opportunities; Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs",
         "TaxonomyCodes": "BD-1800.2000; PX; PH-2950.1500",
         "LastVerifiedByPhoneNumber": "Not Available",
