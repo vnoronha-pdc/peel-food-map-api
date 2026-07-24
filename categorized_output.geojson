@@ -5504,13 +5504,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
@@ -5665,10 +5665,10 @@
         "Website": "http://www.cmow.org",
         "Email": "kim.rodrigues@cmow.org",
         "Hours": "Office Mon-Fri 8:30 am-3pm,  program hours vary, call for information",
-        "Hours2": "Mon 8:30 - 3:00; Tue 8:30 - 3:00; Wed 8:30 - 3:00; Thu 8:30 - 3:00; Fri 8:30 - 3:00; ",
+        "Hours2": "Mon 830 - 1500; Tue 830 - 1500; Wed 830 - 1500; Thu 830 - 1500; Fri 830 - 1500; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-16 13:17:34",
+        "UpdatedOn": "2026-07-22 17:23:54",
         "TaxonomyTerms": "Basic Needs - Food - Meals - Home Delivered Meals; Individual and Family Life - Volunteer Opportunities; Individual and Family Life - Individual and Family Support Services - Companionship - Friendly Outreach Programs; Health Care - Health Supportive Services - Health Education - Wellness Programs * Older Adults; Individual and Family Life - Individual and Family Support Services - Emergency Alert - Locator Aids * Dementia",
         "TaxonomyCodes": "BD-5000.3500; PX; PH-1400.1900; LH-2700.9500 * YB-8000; PH-1800.4600 * YF-3000.2380",
         "LastVerifiedByPhoneNumber": "Not Available",
