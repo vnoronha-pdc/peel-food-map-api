@@ -5141,7 +5141,7 @@
         "Hours2": "Mon 0900 - 1900; Tue 0900 - 1900; Wed 0900 - 1900; Thu 0900 - 1900; Fri 0900 - 1900; ",
         "MinAge": "16.00",
         "MaxAge": "24.00",
-        "UpdatedOn": "2026-07-24 09:07:55",
+        "UpdatedOn": "2026-08-10 16:33:14",
         "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Vouchers; Basic Needs - Material Goods - Household Goods - General Household Goods Provision; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counseling * Black Community; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Runaway/Homeless Youth Counseling; Basic Needs - Housing/Shelter - Housing Expense Assistance - Rent Payment Assistance; Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Eviction Prevention Assistance; Individual and Family Life - Mutual Support - Support Groups - Mental Health Related Support Groups; Individual and Family Life - Individual and Family Support Services - Personal Enrichment - Life Skills Education; Criminal Justice and Legal Services - Legal Services - Landlord/Tenant Assistance - Tenant Rights Information/Counseling; Basic Needs - Housing/Shelter - At Risk/Homeless Housing Related Assistance Programs - Homelessness Prevention Programs; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Adolescent/Youth Counseling * Indigenous Communities",
         "TaxonomyCodes": "BD-1800.2250; BM-3000.2500; RP-1400.8000-050 * YH-6000.1020; RP-1400.8000-750; BH-3800.7000; FT-4500.1800; PN-8100.5000; PH-6200.4600; FT-4500.8550; BH-0500.3140; RP-1400.8000-050 * YH-6000.3280",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5504,13 +5504,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
