@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -4607,7 +4607,7 @@
         "Hours2": "Mon 0900 - 1700; Tue 0900 - 1700; Wed 0900 - 1700; Thu 0900 - 1700; Fri 0900 - 1700; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-12-08 10:13:40",
+        "UpdatedOn": "2026-08-19 09:31:40",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Case/Care Management * Muslim Community; Individual and Family Life - Individual and Family Support Services - Case/Care Management * Women",
         "TaxonomyCodes": "PH-1000 * YR-5000; PH-1000 * YS-2000.9500",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5504,13 +5504,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
