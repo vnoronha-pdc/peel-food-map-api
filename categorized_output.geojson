@@ -3678,7 +3678,7 @@
         "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-06-16 14:54:15",
+        "UpdatedOn": "2026-08-24 17:48:51",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Street Outreach Programs; Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Administrative Entities - City Government Departments/Offices * Homelessness Issues; Basic Needs - Housing/Shelter - Housing Search and Information - Housing Search Assistance * Homeless People; Organizational/Community/International Services - Information Services - Information Sources - Shelter Information Services * Homeless People; Basic Needs - Housing/Shelter - At Risk/Homeless Housing Related Assistance Programs - Housing Related Coordinated Entry; Consumer Services - Consumer Assistance and Protection - Consumer Complaints - Shelter Complaints",
         "TaxonomyCodes": "PH-8000; TD-0300.1200 * YZ-3100; BH-3900.3100 * YV-3000; TJ-3200.8000 * YV-3000; BH-0500.3200; DD-1500.8170",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -5504,13 +5504,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
