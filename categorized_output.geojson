@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
+          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region",
-          "Halton Region"
+          "York Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -717,6 +717,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.72944,
+          43.59385
+        ]
+      },
+      "properties": {
+        "id": 69807696,
+        "CurrentId": 69807696,
+        "ParentId": 69807685,
+        "PublicName": "St Mary's Food Bank - Streetsville Location",
+        "Score": 410,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 20,
+        "Description": "<p>Food bank</p><p>Delivery available</p><ul style=\"list-style-image: none; list-style-type: disc; text-align: left;\"><li>once a month, approximately 7 days of food </li><li>aged 65 or older, with a physical disability or short/long-term illness that makes it hard to visit a food bank</li><li>or single, new or expecting mother who is homebound</li><li>do not live with an adult-aged household member who is able to visit a food bank</li></ul><p>Member agency of The Mississauga Food Bank</p>",
+        "Latitude": 43.59385,
+        "Longitude": -79.72944,
+        "PhysicalAddressStreet1": "6277 Mississauga Rd",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L5N 1A7",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "6277 Mississauga Rd",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L5N 1A7",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-286-9987",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "http://stmarysfoodbank.ca/#contactus",
+        "Email": "info@stmarysfoodbank.ca",
+        "Hours": "Mon 5 pm-7 pm, Wed 12:30 pm-2:30 pm",
+        "Hours2": "Mon 1700 - 1900; Wed 1230 - 1430; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-08-25 16:02:48",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
+        "TaxonomyCodes": "BD-1800.2000",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Low-income residents of catchment area<br />\r\nResidency Requirements: Postal codes served: L5N, L5M",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Food bank</p><p>Delivery available</p><ul style=\"list-style-image: none; list-style-type: disc; text-align: left;\"><li>once a month, approximately 7 days of food </li><li>aged 65 or older, with a physical disability or short/long-term illness that makes it hard to visit a food bank</li><li>or single, new or expecting mother who is homebound</li><li>do not live with an adult-aged household member who is able to visit a food bank</li></ul><p>Member agency of The Mississauga Food Bank</p>",
+        "ParentAgency": "St Mary's Food Bank",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.7178503,
           43.584814
         ]
@@ -770,6 +832,130 @@
         "AgencyClassification": "",
         "AgencyDescription": "<p>Distribution of culturally appropriate food and essential items</p><ul style=\"list-style-type: disc; text-align: left;\"><li>perishable and nonperishable food, beverages</li><li>personal care products</li><li>clothing</li><li>seasonal back-to-school supplies</li></ul><p>Items vary from week to week. Bring grocery bags</p><p><br /></p>",
         "ParentAgency": "Giving Without Expectations",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.64432,
+          43.61493
+        ]
+      },
+      "properties": {
+        "id": 69807688,
+        "CurrentId": 69807688,
+        "ParentId": 69807685,
+        "PublicName": "St Mary's Food Bank - Coopers Location",
+        "Score": 410,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 21,
+        "Description": "<p>Food bank</p><p>Delivery available</p><ul style=\"list-style-image: none; list-style-type: disc; text-align: left;\"><li>once a month, approximately 7 days of food </li><li>aged 65 or older, with a physical disability or short/long-term illness that makes it hard to visit a food bank</li><li>or single, new or expecting mother who is homebound</li><li>do not live with an adult-aged household member who is able to visit a food bank</li></ul><p>Member agency of The Mississauga Food Bank</p>",
+        "Latitude": 43.61493,
+        "Longitude": -79.64432,
+        "PhysicalAddressStreet1": "5715 Coopers Ave",
+        "PhysicalAddressStreet2": "Unit 12",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L4Z 2Z7",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "5757 Kennedy Rd",
+        "MailingAddressStreet2": "Unit 12",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L4Z 0C5",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-890-0900",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "http://stmarysfoodbank.ca/#contactus",
+        "Email": "info@stmarysfoodbank.ca",
+        "Hours": "Tue 12 noon-2 pm, Wed-Thu 6 pm-8 pm",
+        "Hours2": "Tue 1200 - 1400; Wed 1800 - 2000; Thu 1800 - 2000; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-08-25 16:03:45",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Basic Needs - Food - Food Outlets - Grocery Delivery",
+        "TaxonomyCodes": "BD-1800.2000; BD-2400.2590",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Low-income residents of catchment area<br />\r\nResidency Requirements: Postal codes served: L4W, L4Z, L5R, L5V, L5W",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Food bank</p><p>Delivery available</p><ul style=\"list-style-image: none; list-style-type: disc; text-align: left;\"><li>once a month, approximately 7 days of food </li><li>aged 65 or older, with a physical disability or short/long-term illness that makes it hard to visit a food bank</li><li>or single, new or expecting mother who is homebound</li><li>do not live with an adult-aged household member who is able to visit a food bank</li></ul><p>Member agency of The Mississauga Food Bank</p>",
+        "ParentAgency": "St Mary's Food Bank",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.577464,
+          43.616156
+        ]
+      },
+      "properties": {
+        "id": 69807693,
+        "CurrentId": 69807693,
+        "ParentId": 69807685,
+        "PublicName": "St Mary's Food Bank - Dundas Location",
+        "Score": 410,
+        "ServiceArea": [
+          "Mississauga"
+        ],
+        "Distance": 25,
+        "Description": "<p>Food bank</p><p>Delivery available</p><ul style=\"list-style-image: none; list-style-type: disc; text-align: left;\"><li>once a month, approximately 7 days of food </li><li>aged 65 or older, with a physical disability or short/long-term illness that makes it hard to visit a food bank</li><li>or single, new or expecting mother who is homebound</li><li>do not live with an adult-aged household member who is able to visit a food bank</li></ul><p>Member agency of The Mississauga Food Bank</p>",
+        "Latitude": 43.616156,
+        "Longitude": -79.577464,
+        "PhysicalAddressStreet1": "1699 Dundas St E",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Mississauga",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L4X 1L5",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "1699 Dundas St E",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Mississauga",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L4X 1L5",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-238-9008",
+            "Name": "Office",
+            "Description": "",
+            "Type": ""
+          }
+        ],
+        "Website": "http://stmarysfoodbank.ca/#contactus",
+        "Email": "info@stmarysfoodbank.ca",
+        "Hours": "Mon 6 pm-8 pm, Wed 11 am-2 pm",
+        "Hours2": "Mon 1800 - 2000; Wed 1100 - 1400; ",
+        "MinAge": "",
+        "MaxAge": "",
+        "UpdatedOn": "2026-08-25 16:20:08",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Organizational/Community/International Services - Donor Services - Donated Specialty Items - Food Donation Programs; Individual and Family Life - Volunteer Opportunities",
+        "TaxonomyCodes": "BD-1800.2000; TI-1800.2000; PX",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Low-income residents of catchment area<br />\r\nResidency Requirements: Postal codes served: L4X, L4Y, L5A",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Food bank</p><p>Delivery available</p><ul style=\"list-style-image: none; list-style-type: disc; text-align: left;\"><li>once a month, approximately 7 days of food </li><li>aged 65 or older, with a physical disability or short/long-term illness that makes it hard to visit a food bank</li><li>or single, new or expecting mother who is homebound</li><li>do not live with an adult-aged household member who is able to visit a food bank</li></ul><p>Member agency of The Mississauga Food Bank</p>",
+        "ParentAgency": "St Mary's Food Bank",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -1237,68 +1423,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.72944,
-          43.59385
-        ]
-      },
-      "properties": {
-        "id": 69807696,
-        "CurrentId": 69807696,
-        "ParentId": 69807685,
-        "PublicName": "St Mary's Food Bank - Streetsville Location",
-        "Score": 405,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 20,
-        "Description": "Food bank<br /><br />Member agency of The Mississauga Food Bank",
-        "Latitude": 43.59385,
-        "Longitude": -79.72944,
-        "PhysicalAddressStreet1": "6277 Mississauga Rd",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L5N 1A7",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "6277 Mississauga Rd",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L5N 1A7",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-286-9987",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "http://stmarysfoodbank.ca/#contactus",
-        "Email": "adel.nashaat@gmail.com",
-        "Hours": "Mon 5 pm-7 pm, Wed 12:30 pm-2:30 pm",
-        "Hours2": "Mon 1700 - 1900; Wed 1230 - 1430; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-08-12 12:41:23",
-        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
-        "TaxonomyCodes": "BD-1800.2000",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Low-income residents of catchment area<br />\r\nResidency Requirements: Postal codes served: L5N, L5M",
-        "AgencyClassification": "",
-        "AgencyDescription": "Food bank<br /><br />Member agency of The Mississauga Food Bank",
-        "ParentAgency": "St Mary's Food Bank",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.766362,
           43.584177
         ]
@@ -1352,68 +1476,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "Emergency food assistance according to postal codes <br />Christmas assistance program",
         "ParentAgency": "Salvation Army Mississauga Community Church (The)",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.64432,
-          43.61493
-        ]
-      },
-      "properties": {
-        "id": 69807688,
-        "CurrentId": 69807688,
-        "ParentId": 69807685,
-        "PublicName": "St Mary's Food Bank - Coopers Location",
-        "Score": 405,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 21,
-        "Description": "Food bank<br /><br />Member agency of The Mississauga Food Bank",
-        "Latitude": 43.61493,
-        "Longitude": -79.64432,
-        "PhysicalAddressStreet1": "5715 Coopers Ave",
-        "PhysicalAddressStreet2": "Unit 12",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L4Z 2Z7",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "5757 Kennedy Rd",
-        "MailingAddressStreet2": "Unit 12",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L4Z 0C5",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-890-0900",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "http://stmarysfoodbank.ca/#contactus",
-        "Email": "adel.nashaat@gmail.com",
-        "Hours": "Tue 12 noon-2 pm, Wed-Thu 6 pm-8 pm",
-        "Hours2": "Tue 1200 - 1400; Wed 1800 - 2000; Thu 1800 - 2000; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-08-12 12:40:34",
-        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
-        "TaxonomyCodes": "BD-1800.2000",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Low-income residents of catchment area<br />\r\nResidency Requirements: Postal codes served: L4W, L4Z, L5R, L5V, L5W",
-        "AgencyClassification": "",
-        "AgencyDescription": "Food bank<br /><br />Member agency of The Mississauga Food Bank",
-        "ParentAgency": "St Mary's Food Bank",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -1544,68 +1606,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "Provides the following services to people in need:<ul>\t<li>Food Bank -- by appointment</li>\t<li>Christmas Assistance Program available to single persons and families</li></ul>Volunteers needed",
         "ParentAgency": "Salvation Army Mississauga Community Church (The)",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.577464,
-          43.616156
-        ]
-      },
-      "properties": {
-        "id": 69807693,
-        "CurrentId": 69807693,
-        "ParentId": 69807685,
-        "PublicName": "St Mary's Food Bank - Dundas Location",
-        "Score": 405,
-        "ServiceArea": [
-          "Mississauga"
-        ],
-        "Distance": 25,
-        "Description": "<span style=\"font-size:11px\">Food bank<br /><br />Member agency of The Mississauga Food Bank</span>",
-        "Latitude": 43.616156,
-        "Longitude": -79.577464,
-        "PhysicalAddressStreet1": "1699 Dundas St E",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Mississauga",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L4X 1L5",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "1699 Dundas St E",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Mississauga",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L4X 1L5",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-238-9008",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          }
-        ],
-        "Website": "http://stmarysfoodbank.ca/#contactus",
-        "Email": "adel.nashaat@gmail.com",
-        "Hours": "Mon 6 pm-8 pm, Wed 11 am-2 pm",
-        "Hours2": "Mon 1800 - 2000; Wed 1100 - 1400; ",
-        "MinAge": "",
-        "MaxAge": "",
-        "UpdatedOn": "2026-08-12 12:44:41",
-        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Organizational/Community/International Services - Donor Services - Donated Specialty Items - Food Donation Programs; Individual and Family Life - Volunteer Opportunities",
-        "TaxonomyCodes": "BD-1800.2000; TI-1800.2000; PX",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Low-income residents of catchment area<br />\r\nResidency Requirements: Postal codes served: L4X, L4Y, L5A",
-        "AgencyClassification": "",
-        "AgencyDescription": "<span style=\"font-size:11px\">Food bank<br /><br />Member agency of The Mississauga Food Bank</span>",
-        "ParentAgency": "St Mary's Food Bank",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -1847,11 +1847,11 @@
         ],
         "Website": "http://www.ccs4u.org/",
         "Email": "info@ccs4u.org",
-        "Hours": "Mon-Fri 9 am-4:30 pm",
+        "Hours": "Mon-Fri 9 am-4:30 pm; Food Drop Off: Mon-Fri 9 am-4 pm",
         "Hours2": "Mon 0900 - 1630; Tue 0900 - 1630; Wed 0900 - 1630; Thu 0900 - 1630; Fri 0900 - 1630; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-11 14:37:19",
+        "UpdatedOn": "2026-08-25 15:22:31",
         "TaxonomyTerms": "Individual and Family Life - Individual and Family Support Services - Holiday Programs - Christmas Programs; Basic Needs - Utilities - Utility Assistance; Organizational/Community/International Services - Donor Services - Donated Specialty Items - Food Donation Programs; Organizational/Community/International Services - Donor Services - Donated Specialty Items - Gift Card Donation Programs; Organizational/Community/International Services - Donor Services - Donated Specialty Items - Leisure Equipment/Supplies Donation Programs; Basic Needs - Food - Emergency Food - Food Pantries; Basic Needs - Material Goods - Personal Goods/Services - Personal/Grooming Needs - Food Preparation Facilities; Individual and Family Life - Leisure Activities/Recreation - Recreational/Leisure/Arts Instruction - Cooking Classes; Basic Needs - Food - Food Collection and Storage; Organizational/Community/International Services - Community Facilities/Centers - Agency Facility Space; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - General Counseling Services; Organizational/Community/International Services - Community Facilities/Centers - Meeting Space",
         "TaxonomyCodes": "PH-2950.1500; BV-8900; TI-1800.2000; TI-1800.2500; TI-1800.4500; BD-1800.2000; BM-6500.6500-250; PL-7400.1550; BD-1875; TC-0500; RP-1400.2500; TC-5000",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -3732,15 +3732,21 @@
             "Name": "Office",
             "Description": "",
             "Type": ""
+          },
+          {
+            "Phone": "905-452-7485",
+            "Name": "Crisis",
+            "Description": "24 Hour Line",
+            "Type": ""
           }
         ],
         "Website": "https://www.wcpreciousshelter.ca",
         "Email": "wncpreciousshelter@gmail.com",
-        "Hours": "Office Mon-Fri 9 pm-5 pm; Sat, Sun 9 am-6 pm; Shelter Mon-Sun 24 hours",
+        "Hours": "Office Mon-Fri 9 am-5 pm; Sat, Sun 9 am-6 pm; Shelter Mon-Sun 24 hours",
         "Hours2": "Mon 0900 - 1700; Tue 0900 - 1700; Wed 0900 - 1700; Thu 0900 - 1700; Fri 0900 - 1700; Sat 0900 - 1800; Sun 0900 - 1800; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-01-21 15:10:02",
+        "UpdatedOn": "2026-08-26 14:32:17",
         "TaxonomyTerms": "Basic Needs - Housing/Shelter - Emergency Shelter - Crisis Shelter - Domestic Violence Shelters",
         "TaxonomyCodes": "BH-1800.1500-100",
         "LastVerifiedByPhoneNumber": "Not Available",
