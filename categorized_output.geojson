@@ -17,10 +17,10 @@
         "PublicName": "SacredHand Canada - Food Programs",
         "Score": 495,
         "ServiceArea": [
-          "Halton Region",
           "Greater Toronto Area",
           "Peel Region",
-          "York Region"
+          "York Region",
+          "Halton Region"
         ],
         "Distance": 21,
         "Description": "<p>Food bank and other food programs</p><ul><li>hot meals</li><li>weekly fruit and vegetable basket deliveries to families, seniors and individuals residing in shelters</li><li>Ramadan food baskets </li><ul><li>religious and culturally appropriate food</li></ul><li>offers accommodations for dietary restrictions</li></ul><p><br /></p>",
@@ -3610,7 +3610,7 @@
         "Hours2": "Mon 0800 - 2000; Tue 1300 - 2000; Wed 0800 - 2000; Thu 0800 - 1600; Fri 0800 - 1600; Sat 0800 - 1200; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-08-14 12:15:53",
+        "UpdatedOn": "2026-08-27 13:09:12",
         "TaxonomyTerms": "Health Care - Outpatient Health Facilities - Community Clinics; Health Care - Health Supportive Services - Health Education - Chronic Disease Self Management Programs * Diabetes; Health Care - General Medical Care * Homeless People; Health Care - General Medical Care * Immigrants/Refugees; Mental Health and Substance Use Disorder Services - Substance Use Disorder Services - Supportive Substance Use Disorder Services - Drug Related Harm Reduction Programs - Drug Related Harm Reduction Supplies - Needle Exchange and Injection Supplies; Health Care - Health Screening/Diagnostic Services - Disease/Disability Specific Screening/Diagnosis - HIV Testing; Health Care - Health Screening/Diagnostic Services - Disease/Disability Specific Screening/Diagnosis - Sexually Transmitted Infection Screening; Individual and Family Life - Leisure Activities/Recreation - Parks/Recreation Areas - Camps - Day Camps; Health Care - General Medical Care * People Without Health Insurance; Health Care - Human Reproduction - Mother and Infant Care - Childbirth Education; Health Care - Human Reproduction - Mother and Infant Care - Midwifery; Health Care - Health Supportive Services - Health Education - Wellness Programs; Health Care - Specialized Treatment and Prevention - Condition Specific Treatment * Sexually Transmitted Infections; Health Care - Health Supportive Services - Medical Equipment/Supplies - Safe Sex Supplies; Health Care - Human Reproduction - Mother and Infant Care - Infant Feeding Support Programs",
         "TaxonomyCodes": "LN-1500; LH-2700.1540 * YF-3000.2440; LE * YV-3000; LE * YE-3500; RX-8470.1900-180.60; LF-4900.2400; LF-4900.8000; PL-6400.1500-180; LE * YJ-8800; LJ-5000.1500; LJ-5000.5250; LH-2700.9500; LT-1750 * YF-3000.7740; LH-5000.7850; LJ-5000.3300",
         "LastVerifiedByPhoneNumber": "Not Available",
