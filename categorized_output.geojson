@@ -3395,16 +3395,16 @@
         ],
         "Website": "https://www.revivehere.com",
         "Email": "info@revivepeel.com",
-        "Hours": "Programs hours vary, call for information; office Mon, Fri 9 am-5 pm; Tue-Wed 9 am-8 pm; Thu 9 am-6 pm",
-        "Hours2": "Mon 0900 - 1700; Tue 0900 - 2000; Wed 0900 - 2000; Thu 0900 - 1800; Fri 0900 - 1700; ",
+        "Hours": "Programs hours vary, call for information; office Mon-Fri 10 am-5 pm",
+        "Hours2": "Mon 1000 - 1700; Tue 1000 - 1700; Wed 1000 - 1700; Thu 1000 - 1700; Fri 1000 - 1700; ",
         "MinAge": "16.00",
         "MaxAge": "",
-        "UpdatedOn": "2026-02-19 11:36:45",
+        "UpdatedOn": "2026-08-31 16:35:07",
         "TaxonomyTerms": "Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Sexual Assault Counseling; Individual and Family Life - Mutual Support - Support Groups - Abuse/Violence Related Support Groups * Sexually Abused Adults; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Abuse Counseling - Child Sexual Abuse Counseling; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - Specialized Counseling Services - Human Trafficking Counselling; Organizational/Community/International Services - Information Services - Public Awareness/Education - Outreach Programs * Sexually Abused Adults; Individual and Family Life - Individual and Family Support Services - Youth Outreach Programs * Sexually Abused Children",
         "TaxonomyCodes": "RP-1400.8000-800; PN-8100.0200 * YX-0300.8100; RP-1400.8000-020.18; RP-1400.8000-327; TJ-6500.6300 * YX-0300.8100; PH-9600 * YX-0500.8000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
-        "Eligibility": "Individuals 16 years and older who identify as women or non-binary, and have experienced historical  gender based violence, sexual abuse or complex trauma or who are a victim of recent sexual assault; families of the survivor may also be eligible for service <br /> Residency Requirements: Ontario",
+        "Eligibility": "Individuals 16 years and older and have experienced historical gender based violence, sexual abuse or complex trauma or who are a victim of recent sexual assault; families of the survivor may also be eligible for service <br />\r\nResidency Requirements: Ontario",
         "AgencyClassification": "",
         "AgencyDescription": "<p>Support services including individual crisis counselling to people of all genders who are impacted by sexual violence and human trafficking<br /><br /><strong>Sexual assault centre</strong><br /></p><ul><li>clinical intervention by regulated health professionals; provincially designated Sexual Assault Centre (SAC) for Peel Region</li></ul><p><strong><strong>Enhanced Wellness Program (EWP)</strong></strong></p><ul><li>outreach program includes stabilization, case management and system navigation, and support to meet basic and other needs before intensive trauma work</li></ul><p><strong><strong>Hope On-Site</strong><br /></strong></p><ul><li>serves youth, people who are homeless, sex workers and other at-risk populations<ul><li>coping skills</li><li>social inclusion</li><li>harm reduction supplies</li><li>care kits</li><li>healthy sexuality clinic</li></ul></li></ul><p><strong>Community Support and Outreach</strong></p><ul><li>food pantry including non-perishable goods, fresh produce, personal care, household items, children's supplies</li><li>information and referral</li></ul><p><strong>Education</strong></p><ul><li>sexual violence prevention and resiliency building programs in elementary and secondary schools across Peel Region</li></ul>",
         "ParentAgency": "REVIVE",
@@ -5377,7 +5377,7 @@
           "Peel Region"
         ],
         "Distance": 10,
-        "Description": "Culturally sensitive programming to improve quality of life of Black and Caribbean seniors<br /> <ul>\t<li>congregate dining</li>\t<li>health, nutrition and well-being workshops</li>\t<li>chair exercise and yoga</li>\t<li>recreation including trips</li></ul>",
+        "Description": "<p>Culturally sensitive programming to improve quality of life of Black and Caribbean seniors<br /> </p><ul>\t<li>congregate meals</li>\t<li>health, nutrition and well-being workshops</li>\t<li>chair exercise and yoga</li>\t<li>recreation including trips</li></ul>",
         "Latitude": 43.6867469,
         "Longitude": -79.7590425,
         "PhysicalAddressStreet1": "36 Queen St E",
@@ -5395,9 +5395,15 @@
         "MailingAddressCountry": "Canada",
         "PhoneNumbers": [
           {
-            "Phone": "905-455-6789",
+            "Phone": "905-455-6789 ext 109",
             "Name": "Office",
-            "Description": "ext 109",
+            "Description": "",
+            "Type": ""
+          },
+          {
+            "Phone": "905-455-6789 ext 110",
+            "Name": "Office",
+            "Description": "",
             "Type": ""
           },
           {
@@ -5413,14 +5419,14 @@
         "Hours2": "Mon 1200 - 1600; Tue 0930 - 1400; Wed 0930 - 1400; Thu 0900 - 1600; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2025-08-19 16:01:05",
+        "UpdatedOn": "2026-08-31 14:10:21",
         "TaxonomyTerms": "Individual and Family Life - Leisure Activities/Recreation - Recreational Activities/Sports - General Recreational Activities/Sports * Older Adults; Health Care - Health Supportive Services - Health Education - Nutrition Education * Older Adults; Individual and Family Life - Social Development and Enrichment - Social Clubs/Events * Older Adults; Health Care - Health Supportive Services - Health Education - Wellness Programs * Older Adults; Basic Needs - Food - Meals - Community Meals * Older Adults; Individual and Family Life - Leisure Activities/Recreation - Travel * Older Adults",
         "TaxonomyCodes": "PL-7000.4360 * YB-8000; LH-2700.6000 * YB-8000; PS-8000 * YB-8000; LH-2700.9500 * YB-8000; BD-5000.1470 * YB-8000; PL-8700 * YB-8000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "Contact for information",
         "Eligibility": "Older adults 55 years and older",
         "AgencyClassification": "",
-        "AgencyDescription": "Culturally sensitive programming to improve quality of life of Black and Caribbean seniors<br /> <ul>\t<li>congregate dining</li>\t<li>health, nutrition and well-being workshops</li>\t<li>chair exercise and yoga</li>\t<li>recreation including trips</li></ul>",
+        "AgencyDescription": "<p>Culturally sensitive programming to improve quality of life of Black and Caribbean seniors<br /> </p><ul>\t<li>congregate meals</li>\t<li>health, nutrition and well-being workshops</li>\t<li>chair exercise and yoga</li>\t<li>recreation including trips</li></ul>",
         "ParentAgency": "Roots Community Services",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
@@ -5510,13 +5516,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
@@ -5831,7 +5837,7 @@
           "Ontario"
         ],
         "Distance": 21,
-        "Description": "Responsible alcohol sales, service and delivery training program<ul><li>individual and organization training programs</li><li>online and in-class training<br /></li><li>proctored testing</li><li>certification and recertification</li></ul><br /><strong>Smart Serve Cares, Member Assistance Program (MAP)</strong><br />Mental health counselling, support and resources for front-line hospitality and tourism workers in Ontario<ul><li>3 hours individual or couples virtual (video or phone) counselling</li><li>ongoing support<br /></li><li>valid Certificate required</li><li>access to self-guided Cognitive Behavioural Therapy (Digital CBT) learning modules, tools and coaching</li><li>online resources, articles, educational materials<br /></li><li>in partnership with Not 9 to 5 and GreenShield<br /></li></ul>",
+        "Description": "<p>Responsible alcohol sales, service and delivery training program</p><ul><li>individual and organization training programs</li><li>online and in-class training<br /></li><li>proctored testing</li><li>certification and recertification</li></ul><p><br /><strong>Smart Serve Cares, Member Assistance Program (MAP)</strong><br />Mental health counselling, support and resources for front-line hospitality and tourism workers in Ontario, in partnership with Not 9 to 5 and GreenShield</p><ul><li>3 hours individual or couples virtual (video or phone) counselling</li><li>ongoing support</li><li><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">access to self-guided Cognitive Behavioural Therapy (Digital CBT) learning modules, tools and coaching</span></li><li>online resources, articles, educational materials</li></ul>",
         "Latitude": 43.6672698,
         "Longitude": -79.5943321,
         "PhysicalAddressStreet1": "5090 Explorer Dr",
@@ -5855,7 +5861,7 @@
             "Type": ""
           },
           {
-            "Phone": "1-877-695-8737",
+            "Phone": "1-877-620-6082",
             "Name": "Toll Free",
             "Description": "Customer Service",
             "Type": "Toll Free"
@@ -5867,14 +5873,14 @@
         "Hours2": "Mon 0830 - 1630; Tue 0830 - 1630; Wed 0830 - 1630; Thu 0830 - 1630; Fri 0830 - 1630; ",
         "MinAge": "18.00",
         "MaxAge": "",
-        "UpdatedOn": "2025-08-19 15:15:15",
+        "UpdatedOn": "2026-08-31 11:19:41",
         "TaxonomyTerms": "Income Support and Employment - Employment - Employment Preparation - Occupation Specific Job Training * Food/Beverage Related Service Occupations; Consumer Services - Consumer Regulation - Licensing/Certification/Accreditation - Occupational/Professional Licensing and Certification * Food/Beverage Related Service Occupations; Mental Health and Substance Use Disorder Services - Mental Health Assessment and Treatment - Counseling Services - General Counseling Services * Food/Beverage Related Service Occupations; Organizational/Community/International Services - Information Services - Electronic Information Resources - Internet Information Resources * Food/Beverage Related Service Occupations",
         "TaxonomyCodes": "ND-2000.6400 * YO-8200.2000; DF-4500.6300 * YO-8200.2000; RP-1400.2500 * YO-8200.2000; TJ-1800.3300 * YO-8200.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Hospitality and tourism workers 18 years and older, and their families\r\n\r\nResidency Requirements: Ontario",
         "AgencyClassification": "",
-        "AgencyDescription": "Responsible alcohol sales, service and delivery training program<ul><li>individual and organization training programs</li><li>online and in-class training<br /></li><li>proctored testing</li><li>certification and recertification</li></ul><br /><strong>Smart Serve Cares, Member Assistance Program (MAP)</strong><br />Mental health counselling, support and resources for front-line hospitality and tourism workers in Ontario<ul><li>3 hours individual or couples virtual (video or phone) counselling</li><li>ongoing support<br /></li><li>valid Certificate required</li><li>access to self-guided Cognitive Behavioural Therapy (Digital CBT) learning modules, tools and coaching</li><li>online resources, articles, educational materials<br /></li><li>in partnership with Not 9 to 5 and GreenShield<br /></li></ul>",
+        "AgencyDescription": "<p>Responsible alcohol sales, service and delivery training program</p><ul><li>individual and organization training programs</li><li>online and in-class training<br /></li><li>proctored testing</li><li>certification and recertification</li></ul><p><br /><strong>Smart Serve Cares, Member Assistance Program (MAP)</strong><br />Mental health counselling, support and resources for front-line hospitality and tourism workers in Ontario, in partnership with Not 9 to 5 and GreenShield</p><ul><li>3 hours individual or couples virtual (video or phone) counselling</li><li>ongoing support</li><li><span style=\"background-color: unset; font-size: inherit; text-align: inherit;\">access to self-guided Cognitive Behavioural Therapy (Digital CBT) learning modules, tools and coaching</span></li><li>online resources, articles, educational materials</li></ul>",
         "ParentAgency": "Smart Serve Ontario",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Education Program (Communal Cooking)"
