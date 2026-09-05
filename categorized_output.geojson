@@ -3491,6 +3491,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.721826,
+          43.71977
+        ]
+      },
+      "properties": {
+        "id": 97725712,
+        "CurrentId": 97725712,
+        "ParentId": 71130114,
+        "PublicName": "Peel Region. Housing and Shelter - Wilkinson Road Shelter",
+        "Score": 105,
+        "ServiceArea": [
+          "Peel Region"
+        ],
+        "Distance": 9,
+        "Description": "<p>Emergency homeless shelter for men, includes food, access to clothing and laundry, employment and housing support, assistance applying for Ontario Works, health clinics, mental health and addiction support, life skills training, AA meetings, pastoral care, recreation</p><ul>\t<li>capacity 92</li></ul>",
+        "Latitude": 43.71977,
+        "Longitude": -79.721826,
+        "PhysicalAddressStreet1": "15 Wilkinson Rd",
+        "PhysicalAddressStreet2": "",
+        "PhysicalAddressCity": "Brampton",
+        "PhysicalAddressProvince": "ON",
+        "PhysicalAddressPostalCode": "L6T 4M3",
+        "PhysicalAddressCountry": "Canada",
+        "MailingAttentionName": "",
+        "MailingAddressStreet1": "15 Wilkinson Rd",
+        "MailingAddressStreet2": "",
+        "MailingAddressCity": "Brampton",
+        "MailingAddressProvince": "ON",
+        "MailingAddressPostalCode": "L6T 4M3",
+        "MailingAddressCountry": "Canada",
+        "PhoneNumbers": [
+          {
+            "Phone": "905-450-1996",
+            "Name": "Office",
+            "Description": "Central Intake",
+            "Type": ""
+          },
+          {
+            "Phone": "905 454-8212",
+            "Name": "Fax",
+            "Description": "",
+            "Type": "Fax"
+          }
+        ],
+        "Website": "https://peelregion.ca/housing-social-support/homeless-support/shelters",
+        "Email": "info@peelregion.ca",
+        "Hours": "Shelter Mon-Sun 24 hours",
+        "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
+        "MinAge": "25.00",
+        "MaxAge": "",
+        "UpdatedOn": "2026-09-03 15:53:39",
+        "TaxonomyTerms": "Basic Needs - Housing/Shelter - Emergency Shelter - Homeless Shelter * Men",
+        "TaxonomyCodes": "BH-1800.8500 * YS-5000.5000",
+        "LastVerifiedByPhoneNumber": "Not Available",
+        "FeeStructureSource": "None",
+        "Eligibility": "Men 25 years and older who are experiencing homelessness",
+        "AgencyClassification": "",
+        "AgencyDescription": "<p>Emergency homeless shelter for men, includes food, access to clothing and laundry, employment and housing support, assistance applying for Ontario Works, health clinics, mental health and addiction support, life skills training, AA meetings, pastoral care, recreation</p><ul>\t<li>capacity 92</li></ul>",
+        "ParentAgency": "Peel Region. Housing and Shelter",
+        "RecordOwner": "Findhelp Information Services",
+        "FoodProgram": "Food Bank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.72215,
           43.719271
         ]
@@ -3827,80 +3895,6 @@
         "AgencyClassification": "",
         "AgencyDescription": "<p>Culturally appropriate mental health, addiction, violence prevention, settlement, geriatric, youth and family services, and community and leadership development in South Asian communities, including volunteer opportunities and student placements<br /><br /><strong>Seniors and High Risk Seniors Services</strong><br />Supportive services to assist in aging at home</p><ul>\t<li>health promotion (diabetes education, tobacco prevention, healthy eating, cancer)</li>\t<li>domestic violence support and assistance</li>\t<li>women's and men's group programs</li>\t<li>group programs for youth and children</li>\t<li>parenting programs</li>\t<li>food bank services for abused women</li>\t<li>translation services</li>\t<li>resource development</li>\t<li>diversity training</li></ul><p><br /><strong>Sahara Mental Health Program</strong><br />Culturally and linguistically appropriate support for clients 16 years or over dealing with mental health challenges</p><ul>\t<li>short term and long term case management</li>\t<li>early psychosis intervention for youth and adults 14-35 years</li>\t<li>supportive counselling to clients and family members</li>\t<li>concurrent disorder support group</li>\t<li>mobile community support group</li></ul><p><br /><strong>Sahara Addiction Program</strong><br />Culturally appropriate service to individuals and family members struggling with substance abuse</p><ul>\t<li>case management</li>\t<li>addictions day program</li>\t<li>groups for men and women</li>\t<li>relapse prevention group</li>\t<li>coping skills for family members</li>\t<li>peer support program</li>\t<li>Sahara Opioid Addiction Program, including case management and prevention support group (collaboration with Home and Community Care Support Services Central West)</li></ul><p><br /><strong>Settlement Services</strong><br />Newcomer integration assistance, including information and referral, and information on training and skills development</p><ul>\t<li>orientation sessions including Canadian laws and norms</li>\t<li>assistance in filling out government forms</li>\t<li>attestation of documents</li>\t<li>translation/interpretation services</li>\t<li>supportive counselling</li></ul><p><br /><strong>Sahara Geriatric Program</strong><br />Community support for seniors 55 years and older, including case management, referrals, crisis management, caregiver support and counselling</p><ul>\t<li>Integrated Seniors Team (IST) Program in partnership with Peel Senior Link and Supportive Housing in Peel</li>\t<li>Behavioural Supports Ontario (BSO) Day Program for caregivers of adults with cognitive impairments such as dementia</li>\t<li>education, assessments and capacity development in partnership with other community agencies</li>\t<li>Senior Caregivers Support Day Program, including separate and combined groups for women and men</li></ul><p><br /><strong>Better Families Program</strong><br />Support, groups, mentoring, and referrals for youth 13-24 years and their parents in addressing issues related to healthy interactions between families and communities<br /><br /><strong>Community Development and Social Enterprise</strong><br />Leadership and community development, and civic engagement for youth and adults in South Asian communities in Malton</p>",
         "ParentAgency": "PCHS",
-        "RecordOwner": "Findhelp Information Services",
-        "FoodProgram": "Food Bank"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.702714,
-          43.690065
-        ]
-      },
-      "properties": {
-        "id": 73523437,
-        "CurrentId": 73523437,
-        "ParentId": 69800702,
-        "PublicName": "Salvation Army, Greater Toronto Housing and Homelessness Supports - Wilkinson Road Shelter",
-        "Score": 105,
-        "ServiceArea": [
-          "Peel Region"
-        ],
-        "Distance": 12,
-        "Description": "Emergency homeless shelter for men, includes food, access to clothing and laundry, employment and housing support, assistance applying for Ontario Works, health clinics, mental health and addiction support, life skills training, AA meetings, pastoral care, recreation<ul>\t<li>capacity 106</li></ul>",
-        "Latitude": 43.690065,
-        "Longitude": -79.702714,
-        "PhysicalAddressStreet1": "15 Wilkinson Rd",
-        "PhysicalAddressStreet2": "",
-        "PhysicalAddressCity": "Brampton",
-        "PhysicalAddressProvince": "ON",
-        "PhysicalAddressPostalCode": "L6T 4M3",
-        "PhysicalAddressCountry": "Canada",
-        "MailingAttentionName": "",
-        "MailingAddressStreet1": "15 Wilkinson Rd",
-        "MailingAddressStreet2": "",
-        "MailingAddressCity": "Brampton",
-        "MailingAddressProvince": "ON",
-        "MailingAddressPostalCode": "L6T 4M3",
-        "MailingAddressCountry": "Canada",
-        "PhoneNumbers": [
-          {
-            "Phone": "905-452-1335",
-            "Name": "Office",
-            "Description": "",
-            "Type": ""
-          },
-          {
-            "Phone": "905-450-1996",
-            "Name": "Crisis",
-            "Description": "Central Intake",
-            "Type": ""
-          },
-          {
-            "Phone": "905 454-8212",
-            "Name": "Fax",
-            "Description": "",
-            "Type": "Fax"
-          }
-        ],
-        "Website": "https://salvationarmy.ca/ontario",
-        "Email": "wilkinsonroad@gmail.com",
-        "Hours": "Shelter Mon-Sun 24 hours; office Mon-Fri 8 am-4 pm",
-        "Hours2": "Mon 0000 - 2400; Tue 0000 - 2400; Wed 0000 - 2400; Thu 0000 - 2400; Fri 0000 - 2400; Sat 0000 - 2400; Sun 0000 - 2400; ",
-        "MinAge": "25.00",
-        "MaxAge": "",
-        "UpdatedOn": "2026-09-02 14:56:13",
-        "TaxonomyTerms": "Basic Needs - Housing/Shelter - Emergency Shelter - Homeless Shelter * Men",
-        "TaxonomyCodes": "BH-1800.8500 * YS-5000.5000",
-        "LastVerifiedByPhoneNumber": "Not Available",
-        "FeeStructureSource": "None",
-        "Eligibility": "Men 25 years and older who are homeless or or at risk of homelessness",
-        "AgencyClassification": "",
-        "AgencyDescription": "Emergency homeless shelter for men, includes food, access to clothing and laundry, employment and housing support, assistance applying for Ontario Works, health clinics, mental health and addiction support, life skills training, AA meetings, pastoral care, recreation<ul>\t<li>capacity 106</li></ul>",
-        "ParentAgency": "Salvation Army, Greater Toronto Housing and Homelessness Supports",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
