@@ -5357,8 +5357,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.7590425,
-          43.6867469
+          -79.7592909,
+          43.6868913
         ]
       },
       "properties": {
@@ -5372,8 +5372,8 @@
         ],
         "Distance": 10,
         "Description": "<p>Culturally sensitive programming to improve quality of life of Black and Caribbean seniors<br /> </p><ul>\t<li>congregate meals</li>\t<li>health, nutrition and well-being workshops</li>\t<li>chair exercise and yoga</li>\t<li>recreation including trips</li></ul>",
-        "Latitude": 43.6867469,
-        "Longitude": -79.7590425,
+        "Latitude": 43.6868913,
+        "Longitude": -79.7592909,
         "PhysicalAddressStreet1": "36 Queen St E",
         "PhysicalAddressStreet2": "Lower Level",
         "PhysicalAddressCity": "Brampton",
