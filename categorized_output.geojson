@@ -1869,23 +1869,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.71352,
-          43.748901
+          -79.71167,
+          43.74861
         ]
       },
       "properties": {
-        "id": 69806719,
-        "CurrentId": 69806719,
-        "ParentId": 69806716,
-        "PublicName": "Brampton. Animal Services - Brampton Animal Shelter",
+        "id": 97738200,
+        "CurrentId": 97738200,
+        "ParentId": 69806698,
+        "PublicName": "Brampton, City of - Brampton Animal Shelter",
         "Score": 195,
         "ServiceArea": [
           "Brampton"
         ],
         "Distance": 8,
         "Description": "<p>Animal protection, control, enforcement and adoption services for the City of Brampton<br /><br /><strong>Services</strong></p><ul>\t<li>provides shelter for the city's unwanted and stray animals</li>\t<li>pet adoption</li>\t<li>pet licenses</li>\t<li>enforcement of all animal related by-laws</li></ul><p><strong>Emergency Pet Food Pantry</strong></p><ul>\t<li>offers between one week to one month of pet food depending on demand and donations to pet owners in need</li>\t<li>food bank is accessed by those in need or by those wishing to donate by calling Animal Services at 905-458-5800 or emailing PetFoodPantry@brampton.ca</li><li>accepts pet food donations</li></ul><p><br /> </p>",
-        "Latitude": 43.748901,
-        "Longitude": -79.71352,
+        "Latitude": 43.74861,
+        "Longitude": -79.71167,
         "PhysicalAddressStreet1": "475 Chrysler Dr",
         "PhysicalAddressStreet2": "",
         "PhysicalAddressCity": "Brampton",
@@ -1919,7 +1919,7 @@
         "Hours2": "Mon 0700 - 2300; Tue 0700 - 2300; Wed 0700 - 2300; Thu 0700 - 2300; Fri 0700 - 2300; Sat 0700 - 2300; Sun 0700 - 2300; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-09-22 14:01:36",
+        "UpdatedOn": "2026-09-23 15:26:19",
         "TaxonomyTerms": "Individual and Family Life - Domestic Animal Services - Animal Regulation; Individual and Family Life - Domestic Animal Services - Protective Services for Animals; Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Administrative Entities - City Government Departments/Offices * Animal/Pet Issues; Individual and Family Life - Domestic Animal Services - Pet Care Services - Pet Food",
         "TaxonomyCodes": "PD-0700; PD-7600; TD-0300.1200 * YZ-0450; PD-6250.6600",
         "LastVerifiedByPhoneNumber": "Not Available",
@@ -1927,7 +1927,7 @@
         "Eligibility": "Some services have eligibility requirements; contact for details",
         "AgencyClassification": "",
         "AgencyDescription": "<p>Animal protection, control, enforcement and adoption services for the City of Brampton<br /><br /><strong>Services</strong></p><ul>\t<li>provides shelter for the city's unwanted and stray animals</li>\t<li>pet adoption</li>\t<li>pet licenses</li>\t<li>enforcement of all animal related by-laws</li></ul><p><strong>Emergency Pet Food Pantry</strong></p><ul>\t<li>offers between one week to one month of pet food depending on demand and donations to pet owners in need</li>\t<li>food bank is accessed by those in need or by those wishing to donate by calling Animal Services at 905-458-5800 or emailing PetFoodPantry@brampton.ca</li><li>accepts pet food donations</li></ul><p><br /> </p>",
-        "ParentAgency": "Brampton. Animal Services",
+        "ParentAgency": "Brampton, City of",
         "RecordOwner": "Findhelp Information Services",
         "FoodProgram": "Food Bank"
       }
@@ -5492,13 +5492,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
