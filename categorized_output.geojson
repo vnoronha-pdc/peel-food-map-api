@@ -2642,9 +2642,9 @@
         "Hours2": "Mon 0900 - 1700; Tue 0900 - 1700; Wed 0900 - 1700; Thu 0900 - 1700; Fri 0900 - 1700; Sat 0900 - 1700; ",
         "MinAge": "",
         "MaxAge": "",
-        "UpdatedOn": "2026-10-06 13:53:35",
-        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries; Basic Needs - Food - Emergency Food - Food Pantries * Abused Women; Basic Needs - Food - Emergency Food - Food Pantries * Muslim Community",
-        "TaxonomyCodes": "BD-1800.2000; BD-1800.2000 * YX-0300.0190; BD-1800.2000 * YR-5000",
+        "UpdatedOn": "2026-10-23 17:14:16",
+        "TaxonomyTerms": "Basic Needs - Food - Emergency Food - Food Pantries",
+        "TaxonomyCodes": "BD-1800.2000",
         "LastVerifiedByPhoneNumber": "Not Available",
         "FeeStructureSource": "None",
         "Eligibility": "Individuals and families facing food insecurity; specific eligibility criteria may apply, contact for information",
@@ -5556,13 +5556,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
+          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough",
-          "Etobicoke"
+          "Scarborough"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
