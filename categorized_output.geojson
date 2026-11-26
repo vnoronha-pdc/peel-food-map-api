@@ -2673,7 +2673,7 @@
       "properties": {
         "id": 97616912,
         "CurrentId": 97616912,
-        "ParentId": 97616907,
+        "ParentId": 86818008,
         "PublicName": "Victorian Order of Nurses - Community Support Services",
         "Score": 190,
         "ServiceArea": [
@@ -4876,7 +4876,7 @@
       "properties": {
         "id": 97617186,
         "CurrentId": 97617186,
-        "ParentId": 97617171,
+        "ParentId": 73550874,
         "PublicName": "Ontario Health atHome - Ontario Health atHome, Mississauga Office",
         "Score": 105,
         "ServiceArea": [
@@ -5425,13 +5425,13 @@
         "PublicName": "Langar Seva Meal and Support Services",
         "Score": 80,
         "ServiceArea": [
-          "Etobicoke",
           "Brampton",
           "Mississauga",
           "Oakville",
           "Pickering",
           "York Region",
-          "Scarborough"
+          "Scarborough",
+          "Etobicoke"
         ],
         "Distance": 12,
         "Description": "Home delivery of Punjabi vegetarian meals -- up to 5 meals delivered once a week on Saturday or Sunday<ul>\t<li>also reassurance phone calls, friendly visits</li></ul>",
@@ -5526,7 +5526,7 @@
         "Hours2": "Fri 1000 - 1600; ",
         "MinAge": "55.00",
         "MaxAge": "",
-        "UpdatedOn": "2026-04-19 15:39:50",
+        "UpdatedOn": "2026-11-25 14:47:46",
         "TaxonomyTerms": "Organizational/Community/International Services - Community Groups and Government/Administrative Offices - Community Action/Social Advocacy Groups - Human Rights Groups - Senior Advocacy Groups; Individual and Family Life - Leisure Activities/Recreation - Recreational/Leisure/Arts Instruction - Computer Literacy Training Programs * Older Adults; Individual and Family Life - Leisure Activities/Recreation - Recreational Activities/Sports - General Recreational Activities/Sports * Older Adults; Criminal Justice and Legal Services - Legal Assistance Modalities - Advocacy - Group Advocacy * Older Adults; Organizational/Community/International Services - Community Facilities/Centers - Multipurpose Centers - Senior Centers; Individual and Family Life - Social Development and Enrichment - Social Clubs/Events * Older Adults; Basic Needs - Food - Meals - Senior Meals",
         "TaxonomyCodes": "TD-1600.3100-800; PL-7400.1500 * YB-8000; PL-7000.4360 * YB-8000; FP-0500.2500 * YB-8000; TC-5500.8000; PS-8000 * YB-8000; BD-5000.1500",
         "LastVerifiedByPhoneNumber": "Not Available",
